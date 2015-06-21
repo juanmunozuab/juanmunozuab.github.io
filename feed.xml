@@ -2,68 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">El sitio de Juan</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
-<link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2015-06-21T13:46:18-04:00</updated>
-<id>http://localhost:4000/</id>
+<link rel="self" type="application/atom+xml" href="juanmunozuab.github.io/feed.xml" />
+<link rel="alternate" type="text/html" href="juanmunozuab.github.io" />
+<updated>2015-06-21T15:20:58-04:00</updated>
+<id>juanmunozuab.github.io/</id>
 <author>
   <name>Juan Muñoz</name>
-  <uri>http://localhost:4000/</uri>
+  <uri>juanmunozuab.github.io/</uri>
   <email>you@email.com</email>
 </author>
 
 
 <entry>
-  <title type="html"><![CDATA[Dilema del Prisionero]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/flash/prisionero/" />
-  <id>http://localhost:4000/flash/prisionero</id>
-  <published>2015-06-26T07:15:02-04:00</published>
-  <updated>2015-06-26T07:15:02-04:00</updated>
-  <author>
-    <name>Juan Muñoz</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
-  </author>
-  <content type="html">
-    &lt;p&gt;Juego tipo “dilema del prisionero&lt;/p&gt;
-&lt;div id=&quot;flashcontent-wrapper&quot; style=&quot;width: 100%; height: 100%&quot;&gt;
-&lt;div id=&quot;flashcontent&quot; style=&quot;width: 100%; height:100%&quot;&gt;Flash Player required.&lt;/div&gt;
-&lt;/div&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-//  &lt;![CDATA[
-var flashvars = {};
-var params = {};
-var attributes = {};
-swfobject.embedSWF(
-&#39;/images/animaciones/Prisionero.swf&#39;,
-&#39;flashcontent&#39;,
-&#39;100%&#39;,
-&#39;100%&#39;,
-&#39;10.0&#39;,
-null,
-flashvars,
-params,
-attributes,
-null
-);
-// ]]&gt;
-&lt;/script&gt;
-
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/flash/prisionero/&quot;&gt;Dilema del Prisionero&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
-  </content>
-</entry>
-
-
-<entry>
   <title type="html"><![CDATA[Postales kitsch]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/galeria/postales/" />
-  <id>http://localhost:4000/galeria/postales</id>
+ <link rel="alternate" type="text/html" href="juanmunozuab.github.io/galeria/postales/" />
+  <id>juanmunozuab.github.io/galeria/postales</id>
   <published>2015-06-26T07:15:02-04:00</published>
   <updated>2015-06-26T07:15:02-04:00</updated>
   <author>
     <name>Juan Muñoz</name>
-    <uri>http://localhost:4000</uri>
+    <uri>juanmunozuab.github.io</uri>
     <email>you@email.com</email>
   </author>
   <content type="html">
@@ -211,104 +169,20 @@ null
 &lt;/figure&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/galeria/postales/&quot;&gt;Postales kitsch&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
-  </content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Percepción social]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/flash/percepcionsoc/" />
-  <id>http://localhost:4000/flash/percepcionsoc</id>
-  <published>2015-06-26T07:15:02-04:00</published>
-  <updated>2015-06-26T07:15:02-04:00</updated>
-  <author>
-    <name>Juan Muñoz</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
-  </author>
-  <content type="html">
-    &lt;p&gt;Presentación sobre percepción social&lt;/p&gt;
-&lt;div id=&quot;flashcontent-wrapper&quot; style=&quot;width: 100%; height: 100%&quot;&gt;
-&lt;div id=&quot;flashcontent&quot; style=&quot;width: 100%; height:100%&quot;&gt;Flash Player required.&lt;/div&gt;
-&lt;/div&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-//  &lt;![CDATA[
-var flashvars = {};
-var params = {};
-var attributes = {};
-swfobject.embedSWF(
-&#39;/images/animaciones/PercepcionSoc.swf&#39;,
-&#39;flashcontent&#39;,
-&#39;100%&#39;,
-&#39;100%&#39;,
-&#39;10.0&#39;,
-null,
-flashvars,
-params,
-attributes,
-null
-);
-// ]]&gt;
-&lt;/script&gt;
-
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/flash/percepcionsoc/&quot;&gt;Percepción social&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
-  </content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Percepción]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/flash/percepcion/" />
-  <id>http://localhost:4000/flash/percepcion</id>
-  <published>2015-06-26T07:15:02-04:00</published>
-  <updated>2015-06-26T07:15:02-04:00</updated>
-  <author>
-    <name>Juan Muñoz</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
-  </author>
-  <content type="html">
-    &lt;p&gt;Descripción&lt;/p&gt;
-&lt;div id=&quot;flashcontent-wrapper&quot; style=&quot;width: 100%; height: 100%&quot;&gt;
-&lt;div id=&quot;flashcontent&quot; style=&quot;width: 100%; height:100%&quot;&gt;Flash Player required.&lt;/div&gt;
-&lt;/div&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-//  &lt;![CDATA[
-var flashvars = {};
-var params = {};
-var attributes = {};
-swfobject.embedSWF(
-&#39;/images/animaciones/Percepcion.swf&#39;,
-&#39;flashcontent&#39;,
-&#39;100%&#39;,
-&#39;100%&#39;,
-&#39;10.0&#39;,
-null,
-flashvars,
-params,
-attributes,
-null
-);
-// ]]&gt;
-&lt;/script&gt;
-
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/flash/percepcion/&quot;&gt;Percepción&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;juanmunozuab.github.io/galeria/postales/&quot;&gt;Postales kitsch&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;juanmunozuab.github.io&quot;&gt;El sitio de Juan&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Objetos kitsch]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/galeria/objetos/" />
-  <id>http://localhost:4000/galeria/objetos</id>
+ <link rel="alternate" type="text/html" href="juanmunozuab.github.io/galeria/objetos/" />
+  <id>juanmunozuab.github.io/galeria/objetos</id>
   <published>2015-06-26T07:15:02-04:00</published>
   <updated>2015-06-26T07:15:02-04:00</updated>
   <author>
     <name>Juan Muñoz</name>
-    <uri>http://localhost:4000</uri>
+    <uri>juanmunozuab.github.io</uri>
     <email>you@email.com</email>
   </author>
   <content type="html">
@@ -340,20 +214,20 @@ null
 &lt;/figure&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/galeria/objetos/&quot;&gt;Objetos kitsch&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;juanmunozuab.github.io/galeria/objetos/&quot;&gt;Objetos kitsch&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;juanmunozuab.github.io&quot;&gt;El sitio de Juan&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Luchadores]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/galeria/luchadores/" />
-  <id>http://localhost:4000/galeria/luchadores</id>
+ <link rel="alternate" type="text/html" href="juanmunozuab.github.io/galeria/luchadores/" />
+  <id>juanmunozuab.github.io/galeria/luchadores</id>
   <published>2015-06-26T07:15:02-04:00</published>
   <updated>2015-06-26T07:15:02-04:00</updated>
   <author>
     <name>Juan Muñoz</name>
-    <uri>http://localhost:4000</uri>
+    <uri>juanmunozuab.github.io</uri>
     <email>you@email.com</email>
   </author>
   <content type="html">
@@ -375,146 +249,20 @@ null
 &lt;/figure&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/galeria/luchadores/&quot;&gt;Luchadores&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
-  </content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Liderazgo]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/flash/liderazgo/" />
-  <id>http://localhost:4000/flash/liderazgo</id>
-  <published>2015-06-26T07:15:02-04:00</published>
-  <updated>2015-06-26T07:15:02-04:00</updated>
-  <author>
-    <name>Juan Muñoz</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
-  </author>
-  <content type="html">
-    &lt;p&gt;Descripción&lt;/p&gt;
-&lt;div id=&quot;flashcontent-wrapper&quot; style=&quot;width: 100%; height: 100%&quot;&gt;
-&lt;div id=&quot;flashcontent&quot; style=&quot;width: 100%; height:100%&quot;&gt;Flash Player required.&lt;/div&gt;
-&lt;/div&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-//  &lt;![CDATA[
-var flashvars = {};
-var params = {};
-var attributes = {};
-swfobject.embedSWF(
-&#39;/images/animaciones/Liderazgo.swf&#39;,
-&#39;flashcontent&#39;,
-&#39;100%&#39;,
-&#39;100%&#39;,
-&#39;10.0&#39;,
-null,
-flashvars,
-params,
-attributes,
-null
-);
-// ]]&gt;
-&lt;/script&gt;
-
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/flash/liderazgo/&quot;&gt;Liderazgo&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
-  </content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[El Farmacéutico]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/flash/farmaceutico/" />
-  <id>http://localhost:4000/flash/farmaceutico</id>
-  <published>2015-06-26T07:15:02-04:00</published>
-  <updated>2015-06-26T07:15:02-04:00</updated>
-  <author>
-    <name>Juan Muñoz</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
-  </author>
-  <content type="html">
-    &lt;p&gt;Descripción&lt;/p&gt;
-&lt;div id=&quot;flashcontent-wrapper&quot; style=&quot;width: 100%; height: 100%&quot;&gt;
-&lt;div id=&quot;flashcontent&quot; style=&quot;width: 100%; height:100%&quot;&gt;Flash Player required.&lt;/div&gt;
-&lt;/div&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-//  &lt;![CDATA[
-var flashvars = {};
-var params = {};
-var attributes = {};
-swfobject.embedSWF(
-&#39;/images/animaciones/Farmaceutico.swf&#39;,
-&#39;flashcontent&#39;,
-&#39;100%&#39;,
-&#39;100%&#39;,
-&#39;10.0&#39;,
-null,
-flashvars,
-params,
-attributes,
-null
-);
-// ]]&gt;
-&lt;/script&gt;
-
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/flash/farmaceutico/&quot;&gt;El Farmacéutico&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
-  </content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Comunicación]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/flash/comunicacion/" />
-  <id>http://localhost:4000/flash/comunicacion</id>
-  <published>2015-06-26T07:15:02-04:00</published>
-  <updated>2015-06-26T07:15:02-04:00</updated>
-  <author>
-    <name>Juan Muñoz</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
-  </author>
-  <content type="html">
-    &lt;p&gt;Redes de comunicación&lt;/p&gt;
-&lt;div id=&quot;flashcontent-wrapper&quot; style=&quot;width: 100%; height: 100%&quot;&gt;
-&lt;div id=&quot;flashcontent&quot; style=&quot;width: 100%; height:100%&quot;&gt;Flash Player required.&lt;/div&gt;
-&lt;/div&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-//  &lt;![CDATA[
-var flashvars = {};
-var params = {};
-var attributes = {};
-swfobject.embedSWF(
-&#39;/images/animaciones/Comunicacion.swf&#39;,
-&#39;flashcontent&#39;,
-&#39;100%&#39;,
-&#39;100%&#39;,
-&#39;10.0&#39;,
-null,
-flashvars,
-params,
-attributes,
-null
-);
-// ]]&gt;
-&lt;/script&gt;
-
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/flash/comunicacion/&quot;&gt;Comunicación&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;juanmunozuab.github.io/galeria/luchadores/&quot;&gt;Luchadores&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;juanmunozuab.github.io&quot;&gt;El sitio de Juan&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Citas bibliográficas]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/blog/citas-bibliograficas/" />
-  <id>http://localhost:4000/blog/citas-bibliograficas</id>
+ <link rel="alternate" type="text/html" href="juanmunozuab.github.io/blog/citas-bibliograficas/" />
+  <id>juanmunozuab.github.io/blog/citas-bibliograficas</id>
   <published>2015-02-24T06:15:02-05:00</published>
   <updated>2015-02-24T06:15:02-05:00</updated>
   <author>
     <name>Juan Muñoz</name>
-    <uri>http://localhost:4000</uri>
+    <uri>juanmunozuab.github.io</uri>
     <email>you@email.com</email>
   </author>
   <content type="html">
@@ -526,20 +274,20 @@ null
 
 &lt;p&gt;&lt;img src=&quot;http://cdn7.neoscientia.com/wp-content/uploads/2015/02/citas-bibliogr%C3%A1ficas-infograf%C3%ADas.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/citas-bibliograficas/&quot;&gt;Citas bibliográficas&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on February 24, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;juanmunozuab.github.io/blog/citas-bibliograficas/&quot;&gt;Citas bibliográficas&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;juanmunozuab.github.io&quot;&gt;El sitio de Juan&lt;/a&gt; on February 24, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Conocimiento abierto y tecnología]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/articles/conocimiento-y-tecnologia/" />
-  <id>http://localhost:4000/articles/conocimiento-y-tecnologia</id>
+ <link rel="alternate" type="text/html" href="juanmunozuab.github.io/articles/conocimiento-y-tecnologia/" />
+  <id>juanmunozuab.github.io/articles/conocimiento-y-tecnologia</id>
   <published>2014-09-10T00:00:00-04:00</published>
   <updated>2014-09-10T00:00:00-04:00</updated>
   <author>
     <name>Juan Muñoz</name>
-    <uri>http://localhost:4000</uri>
+    <uri>juanmunozuab.github.io</uri>
     <email>you@email.com</email>
   </author>
   <content type="html">
@@ -872,20 +620,20 @@ En ambos casos, como un valor añadido, todos los objetos que se depositan tendr
   &lt;/ol&gt;
 &lt;/div&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/conocimiento-y-tecnologia/&quot;&gt;Conocimiento abierto y tecnología&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on September 10, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;juanmunozuab.github.io/articles/conocimiento-y-tecnologia/&quot;&gt;Conocimiento abierto y tecnología&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;juanmunozuab.github.io&quot;&gt;El sitio de Juan&lt;/a&gt; on September 10, 2014.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Post with a Background Image]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/background-image/" />
-  <id>http://localhost:4000/background-image</id>
+ <link rel="alternate" type="text/html" href="juanmunozuab.github.io/background-image/" />
+  <id>juanmunozuab.github.io/background-image</id>
   <published>2013-10-26T00:00:00-04:00</published>
   <updated>2013-10-26T00:00:00-04:00</updated>
   <author>
     <name>Juan Muñoz</name>
-    <uri>http://localhost:4000</uri>
+    <uri>juanmunozuab.github.io</uri>
     <email>you@email.com</email>
   </author>
   <content type="html">
@@ -902,21 +650,21 @@ En ambos casos, como un valor añadido, todos los objetos que se depositan tendr
 
 &lt;div xmlns:cc=&quot;http://creativecommons.org/ns#&quot; xmlns:dct=&quot;http://purl.org/dc/terms/&quot; about=&quot;http://subtlepatterns.com&quot; class=&quot;notice&quot;&gt;Background images from &lt;span property=&quot;dct:title&quot;&gt;Subtle Patterns&lt;/span&gt; (&lt;a rel=&quot;cc:attributionURL&quot; property=&quot;cc:attributionName&quot; href=&quot;http://subtlepatterns.com&quot;&gt;Subtle Patterns&lt;/a&gt;) / &lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by-sa/3.0/&quot;&gt;CC BY-SA 3.0&lt;/a&gt;&lt;/div&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/background-image/&quot;&gt;Post with a Background Image&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on October 26, 2013.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;juanmunozuab.github.io/background-image/&quot;&gt;Post with a Background Image&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;juanmunozuab.github.io&quot;&gt;El sitio de Juan&lt;/a&gt; on October 26, 2013.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Syntax Highlighting Post]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/code-highlighting-post/" />
-  <id>http://localhost:4000/code-highlighting-post</id>
+ <link rel="alternate" type="text/html" href="juanmunozuab.github.io/code-highlighting-post/" />
+  <id>juanmunozuab.github.io/code-highlighting-post</id>
   <updated>2014-12-23T00:00:00-00:00</updated>
   <published>2013-08-16T00:00:00-04:00</published>
   
   <author>
     <name>Juan Muñoz</name>
-    <uri>http://localhost:4000</uri>
+    <uri>juanmunozuab.github.io</uri>
     <email>you@email.com</email>
   </author>
   <content type="html">
@@ -1027,7 +775,7 @@ end
   &lt;/ol&gt;
 &lt;/div&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/code-highlighting-post/&quot;&gt;Syntax Highlighting Post&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on August 16, 2013.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;juanmunozuab.github.io/code-highlighting-post/&quot;&gt;Syntax Highlighting Post&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;juanmunozuab.github.io&quot;&gt;El sitio de Juan&lt;/a&gt; on August 16, 2013.&lt;/p&gt;
   </content>
 </entry>
 
@@ -1035,31 +783,31 @@ end
 <entry>
   <title type="html"><![CDATA[Sample Link Post]]></title>
  <link rel="alternate" type="text/html" href="http://mademistakes.com" />
-  <id>http://localhost:4000/sample-link-post</id>
+  <id>juanmunozuab.github.io/sample-link-post</id>
   <published>2013-08-12T00:00:00-04:00</published>
   <updated>2013-08-12T00:00:00-04:00</updated>
   <author>
     <name>Juan Muñoz</name>
-    <uri>http://localhost:4000</uri>
+    <uri>juanmunozuab.github.io</uri>
     <email>you@email.com</email>
   </author>
   <content type="html">
     &lt;p&gt;This theme supports &lt;strong&gt;link posts&lt;/strong&gt;, made famous by John Gruber. To use, just add &lt;code&gt;link: http://url-you-want-linked&lt;/code&gt; to the post’s YAML front matter and you’re done.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/sample-link-post/&quot;&gt;Sample Link Post&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on August 12, 2013.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;juanmunozuab.github.io/sample-link-post/&quot;&gt;Sample Link Post&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;juanmunozuab.github.io&quot;&gt;El sitio de Juan&lt;/a&gt; on August 12, 2013.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[A Post with a Video]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/video-post/" />
-  <id>http://localhost:4000/video-post</id>
+ <link rel="alternate" type="text/html" href="juanmunozuab.github.io/video-post/" />
+  <id>juanmunozuab.github.io/video-post</id>
   <published>2013-06-25T00:00:00-04:00</published>
   <updated>2013-06-25T00:00:00-04:00</updated>
   <author>
     <name>Juan Muñoz</name>
-    <uri>http://localhost:4000</uri>
+    <uri>juanmunozuab.github.io</uri>
     <email>you@email.com</email>
   </author>
   <content type="html">
@@ -1071,21 +819,21 @@ end
 
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;iframe&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;560&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;315&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;//www.youtube.com/embed/SU3kYxJmWuQ&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;frameborder=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;0&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/video-post/&quot;&gt;A Post with a Video&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on June 25, 2013.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;juanmunozuab.github.io/video-post/&quot;&gt;A Post with a Video&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;juanmunozuab.github.io&quot;&gt;El sitio de Juan&lt;/a&gt; on June 25, 2013.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Post with Large Feature Image and Text]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/readability-feature-post/" />
-  <id>http://localhost:4000/readability-feature-post</id>
+ <link rel="alternate" type="text/html" href="juanmunozuab.github.io/readability-feature-post/" />
+  <id>juanmunozuab.github.io/readability-feature-post</id>
   <updated>2013-06-30T00:00:00-00:00</updated>
   <published>2013-05-23T00:00:00-04:00</published>
   
   <author>
     <name>Juan Muñoz</name>
-    <uri>http://localhost:4000</uri>
+    <uri>juanmunozuab.github.io</uri>
     <email>you@email.com</email>
   </author>
   <content type="html">
@@ -1130,20 +878,20 @@ end
 
 &lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/readability-feature-post/&quot;&gt;Post with Large Feature Image and Text&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on May 23, 2013.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;juanmunozuab.github.io/readability-feature-post/&quot;&gt;Post with Large Feature Image and Text&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;juanmunozuab.github.io&quot;&gt;El sitio de Juan&lt;/a&gt; on May 23, 2013.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[A Post with Images]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/sample-post-images/" />
-  <id>http://localhost:4000/sample-post-images</id>
+ <link rel="alternate" type="text/html" href="juanmunozuab.github.io/sample-post-images/" />
+  <id>juanmunozuab.github.io/sample-post-images</id>
   <published>2013-05-22T00:00:00-04:00</published>
   <updated>2013-05-22T00:00:00-04:00</updated>
   <author>
     <name>Juan Muñoz</name>
-    <uri>http://localhost:4000</uri>
+    <uri>juanmunozuab.github.io</uri>
     <email>you@email.com</email>
   </author>
   <content type="html">
@@ -1258,63 +1006,63 @@ Available values: [1..3].&lt;/li&gt;
 &lt;/figure&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/sample-post-images/&quot;&gt;A Post with Images&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on May 22, 2013.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;juanmunozuab.github.io/sample-post-images/&quot;&gt;A Post with Images&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;juanmunozuab.github.io&quot;&gt;El sitio de Juan&lt;/a&gt; on May 22, 2013.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Guía de herramientas Moodle 2.0]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/herramientas-moodle/" />
-  <id>http://localhost:4000/herramientas-moodle</id>
+ <link rel="alternate" type="text/html" href="juanmunozuab.github.io/herramientas-moodle/" />
+  <id>juanmunozuab.github.io/herramientas-moodle</id>
   <updated>2014-12-24T00:00:00-00:00</updated>
   <published>2013-05-16T00:00:00-04:00</published>
   
   <author>
     <name>Juan Muñoz</name>
-    <uri>http://localhost:4000</uri>
+    <uri>juanmunozuab.github.io</uri>
     <email>you@email.com</email>
   </author>
   <content type="html">
     &lt;p&gt;Interesante &lt;a href=&quot;http://www.scribd.com/doc/90669679&quot;&gt;guía de posibles usos de las herramientas Moodle&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;iframe src=&quot;http://www.scribd.com/embeds/90669679/content?start_page=1&amp;amp;view_mode=scroll&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; width=&quot;100%&quot; height=&quot;600&quot; class=&quot;scribd_iframe_embed&quot; data-auto-height=&quot;false&quot; data-aspect-ratio=&quot;undefined&quot; id=&quot;doc_76917&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/herramientas-moodle/&quot;&gt;Guía de herramientas Moodle 2.0&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on May 16, 2013.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;juanmunozuab.github.io/herramientas-moodle/&quot;&gt;Guía de herramientas Moodle 2.0&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;juanmunozuab.github.io&quot;&gt;El sitio de Juan&lt;/a&gt; on May 16, 2013.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Research with Atlas.ti]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/research-with-atlas/" />
-  <id>http://localhost:4000/research-with-atlas</id>
+ <link rel="alternate" type="text/html" href="juanmunozuab.github.io/research-with-atlas/" />
+  <id>juanmunozuab.github.io/research-with-atlas</id>
   <updated>2014-12-24T00:00:00-00:00</updated>
   <published>2012-10-31T00:00:00-04:00</published>
   
   <author>
     <name>Juan Muñoz</name>
-    <uri>http://localhost:4000</uri>
+    <uri>juanmunozuab.github.io</uri>
     <email>you@email.com</email>
   </author>
   <content type="html">
     &lt;p&gt;En el último número de la &lt;a href=&quot;http://www.atlasti.com/newsletter.html&quot;&gt;newsletter&lt;/a&gt; de ATLAS.ti podemos encontrar un breve texto de Christina Herkommer en el que explica cómo utilizó Atlas.ti para el análisis de datos de su tesis. Aunque simple, puede ser de ayuda para aquellas personas que tengan dudas sobre la conveniencia o no de la utilización de software para el análisis.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/research-with-atlas/&quot;&gt;Research with Atlas.ti&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on October 31, 2012.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;juanmunozuab.github.io/research-with-atlas/&quot;&gt;Research with Atlas.ti&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;juanmunozuab.github.io&quot;&gt;El sitio de Juan&lt;/a&gt; on October 31, 2012.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Milgram en el S. XXI (2)]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/milgram-sxxi-2/" />
-  <id>http://localhost:4000/milgram-sxxi-2</id>
+ <link rel="alternate" type="text/html" href="juanmunozuab.github.io/milgram-sxxi-2/" />
+  <id>juanmunozuab.github.io/milgram-sxxi-2</id>
   <updated>2014-12-24T00:00:00-00:00</updated>
   <published>2012-10-03T00:00:00-04:00</published>
   
   <author>
     <name>Juan Muñoz</name>
-    <uri>http://localhost:4000</uri>
+    <uri>juanmunozuab.github.io</uri>
     <email>you@email.com</email>
   </author>
   <content type="html">
@@ -1398,7 +1146,403 @@ El estudio, aunque muy parecido, no es una réplica exacta de Milgram, puesto qu
 
 &lt;p&gt;{youtube}P7CPKPQV6jc{/youtube}&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/milgram-sxxi-2/&quot;&gt;Milgram en el S. XXI (2)&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on October 03, 2012.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;juanmunozuab.github.io/milgram-sxxi-2/&quot;&gt;Milgram en el S. XXI (2)&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;juanmunozuab.github.io&quot;&gt;El sitio de Juan&lt;/a&gt; on October 03, 2012.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Milgram en el S. XXI (1)]]></title>
+ <link rel="alternate" type="text/html" href="juanmunozuab.github.io/milgram-sxxi-1/" />
+  <id>juanmunozuab.github.io/milgram-sxxi-1</id>
+  <updated>2014-12-24T00:00:00-00:00</updated>
+  <published>2012-10-03T00:00:00-04:00</published>
+  
+  <author>
+    <name>Juan Muñoz</name>
+    <uri>juanmunozuab.github.io</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Desde que en los años 60 Stanley Milgram realizara sus famosas investigaciones sobre obediencia a la autoridad, se han llevado a cabo diversas réplicas de las mismas. una de las más recientes es la que realiza en el año 2009, Jerry Burger.&lt;/p&gt;
+
+&lt;h1 id=&quot;el-experimento-de-burger&quot;&gt;El experimento de Burger&lt;/h1&gt;
+
+&lt;p&gt;Burger, J. M. (2009). Replicating Milgram. Would People Still Obey Today? American Psychologist, 64(1), 1–11.&lt;/p&gt;
+
+&lt;p&gt;El objetivo principal del autor es comprobar si se observarán resultados similares de influencia 45 años después de las investigaciones de Milgram, algo que cree que no ocurrirá, puesto que opina que las fuerzas situacionales operarán de la misma forma que entonces.&lt;/p&gt;
+
+&lt;p&gt;“Blass (2004) found no evidence for a change in obedience over time when reviewing studies patterned on Milgram’s procedures. I predicted that any differences in obedience between the 1961-1962 participants (Milgram, 1963) and the 2006 participants would be minimal. Although changes in societal attitudes could have an impact on obedience, I argue that the question about changes over time may represent another example of the fundamental attribution error. That is, rather than acknowledging the power of the situational forces set in motion in Milgram’s procedure, those who suggest changes in obedience-proneness over time may be too focused on the individual. There is no reason to think that the situational features described earlier would not still be operating 45 years after Milgram’s investigations.” (Burger, 2009, p. 4)&lt;/p&gt;
+
+&lt;p&gt;El experimento que lleva a cabo se basa en la condición experimental 5 de Milgram (el supuesto alumno manifiesta que hace unos años le detectaron un pequeño problema de corazón)&lt;/p&gt;
+
+&lt;p&gt;Para solventar los problemas éticos que conlleva un experimento de este tipo, Burger adopta varias medidas.&lt;/p&gt;
+
+&lt;p&gt;La principal consiste en modificar el nivel de descarga máximo que podía dar efectivamente cada participante. El autor plantea que el momento crítico en los experimentos de Milgran se produce en el nivel de descarga de 150v., puesto que es la primera ocasión en el que el alumno manifiesta que no quiere continuar y pide que se de por finalizada la investigación y es el momento del experimento en que normalmente el participante real plantea dudas sobre continuar. Los resultados de Milgram indican que el 78% de los participantes que superan el nivel de 150v. llegan hasta administrar la descarga de 450v. (26 de 33). Esto permite a Burger plantear que por lo tanto no es necesario someter a los participantes a la extrema tensión en la que se encuentran pasado este nivel puesto que es posible hacer predicciones sobre lo que harían pasado ese punto.&lt;/p&gt;
+
+&lt;p&gt;Las otras consisten en, por una parte, insistirles en tres ocasiones (dos de ellas por escrito) que pueden abandonar el experimento en cualquier momento y que aún así recibirán el pago de los 50$ que se les ofrece por participar en la investigación. Además, el debriefing se produce inmediatamente después de la finalización del experimento.&lt;/p&gt;
+
+&lt;p&gt;Se realizan dos versiones del experimento, como decía, la primera es similar al experimento 5 de Milgram, mientras que en una segunda condición el participante real observará cómo otra persona se niega, a partir de un determinado punto, a dar descargas. Esta condición pretende comprobar si la presencia de un modelo no obediente proporciona al participante, información sobre la conducta adecuada en una situación de este tipo (posibilidad de desobediencia). El procedimiento utilizado en esta condición consiste en que el trabajo de maestro se reparte entre dos personas, el participante real y otro cómplice (del mismo sexo que el participante). El cómplice es el encargado de iniciar la tarea de aprendizaje, leyendo las palabras y administrando las descargas, pero se niega a continuar tras administrar la descarga de 150v. En ese momento, el experimentador le pide al participante que continúe el con la tarea.&lt;/p&gt;
+
+&lt;p&gt;En ambos casos (condición base y condición desobediente) participan hombres (n=29) y mujeres (n=41) que previamente a la realización del experimento responden a unas escalas para medir su “empatía disposicional” (capacidad de empatizar con el sufrimiento del alumno) y “motivación de control” (motivación a ejercer control y tomar las propias decisiones). Se espera que en ambos casos una puntuación alta disminuya la obediencia.&lt;/p&gt;
+
+&lt;p&gt;Se realizan dos versiones del experimento, como decía, la primera es similar al experimento 5 de Milgram, mientras que en una segunda condición el participante real observará cómo otra persona se niega, a partir de un determinado punto, a dar descargas. Esta condición pretende comprobar si la presencia de un modelo no obediente proporciona al participante, información sobre la conducta adecuada en una situación de este tipo (posibilidad de desobediencia). El procedimiento utilizado en esta condición consiste en que el trabajo de maestro se reparte entre dos personas, el participante real y otro cómplice (del mismo sexo que el participante). El cómplice es el encargado de iniciar la tarea de aprendizaje, leyendo las palabras y administrando las descargas, pero se niega a continuar tras administrar la descarga de 150v. En ese momento, el experimentador le pide al participante que continúe el con la tarea.&lt;/p&gt;
+
+&lt;p&gt;En ambos casos (condición base y condición desobediente) participan hombres (n=29) y mujeres (n=41) que previamente a la realización del experimento responden a unas escalas para medir su “empatía disposicional” (capacidad de empatizar con el sufrimiento del alumno) y “motivación de control” (motivación a ejercer control y tomar las propias decisiones). Se espera que en ambos casos una puntuación alta disminuya la obediencia.&lt;/p&gt;
+
+&lt;h2 id=&quot;resultados&quot;&gt;Resultados&lt;/h2&gt;
+
+&lt;p&gt;El porcentaje de personas obedientes, es decir, que siguen dando (o pretenden hacerlo) descargas después del nivel de 150v., es de 70% en la condición base y de 63% en la condición modelo desobediente. Estos resultados muestran que en ambas condiciones se produce un menor nivel de obediencia que el obtenidos por Milgram en su experimento 5, en el que un 82,5% de los participantes dieron descargas de más de 150v. Sin embargo, aunque inferiorees, no hay diferencias estadísticamente significativas entre ninguna de las condiciones de Berger y la de Milgram.&lt;/p&gt;
+
+&lt;p&gt;En la gráfica siguiente podemos ver los resultados en función de la condición experimental y del sexo, tampoco se encuentra diferencias significativas ni entre condiciones ni entre sexos. Por último, tampoco se encuentran diferencias en función de las variables de personalidad mencionadas anteriormente.&lt;/p&gt;
+
+&lt;p&gt;Berger-Res-01&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusiones&quot;&gt;Conclusiones&lt;/h2&gt;
+
+&lt;p&gt;Dado que se encuentran niveles similares a Milgram, afirma que (aunque no puede existir la certeza de que los que superan los 150. hubieran llegado hasta los 450) a pesar de haber pasado 45 años y se hayan producido importantes cambios en la sociedad, los factores situacionales presentes en la investigación de Milgram, siguen ejerciendo influencia.&lt;/p&gt;
+
+&lt;p&gt;El resultado más sorprendente es que no haya diferencias entre la condición base y la condición modelo desobediente, lo que para Berger es una demostración del poder de las fuerzas situacionales.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;juanmunozuab.github.io/milgram-sxxi-1/&quot;&gt;Milgram en el S. XXI (1)&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;juanmunozuab.github.io&quot;&gt;El sitio de Juan&lt;/a&gt; on October 03, 2012.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Atlas.ti 7]]></title>
+ <link rel="alternate" type="text/html" href="juanmunozuab.github.io/atlas7/" />
+  <id>juanmunozuab.github.io/atlas7</id>
+  <updated>2014-12-24T00:00:00-00:00</updated>
+  <published>2012-06-12T00:00:00-04:00</published>
+  
+  <author>
+    <name>Juan Muñoz</name>
+    <uri>juanmunozuab.github.io</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Ya está disponible la esperada versión 7 de Atlas.ti.&lt;/p&gt;
+
+&lt;p&gt;Como siempre, puede descargarse la versión demo desde www.atlasti.com&lt;/p&gt;
+
+&lt;p&gt;Sólo he podido probrarlo por encima, pero entre las novedades destacan una forma diferente de gestionar los documentos (todavía tengo que explorar bien cómo funciona) , que se pueden añadir desde bibliotecas personales o de equipo.&lt;/p&gt;
+
+&lt;p&gt;Otro cambio apreciable tiene que ver con la posibilidad de visualizar, en la parte izquierda de la pantalla, el equivalente a los actuales manager (que siguen existiendo), pudiendo seleccionar la visualización simultánea de dos de ellos, (de cualquier tipo: documentos, citas, códigos, anotaciones y networks).&lt;/p&gt;
+
+&lt;p&gt;Los manager clásicos también cambian algo, puesto que entre la información que se visualiza, aparece una nueva zona de la ventana en la que aparecen las listas de familias (las que corresponda), pudiendo aplicar filtros desde esa misma zona.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;juanmunozuab.github.io/atlas7/&quot;&gt;Atlas.ti 7&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;juanmunozuab.github.io&quot;&gt;El sitio de Juan&lt;/a&gt; on June 12, 2012.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Sincronización texto-audio]]></title>
+ <link rel="alternate" type="text/html" href="juanmunozuab.github.io/sincronizacion-texto-audio/" />
+  <id>juanmunozuab.github.io/sincronizacion-texto-audio</id>
+  <updated>2014-12-24T00:00:00-00:00</updated>
+  <published>2012-05-29T00:00:00-04:00</published>
+  
+  <author>
+    <name>Juan Muñoz</name>
+    <uri>juanmunozuab.github.io</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Al realizar un análisis con Atlas.ti, si disponemos de archivos de texto y su equivalente en audio y/o vídeo, tenemos la opción de sincronizar ambos archivos de forma que seleccionando un fragmento de texto podamos automáticamente oír/ver su equivalente multimedia. Esto nos permitirá, entre otras cosas, ahorrarnos la utilización de convenciones de transcripción.
+Para realizar la sincronización utilizando las herramientas de Atlas.ti, en primer lugar tendremos que realizar el proceso de asignación de documentos de la forma habitual, asignando tanto el documento de texto como el documento de audio.&lt;/p&gt;
+
+&lt;p&gt;Una vez asignados los documentos seleccionamos uno de ellos, por ejemplo el documento textual y (sólo después de haber realizado la selección de forma que lo veamos en pantalla) en el menú A-Docs seleccionamos la opción Edit Association y seleccionamos  la opción Association → Insert Primary Document, que hará que quede seleccionado el documento activo en ese momento en la ventana principal.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Asociation-Editor-Insert&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Repetiremos el mismo proceso con el documento de audio (activación del documento en la pantalla principal, y Association → Insert Primary Document). Si hemos realizado bien los pasos, observaremos que ahora en la ventana del editor de asociaciones tenemos la referencia a los dos archivos que hemos “insertado”.
+Ahora ya podemos proceder a realizar la sincronización. Para ello utilizaremos los botones del editor de asociaciones para reproducir el archivo sonoro e insertar las marcas de tiempo en la ubicación adecuada.
+La estrategia que sugerimos es visualizar en la pantalla principal el archivo de texto y ubicar el cursor al el inicio del mismo e insertar una primera marca de tiempo. A continuación clicamos sobre el icono de reproducción y escuchamos por ejemplo hasta el final del primer párrafo, momento en el cual volvemos a clicar para pausar la reproducción. En la pantalla de texto ubicamos el cursor al final de ese párrafo y apretamos la tecla “F8” (o el icono del editor de asociaciones), con lo que aparecerá un punto rojo en esa posición señalando la existencia de una marca de tiempo. Repetiremos el proceso hasta finalizar la sincronización del documento completo.&lt;/p&gt;
+
+&lt;p&gt;Sincronizacion&lt;/p&gt;
+
+&lt;p&gt;Ahora ya podemos utilizar las opciones de sincronización de Atlas.ti. Para ello, volveremos al menú A-Docs para seleccionar la forma de reproducción del texto. Si lo que queremos es ir escuchando el archivo de audio y al mismo tiempo que queden resaltados los fragmentos de texto correspondientes, tendremos que seleccionar la opción “Karaoke”. Entre las opciones de “Text” de este menú vemos que podemos seleccionar que, al reproducir el audio, quede resaltada la sección, la línea, etc. (Si queremos que quede marcado el texto entre dos marcas temporales seleccionaremos la opción “Highlight Section”).&lt;/p&gt;
+
+&lt;p&gt;Ahora ya sólo tenemos que seleccionar la opción Play-Pause y… magia.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;juanmunozuab.github.io/sincronizacion-texto-audio/&quot;&gt;Sincronización texto-audio&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;juanmunozuab.github.io&quot;&gt;El sitio de Juan&lt;/a&gt; on May 29, 2012.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Testing Readability with a Bunch of Text]]></title>
+ <link rel="alternate" type="text/html" href="juanmunozuab.github.io/readability-post/" />
+  <id>juanmunozuab.github.io/readability-post</id>
+  <published>2012-05-22T00:00:00-04:00</published>
+  <updated>2012-05-22T00:00:00-04:00</updated>
+  <author>
+    <name>Juan Muñoz</name>
+    <uri>juanmunozuab.github.io</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage. Odio ad blue bottle vinyl, 90’s narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney’s. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.&lt;/p&gt;
+
+&lt;p&gt;Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.&lt;/p&gt;
+
+&lt;h2 id=&quot;cupidatat-90s-lo-fi-authentic-try-hard&quot;&gt;Cupidatat 90’s lo-fi authentic try-hard&lt;/h2&gt;
+
+&lt;p&gt;In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. Terry Richardson shabby chic +1, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. Farm-to-table hashtag Truffaut, Odd Future ex meggings gentrify single-origin coffee try-hard 90’s.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sartorial hoodie&lt;/li&gt;
+  &lt;li&gt;Labore viral forage&lt;/li&gt;
+  &lt;li&gt;Tote bag selvage&lt;/li&gt;
+  &lt;li&gt;DIY exercitation et id ugh tumblr church-key&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Incididunt umami sriracha, ethical fugiat VHS ex assumenda yr irure direct trade. Marfa Truffaut bicycle rights, kitsch placeat Etsy kogi asymmetrical. Beard locavore flexitarian, kitsch photo booth hoodie plaid ethical readymade leggings yr.&lt;/p&gt;
+
+&lt;p&gt;Aesthetic odio dolore, meggings disrupt qui readymade stumptown brunch Terry Richardson pour-over gluten-free. Banksy american apparel in selfies, biodiesel flexitarian organic meh wolf quinoa gentrify banjo kogi. Readymade tofu ex, scenester dolor umami fingerstache occaecat fashion axe Carles jean shorts minim. Keffiyeh fashion axe nisi Godard mlkshk dolore. Lomo you probably haven’t heard of them eu non, Odd Future Truffaut pug keytar meggings McSweeney’s Pinterest cred. Etsy literally aute esse, eu bicycle rights qui meggings fanny pack. Gentrify leggings pug flannel duis.&lt;/p&gt;
+
+&lt;h2 id=&quot;forage-occaecat-cardigan-qui&quot;&gt;Forage occaecat cardigan qui&lt;/h2&gt;
+
+&lt;p&gt;Fashion axe hella gastropub lo-fi kogi 90’s aliquip +1 veniam delectus tousled. Cred sriracha locavore gastropub kale chips, iPhone mollit sartorial. Anim dolore 8-bit, pork belly dolor photo booth aute flannel small batch. Dolor disrupt ennui, tattooed whatever salvia Banksy sartorial roof party selfies raw denim sint meh pour-over. Ennui eu cardigan sint, gentrify iPhone cornhole.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Whatever velit occaecat quis deserunt gastropub, leggings elit tousled roof party 3 wolf moon kogi pug blue bottle ea. Fashion axe shabby chic Austin quinoa pickled laborum bitters next level, disrupt deep v accusamus non fingerstache.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Tote bag asymmetrical elit sunt. Occaecat authentic Marfa, hella McSweeney’s next level irure veniam master cleanse. Sed hoodie letterpress artisan wolf leggings, 3 wolf moon commodo ullamco. Anim occupy ea labore Terry Richardson. Tofu ex master cleanse in whatever pitchfork banh mi, occupy fugiat fanny pack Austin authentic. Magna fugiat 3 wolf moon, labore McSweeney’s sustainable vero consectetur. Gluten-free disrupt enim, aesthetic fugiat jean shorts trust fund keffiyeh magna try-hard.&lt;/p&gt;
+
+&lt;h2 id=&quot;hoodie-duis&quot;&gt;Hoodie Duis&lt;/h2&gt;
+
+&lt;p&gt;Actually salvia consectetur, hoodie duis lomo YOLO sunt sriracha. Aute pop-up brunch farm-to-table odio, salvia irure occaecat. Sriracha small batch literally skateboard. Echo Park nihil hoodie, aliquip forage artisan laboris. Trust fund reprehenderit nulla locavore. Stumptown raw denim kitsch, keffiyeh nulla twee dreamcatcher fanny pack ullamco 90’s pop-up est culpa farm-to-table. Selfies 8-bit do pug odio.&lt;/p&gt;
+
+&lt;h3 id=&quot;thundercats-ho&quot;&gt;Thundercats Ho!&lt;/h3&gt;
+
+&lt;p&gt;Fingerstache thundercats Williamsburg, deep v scenester Banksy ennui vinyl selfies mollit biodiesel duis odio pop-up. Banksy 3 wolf moon try-hard, sapiente enim stumptown deep v ad letterpress. Squid beard brunch, exercitation raw denim yr sint direct trade. Raw denim narwhal id, flannel DIY McSweeney’s seitan. Letterpress artisan bespoke accusamus, meggings laboris consequat Truffaut qui in seitan. Sustainable cornhole Schlitz, twee Cosby sweater banh mi deep v forage letterpress flannel whatever keffiyeh. Sartorial cred irure, semiotics ethical sed blue bottle nihil letterpress.&lt;/p&gt;
+
+&lt;p&gt;Occupy et selvage squid, pug brunch blog nesciunt hashtag mumblecore skateboard yr kogi. Ugh small batch swag four loko. Fap post-ironic qui tote bag farm-to-table american apparel scenester keffiyeh vero, swag non pour-over gentrify authentic pitchfork. Schlitz scenester lo-fi voluptate, tote bag irony bicycle rights pariatur vero Vice freegan wayfarers exercitation nisi shoreditch. Chambray tofu vero sed. Street art swag literally leggings, Cosby sweater mixtape PBR lomo Banksy non in pitchfork ennui McSweeney’s selfies. Odd Future Banksy non authentic.&lt;/p&gt;
+
+&lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;juanmunozuab.github.io/readability-post/&quot;&gt;Testing Readability with a Bunch of Text&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;juanmunozuab.github.io&quot;&gt;El sitio de Juan&lt;/a&gt; on May 22, 2012.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Sample Post]]></title>
+ <link rel="alternate" type="text/html" href="juanmunozuab.github.io/sample-post/" />
+  <id>juanmunozuab.github.io/sample-post</id>
+  <updated>2014-12-24T00:00:00-00:00</updated>
+  <published>2011-03-10T00:00:00-05:00</published>
+  
+  <author>
+    <name>Juan Muñoz</name>
+    <uri>juanmunozuab.github.io</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.&lt;/p&gt;
+
+&lt;h1 id=&quot;heading-1&quot;&gt;Heading 1&lt;/h1&gt;
+
+&lt;h2 id=&quot;heading-2&quot;&gt;Heading 2&lt;/h2&gt;
+
+&lt;h3 id=&quot;heading-3&quot;&gt;Heading 3&lt;/h3&gt;
+
+&lt;h4 id=&quot;heading-4&quot;&gt;Heading 4&lt;/h4&gt;
+
+&lt;h5 id=&quot;heading-5&quot;&gt;Heading 5&lt;/h5&gt;
+
+&lt;h6 id=&quot;heading-6&quot;&gt;Heading 6&lt;/h6&gt;
+
+&lt;h3 id=&quot;body-text&quot;&gt;Body text&lt;/h3&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, test link adipiscing elit. &lt;strong&gt;This is strong&lt;/strong&gt;. Nullam dignissim convallis est. Quisque aliquam.&lt;/p&gt;
+
+&lt;p class=&quot;image-right&quot;&gt;&lt;img src=&quot;juanmunozuab.github.io/images/3953273590_704e3899d5_m.jpg&quot; alt=&quot;Smithsonian Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This is emphasized&lt;/em&gt;. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H&lt;sub&gt;2&lt;/sub&gt;O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times &lt;cite&gt;(That’s a citation)&lt;/cite&gt;. &lt;u&gt;Underline&lt;/u&gt;. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.&lt;/p&gt;
+
+&lt;p&gt;HTML and &lt;abbr title=&quot;cascading stylesheets&quot;&gt;CSS&lt;abbr&gt; are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.&lt;/abbr&gt;&lt;/abbr&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;blockquotes&quot;&gt;Blockquotes&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;list-types&quot;&gt;List Types&lt;/h2&gt;
+
+&lt;h3 id=&quot;ordered-lists&quot;&gt;Ordered Lists&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Item one
+    &lt;ol&gt;
+      &lt;li&gt;sub item one&lt;/li&gt;
+      &lt;li&gt;sub item two&lt;/li&gt;
+      &lt;li&gt;sub item three&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Item two&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;unordered-lists&quot;&gt;Unordered Lists&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Item one&lt;/li&gt;
+  &lt;li&gt;Item two&lt;/li&gt;
+  &lt;li&gt;Item three&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tables&quot;&gt;Tables&lt;/h2&gt;
+
+&lt;table rules=&quot;groups&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Header1&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Header2&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Header3&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;cell1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cell2&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;cell3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;cell4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cell5&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;cell6&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;cell1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cell2&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;cell3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;cell4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cell5&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;cell6&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tfoot&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Foot1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Foot2&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Foot3&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tfoot&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;code-snippets&quot;&gt;Code Snippets&lt;/h2&gt;
+
+&lt;p&gt;Syntax highlighting via Pygments&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nf&quot;&gt;#container&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;float&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;-240px&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Non Pygments code example&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;div id=&quot;awesome&quot;&amp;gt;
+    &amp;lt;p&amp;gt;This is great isn&#39;t it?&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&quot;buttons&quot;&gt;Buttons&lt;/h2&gt;
+
+&lt;p&gt;Make any link standout more when applying the &lt;code&gt;.btn&lt;/code&gt; class.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;#&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;btn btn-success&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Success Button&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn&quot;&gt;Primary Button&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-success&quot;&gt;Success Button&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-warning&quot;&gt;Warning Button&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-danger&quot;&gt;Danger Button&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-info&quot;&gt;Info Button&lt;/a&gt;&lt;/div&gt;
+
+    &lt;p&gt;&lt;a href=&quot;juanmunozuab.github.io/sample-post/&quot;&gt;Sample Post&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;juanmunozuab.github.io&quot;&gt;El sitio de Juan&lt;/a&gt; on March 10, 2011.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Sincronización texto-audio con F4]]></title>
+ <link rel="alternate" type="text/html" href="juanmunozuab.github.io/atlasti-grep-2/" />
+  <id>juanmunozuab.github.io/atlasti-grep-2</id>
+  <updated>2014-12-24T00:00:00-00:00</updated>
+  <published>2010-07-19T00:00:00-04:00</published>
+  
+  <author>
+    <name>Juan Muñoz</name>
+    <uri>juanmunozuab.github.io</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Cuando hacemos una investigación con datos basados en entrevistas, habitualmente disponemos de dos formatos de datos: el registro en audio y la transcripción en texto. Dos formatos que, como sabemos, podemos utilizar como fuentes de datos en Atlas.ti.&lt;/p&gt;
+
+&lt;p&gt;No hablaré aquí de la posibilidad de realizar el análisis directamente sobre el archivo de audio, algo teóricamente posible utilizando Atlas.ti (pero a lo que yo no me atrevo), sino de la posibilidad de sincronizar audio y texto de forma que podamos “escuchar lo que leemos”.&lt;/p&gt;
+
+&lt;p&gt;Si alguien se pregunta (espero que no) para qué podemos querer algo así, le podemos contestar con otra pregunta “¿para qué se utilizan las ‘convenciones de transcripción’?”. Evidentemente la respuesta en ambos casos es que nuestro análisis será mejor cuanto más nos acerquemos a la “realidad” de los datos.&lt;/p&gt;
+
+&lt;p&gt;Aunque esta sincronización es algo que ya podíamos hacer con versiones anteriores de Atlas.ti, la versión 6 del programa nos ofrece la posibilidad de hacerlo de una forma mucho más cómoda, sobre todo si nos ayudamos de otro software, del programa de transcripción F4…&lt;/p&gt;
+
+&lt;p&gt;Aunque ya había hablado de este programa, explicaré aquí con algo más de detalle los pasos a seguir.&lt;/p&gt;
+
+&lt;p&gt;F4-001&lt;/p&gt;
+
+&lt;p&gt;F4-002&lt;/p&gt;
+
+&lt;p&gt;F4-003&lt;/p&gt;
+
+&lt;p&gt;En primer lugar, una vez que hemos abierto el programa, tenemos que añadir el archivo de audio desde el menú “Audio File”, y posteriormente seleccionar un archivo de texto con la transcripción correspondiente a ese audio desde el menú “File -&amp;gt; Open Transcript” (aunque evidentemente el progama está pensado para realizar con él la transcripción, en esta expliación partiremos de una transcripción existente)&lt;/p&gt;
+
+&lt;p&gt;Una vez que hemos cargado ambos archivos, la apariencia de la ventana del programa será la siguiente&lt;/p&gt;
+
+&lt;p&gt;F4-005&lt;/p&gt;
+
+&lt;p&gt;1: Información de los archivos de audio y texto seleccionados&lt;/p&gt;
+
+&lt;p&gt;2: Botón de reproducción/pausa del archivo de audio (también tecla F4)&lt;/p&gt;
+
+&lt;p&gt;3: Posición en el archivo de audio&lt;/p&gt;
+
+&lt;p&gt;4: Botón de inserción de marca de tiempo (también tecla F8)&lt;/p&gt;
+
+&lt;p&gt;Ahora ya sólo tenemos que reproducir el archivo de audio (tecla F4) y situarnos en el texto en las posiciones en las que querramos ubicar una marca de tiempo. Así, si por ejemplo el segundo 11 del audio se corresponde con el final del primer párrafo de la transcripción, nos situaremos en el texto al final del primer párrafo y cuando en la reproducción se alcance el segundo 11 podemos insertar la marca de tiempo utilizando la tecla F8.&lt;/p&gt;
+
+&lt;p&gt;Una vez que hemos “marcado” todo nuestro documento, ya podemos guardar la transcripción. Lo conveniente es guardarla con un nombre diferente, de forma que mantengamos la versión original sin marcas de tiempo y la versión con marcas de tiempo.&lt;/p&gt;
+
+&lt;p&gt;Si ahora abrimos nuestro nuevo archivo desde un editor de texto, podremos ver cómo se han incorporado las marcas de tiempo.&lt;/p&gt;
+
+&lt;p&gt;F4-006&lt;/p&gt;
+
+&lt;p&gt;El siguiente paso será incorporar el texto y el audio en Atlas.ti.&lt;/p&gt;
+
+&lt;p&gt;F4-007Dado que se trata de un archivo especial, la forma de asignar los documentos primarios será diferente a la que utilizamos habitualmente, es decir, en vez de utilizar la opción “Documents -&amp;gt; Assign” tendremos que utilizar una de las nuevas funcionalidades de Atlas.ti, la de importar documentos F4 desde el menú “A-Docs”.&lt;/p&gt;
+
+&lt;p&gt;Al realizar la importación seleccionaremos únicamente el archivo de texto con las marcas de tiempo, y Atlas.ti realizará automáticamente la asignación del archivo de audio correspondiente.&lt;/p&gt;
+
+&lt;p&gt;De todas formas, aunque en nuestra lista de documentos primarios encontraremos tanto el archivo de texto como el de audio, observaremos que, además, el programa habrá creado una nueva memo con el documento de texto. Es decir, en la práctica, Atlas.ti importa el documento de texto como una nueva memo y posteriormente utiliza esa memo como documento primario.&lt;/p&gt;
+
+&lt;p&gt;En la imagen siguiente podemos ver el resultado. Los puntos rojos que vemos en la ventana de documento primario se corresponden con las marcas de tiempo.&lt;/p&gt;
+
+&lt;p&gt;F4-008&lt;/p&gt;
+
+&lt;p&gt;F4-009Ahora ya podemos utilizar las opciones de sincronización de Atlas.ti. Para ello, volveremos al menú A-Docs para seleccionar la forma de reproducción del texto. Si lo que queremos es ir escuchando el archivo de audio y al mismo tiempo que queden resaltados los fragmentos de texto correspondientes, tendremos que seleccionar la opción “Karaoke”. Entre las opciones de “Text” de este menú vemos que podemos seleccionar que, al reproducir el audio, quede resaltada la sección, la línea, etc. (Si queremos que quede marcado el texto entre dos marcas temporales seleccionaremos la opción “Highlight Section”).&lt;/p&gt;
+
+&lt;p&gt;Ahora ya sólo tenemos que seleccionar la opción Play-Pause y… magia.&lt;/p&gt;
+
+&lt;p&gt;Si lo que queremos es ir escuchando el archivo de audio y al mismo tiempo que queden resaltados los fragmentos de texto correspondientes, tendremos que seleccionar la opción “Karaoke”.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;juanmunozuab.github.io/atlasti-grep-2/&quot;&gt;Sincronización texto-audio con F4&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;juanmunozuab.github.io&quot;&gt;El sitio de Juan&lt;/a&gt; on July 19, 2010.&lt;/p&gt;
   </content>
 </entry>
 
