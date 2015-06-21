@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<root>
+	<base>
+		<data value="1c" />
+		<data value="5c" />
+		<data value="10c"/>
+		<data value="25c" />
+		<data value="50" />
+	</base>
+	<record value="Ricos: Moneda ausente" color="0xCCCC00">
+		<data value="2.6" />
+		<data value="19.8"/>
+		<data value="7.8"/>
+		<data value="28.3"/>
+		<data value="34.7"/>
+	</record>
+		<record value="Pobres: Moneda ausente" color="0xCC00CC">
+		<data value="11.8" />
+		<data value="19.4"/>
+		<data value="15.4"/>
+		<data value="37.3"/>
+		<data value="36.9"/>
+	</record>
+	<record value="Círculos cartón" color="0x00CCCC">
+		<data value="-5.4" />
+		<data value="-0.9"/>
+		<data value="-1.5"/>
+		<data value="1.8"/>
+		<data value="-0.8"/>
+	</record>
+
+</root>

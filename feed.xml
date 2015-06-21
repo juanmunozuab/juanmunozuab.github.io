@@ -1,0 +1,1405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">El sitio de Juan</title>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2015-06-21T13:46:18-04:00</updated>
+<id>http://localhost:4000/</id>
+<author>
+  <name>Juan Muñoz</name>
+  <uri>http://localhost:4000/</uri>
+  <email>you@email.com</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[Dilema del Prisionero]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/flash/prisionero/" />
+  <id>http://localhost:4000/flash/prisionero</id>
+  <published>2015-06-26T07:15:02-04:00</published>
+  <updated>2015-06-26T07:15:02-04:00</updated>
+  <author>
+    <name>Juan Muñoz</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Juego tipo “dilema del prisionero&lt;/p&gt;
+&lt;div id=&quot;flashcontent-wrapper&quot; style=&quot;width: 100%; height: 100%&quot;&gt;
+&lt;div id=&quot;flashcontent&quot; style=&quot;width: 100%; height:100%&quot;&gt;Flash Player required.&lt;/div&gt;
+&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+//  &lt;![CDATA[
+var flashvars = {};
+var params = {};
+var attributes = {};
+swfobject.embedSWF(
+&#39;/images/animaciones/Prisionero.swf&#39;,
+&#39;flashcontent&#39;,
+&#39;100%&#39;,
+&#39;100%&#39;,
+&#39;10.0&#39;,
+null,
+flashvars,
+params,
+attributes,
+null
+);
+// ]]&gt;
+&lt;/script&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/flash/prisionero/&quot;&gt;Dilema del Prisionero&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Postales kitsch]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/galeria/postales/" />
+  <id>http://localhost:4000/galeria/postales</id>
+  <published>2015-06-26T07:15:02-04:00</published>
+  <updated>2015-06-26T07:15:02-04:00</updated>
+  <author>
+    <name>Juan Muñoz</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Postales Kitsch que hemos ido recopilando a lo largo de los años gracias a las aportaciones de “amigos/as”. Puedes verlas en directo si pasas por el despacho b5-034 .&lt;/p&gt;
+
+&lt;figure class=&quot;third&quot;&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-000.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-000.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-001.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-001.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-002.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-002.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-003.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-003.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-004.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-004.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-005.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-005.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-006.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-006.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-007.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-007.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-008.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-008.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-009.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-009.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-010.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-010.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-011.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-011.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-012.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-012.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-013.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-013.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-014.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-014.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-015.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-015.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-016.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-016.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-017.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-017.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-018.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-018.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-019.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-019.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-020.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-020.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-021.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-021.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-022.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-022.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-023.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-023.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-024.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-024.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-025.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-025.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-026.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-026.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-027.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-027.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-028.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-028.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-029.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-029.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-030.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-030.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-031.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-031.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-032.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-032.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-033.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-033.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-034.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-034.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-035.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-035.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-036.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-036.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-037.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-037.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-038.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-038.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-039.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-039.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-040.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-040.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-041.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-041.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-042.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-042.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-043.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-043.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-044.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-044.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-045.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-045.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-046.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-046.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-047.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-047.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-048.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-048.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-049.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-049.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-050.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-050.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-051.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-051.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-052.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-052.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-053.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-053.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-054.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-054.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-055.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-055.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-056.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-056.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-057.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-057.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-058.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-058.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-059.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-059.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-060.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-060.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-061.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-061.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-062.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-062.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-063.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-063.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-064.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-064.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-065.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-065.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-066.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-066.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postales-067.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postales-067.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/galeria/postales/&quot;&gt;Postales kitsch&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Percepción social]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/flash/percepcionsoc/" />
+  <id>http://localhost:4000/flash/percepcionsoc</id>
+  <published>2015-06-26T07:15:02-04:00</published>
+  <updated>2015-06-26T07:15:02-04:00</updated>
+  <author>
+    <name>Juan Muñoz</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Presentación sobre percepción social&lt;/p&gt;
+&lt;div id=&quot;flashcontent-wrapper&quot; style=&quot;width: 100%; height: 100%&quot;&gt;
+&lt;div id=&quot;flashcontent&quot; style=&quot;width: 100%; height:100%&quot;&gt;Flash Player required.&lt;/div&gt;
+&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+//  &lt;![CDATA[
+var flashvars = {};
+var params = {};
+var attributes = {};
+swfobject.embedSWF(
+&#39;/images/animaciones/PercepcionSoc.swf&#39;,
+&#39;flashcontent&#39;,
+&#39;100%&#39;,
+&#39;100%&#39;,
+&#39;10.0&#39;,
+null,
+flashvars,
+params,
+attributes,
+null
+);
+// ]]&gt;
+&lt;/script&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/flash/percepcionsoc/&quot;&gt;Percepción social&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Percepción]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/flash/percepcion/" />
+  <id>http://localhost:4000/flash/percepcion</id>
+  <published>2015-06-26T07:15:02-04:00</published>
+  <updated>2015-06-26T07:15:02-04:00</updated>
+  <author>
+    <name>Juan Muñoz</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Descripción&lt;/p&gt;
+&lt;div id=&quot;flashcontent-wrapper&quot; style=&quot;width: 100%; height: 100%&quot;&gt;
+&lt;div id=&quot;flashcontent&quot; style=&quot;width: 100%; height:100%&quot;&gt;Flash Player required.&lt;/div&gt;
+&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+//  &lt;![CDATA[
+var flashvars = {};
+var params = {};
+var attributes = {};
+swfobject.embedSWF(
+&#39;/images/animaciones/Percepcion.swf&#39;,
+&#39;flashcontent&#39;,
+&#39;100%&#39;,
+&#39;100%&#39;,
+&#39;10.0&#39;,
+null,
+flashvars,
+params,
+attributes,
+null
+);
+// ]]&gt;
+&lt;/script&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/flash/percepcion/&quot;&gt;Percepción&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Objetos kitsch]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/galeria/objetos/" />
+  <id>http://localhost:4000/galeria/objetos</id>
+  <published>2015-06-26T07:15:02-04:00</published>
+  <updated>2015-06-26T07:15:02-04:00</updated>
+  <author>
+    <name>Juan Muñoz</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Objetos Kitsch que hemos ido recopilando a lo largo de los años gracias a las aportaciones de “amigos/as”. Puedes verlos en directo si pasas por el despacho b5-034.&lt;/p&gt;
+
+&lt;figure class=&quot;third&quot;&gt;
+    
+    &lt;a href=&quot;/images/kitsch/objetos-000.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/objetos-000.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/objetos-001.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/objetos-001.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/objetos-002.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/objetos-002.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/objetos-003.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/objetos-003.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/objetos-004.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/objetos-004.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/objetos-005.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/objetos-005.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/objetos-006.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/objetos-006.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/objetos-007.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/objetos-007.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/objetos-008.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/objetos-008.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/objetos-009.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/objetos-009.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/galeria/objetos/&quot;&gt;Objetos kitsch&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Luchadores]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/galeria/luchadores/" />
+  <id>http://localhost:4000/galeria/luchadores</id>
+  <published>2015-06-26T07:15:02-04:00</published>
+  <updated>2015-06-26T07:15:02-04:00</updated>
+  <author>
+    <name>Juan Muñoz</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Postales Kitsch que hemos ido recopilando a lo largo de los años gracias a las aportaciones de “amigos/as”. Puedes verlas en directo si pasas por el despacho b5-034 .&lt;/p&gt;
+
+&lt;figure class=&quot;third&quot;&gt;
+    
+    &lt;a href=&quot;/images/kitsch/luchadores-01.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/luchadores-01.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/luchadores-02.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/luchadores-02.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/luchadores-03.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/luchadores-03.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/luchadores-04.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/luchadores-04.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/luchadores-05.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/luchadores-05.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/galeria/luchadores/&quot;&gt;Luchadores&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Liderazgo]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/flash/liderazgo/" />
+  <id>http://localhost:4000/flash/liderazgo</id>
+  <published>2015-06-26T07:15:02-04:00</published>
+  <updated>2015-06-26T07:15:02-04:00</updated>
+  <author>
+    <name>Juan Muñoz</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Descripción&lt;/p&gt;
+&lt;div id=&quot;flashcontent-wrapper&quot; style=&quot;width: 100%; height: 100%&quot;&gt;
+&lt;div id=&quot;flashcontent&quot; style=&quot;width: 100%; height:100%&quot;&gt;Flash Player required.&lt;/div&gt;
+&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+//  &lt;![CDATA[
+var flashvars = {};
+var params = {};
+var attributes = {};
+swfobject.embedSWF(
+&#39;/images/animaciones/Liderazgo.swf&#39;,
+&#39;flashcontent&#39;,
+&#39;100%&#39;,
+&#39;100%&#39;,
+&#39;10.0&#39;,
+null,
+flashvars,
+params,
+attributes,
+null
+);
+// ]]&gt;
+&lt;/script&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/flash/liderazgo/&quot;&gt;Liderazgo&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[El Farmacéutico]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/flash/farmaceutico/" />
+  <id>http://localhost:4000/flash/farmaceutico</id>
+  <published>2015-06-26T07:15:02-04:00</published>
+  <updated>2015-06-26T07:15:02-04:00</updated>
+  <author>
+    <name>Juan Muñoz</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Descripción&lt;/p&gt;
+&lt;div id=&quot;flashcontent-wrapper&quot; style=&quot;width: 100%; height: 100%&quot;&gt;
+&lt;div id=&quot;flashcontent&quot; style=&quot;width: 100%; height:100%&quot;&gt;Flash Player required.&lt;/div&gt;
+&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+//  &lt;![CDATA[
+var flashvars = {};
+var params = {};
+var attributes = {};
+swfobject.embedSWF(
+&#39;/images/animaciones/Farmaceutico.swf&#39;,
+&#39;flashcontent&#39;,
+&#39;100%&#39;,
+&#39;100%&#39;,
+&#39;10.0&#39;,
+null,
+flashvars,
+params,
+attributes,
+null
+);
+// ]]&gt;
+&lt;/script&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/flash/farmaceutico/&quot;&gt;El Farmacéutico&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Comunicación]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/flash/comunicacion/" />
+  <id>http://localhost:4000/flash/comunicacion</id>
+  <published>2015-06-26T07:15:02-04:00</published>
+  <updated>2015-06-26T07:15:02-04:00</updated>
+  <author>
+    <name>Juan Muñoz</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Redes de comunicación&lt;/p&gt;
+&lt;div id=&quot;flashcontent-wrapper&quot; style=&quot;width: 100%; height: 100%&quot;&gt;
+&lt;div id=&quot;flashcontent&quot; style=&quot;width: 100%; height:100%&quot;&gt;Flash Player required.&lt;/div&gt;
+&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+//  &lt;![CDATA[
+var flashvars = {};
+var params = {};
+var attributes = {};
+swfobject.embedSWF(
+&#39;/images/animaciones/Comunicacion.swf&#39;,
+&#39;flashcontent&#39;,
+&#39;100%&#39;,
+&#39;100%&#39;,
+&#39;10.0&#39;,
+null,
+flashvars,
+params,
+attributes,
+null
+);
+// ]]&gt;
+&lt;/script&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/flash/comunicacion/&quot;&gt;Comunicación&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Citas bibliográficas]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/blog/citas-bibliograficas/" />
+  <id>http://localhost:4000/blog/citas-bibliograficas</id>
+  <published>2015-02-24T06:15:02-05:00</published>
+  <updated>2015-02-24T06:15:02-05:00</updated>
+  <author>
+    <name>Juan Muñoz</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Una muy buena infografía sobre las citas bibliográficas (desde &lt;a href=&quot;http://www.neoscientia.com/&quot;&gt;http://www.neoscientia.com/&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Aquí la tienes.&lt;/p&gt;
+
+&lt;!--mas--&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cdn7.neoscientia.com/wp-content/uploads/2015/02/citas-bibliogr%C3%A1ficas-infograf%C3%ADas.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/citas-bibliograficas/&quot;&gt;Citas bibliográficas&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on February 24, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Conocimiento abierto y tecnología]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/articles/conocimiento-y-tecnologia/" />
+  <id>http://localhost:4000/articles/conocimiento-y-tecnologia</id>
+  <published>2014-09-10T00:00:00-04:00</published>
+  <updated>2014-09-10T00:00:00-04:00</updated>
+  <author>
+    <name>Juan Muñoz</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">
+    &lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
+  &lt;header&gt;
+    &lt;h3&gt;&lt;i class=&quot;fa fa-book&quot;&gt;&lt;/i&gt; Overview&lt;/h3&gt;
+  &lt;/header&gt;
+&lt;div id=&quot;drawer&quot;&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#conocimiento-abierto-y-tecnologa&quot; id=&quot;markdown-toc-conocimiento-abierto-y-tecnologa&quot;&gt;Conocimiento Abierto y Tecnología&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#introduccin&quot; id=&quot;markdown-toc-introduccin&quot;&gt;Introducción&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#cercamientos&quot; id=&quot;markdown-toc-cercamientos&quot;&gt;Cercamientos&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#abierto-o-libre&quot; id=&quot;markdown-toc-abierto-o-libre&quot;&gt;Abierto o Libre&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tecnologa&quot; id=&quot;markdown-toc-tecnologa&quot;&gt;Tecnología&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#repositorios&quot; id=&quot;markdown-toc-repositorios&quot;&gt;Repositorios&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#escritura-abierta&quot; id=&quot;markdown-toc-escritura-abierta&quot;&gt;Escritura abierta&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#conclusin&quot; id=&quot;markdown-toc-conclusin&quot;&gt;Conclusión&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#addenda&quot; id=&quot;markdown-toc-addenda&quot;&gt;Addenda&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#referencias&quot; id=&quot;markdown-toc-referencias&quot;&gt;Referencias&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#notas&quot; id=&quot;markdown-toc-notas&quot;&gt;Notas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- /#table-of-contents --&gt;
+
+&lt;h1 id=&quot;conocimiento-abierto-y-tecnologa&quot;&gt;Conocimiento Abierto y Tecnología&lt;/h1&gt;
+
+&lt;p&gt;Juan Muñoz-Justicia
+(18/10/14)&lt;/p&gt;
+
+&lt;h1 id=&quot;introduccin&quot;&gt;Introducción&lt;/h1&gt;
+&lt;p&gt;En este artículo quiero discutir sobre el concepto de conocimiento abierto y qué tecnologías podemos utilizar para fomentarlo, pero antes de empezar, me gustaría explicar una breve historia, a la que podríamos llamar la historia de una impresora y un ratón.&lt;/p&gt;
+
+&lt;p&gt;Cuentan que, en 1980, &lt;a href=&quot;https://www.stallman.org/&quot;&gt;Richard Stallman&lt;/a&gt; , del Laboratorio de Inteligencia Artificial del MIT, pretende modificar el software de una de sus impresoras, por lo que  pide a Xerox el código fuente, necesario para poder hacer los cambios que permitan mejorarlo y adaptarlo a sus necesidades, pero recibe una respuesta negativa: el código es propiedad de Xerox y los usuarios no tienen derecho a modificarlo o adaptarlo.&lt;/p&gt;
+
+&lt;p&gt;Stallman, que piensa que los usuarios deberían tener acceso total al software que utilizan, tras abandonar el MIT y tras publicar el &lt;a href=&quot;www.gnu.org/gnu/manifesto.es.html&quot;&gt;Manifiesto GNU&lt;/a&gt;  (en el que plantea la necesidad de crear un sistema operativo libre), crea la &lt;a href=&quot;https://www.fsf.org/&quot;&gt;Free Software Foundation&lt;/a&gt; , “a nonprofit with a worldwide mission to promote computer user freedom and to defend the rights of all free software users”.&lt;/p&gt;
+
+&lt;p&gt;Poco después, en 1989, crea la licencia &lt;a href=&quot;http://www.gnu.org/licenses/gpl.html&quot;&gt;GNU GPL&lt;/a&gt; (General Public License), y se plantean los cuatro famosos &lt;a href=&quot;https://www.gnu.org/philosophy/free-sw.es.html&quot;&gt;principios&lt;/a&gt; que definen lo que significa software libre: libertad de ejecutar, libertad de estudiar y modificar, libertad de distribuir, y la libertad de mejorar el programa y publicas sus mejoras.&lt;/p&gt;
+
+&lt;p&gt;La segunda historia tiene que ver con un ratón nacido en 1928, un ratón llamado Mickey que durante años ha sido esclavo de sus creadores, la compañía Disney. El problema para Disney era que, según las leyes de copyright, el plazo máximo para que una obra pasara a dominio público&lt;sup id=&quot;fnref:fn1&quot;&gt;&lt;a href=&quot;#fn:fn1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, era de 75 años (antes “sólo” 56), por lo que en 2004 Mickey alcanzaría la libertad y Disney perdería la exclusividad de explotación.&lt;/p&gt;
+
+&lt;p&gt;Evidentemente, a la compañía Disney no le hace mucha gracia perder el control sobre un producto que con toda seguridad le reporta grandes beneficios, por lo que presiona a los legisladores norteamericanos consiguiendo finalmente que en 1998 se apruebe una enmienda (Copyright Term Extension Act, también conocida como Mickey Mouse Protection Act) que extiende retroactivamente 20 años más el copyright para todas aquellas producciones que en ese momento lo tienen, por lo que Micky seguirá siendo esclavo de la Disney hasta 2023.&lt;/p&gt;
+
+&lt;p&gt;En esta historia juega un papel importante Lawrence Lessig, que considera injusto alargar (cada vez más) los plazos del copyright para beneficiar (básicamente) a grandes compañías a expensas de la inmensa mayoría de consumidores de productos culturales, y que considera incorrectos los argumentos que se suelen utilizar para la defensa de la extensíon de los plazos&lt;sup id=&quot;fnref:fn2&quot;&gt;&lt;a href=&quot;#fn:fn2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. del copyright.&lt;/p&gt;
+
+&lt;p&gt;Al igual que Stallman, Lessig crea en 2001 una fundación, &lt;a href=&quot;http://creativecommons.org&quot;&gt;Creative Commons&lt;/a&gt;, una organización sin ánimo de lucro que “nace con la misión de ofrecer soporte técnico y legal a un movimiento que defiende la necesidad de acceso universal a la investigación, la educación y la participación cultural como modelo de crecimiento, innovación y desarrollo.” (Vera, 2014) utilizando por lo tanto el copyright no para excluir, sino para integrar, para permitir el acceso abierto al conocimiento.&lt;/p&gt;
+
+&lt;p&gt;Aunque son ampliamente conocidas, recordemos que las licencias Creative Commons implican diferentes niveles de “apertura” en función de cómo se &lt;a href=&quot;http://creativecommons.org/choose/&quot;&gt;combinan una serie de criterios&lt;/a&gt;: permitir o no la creación de adaptaciones y modificaciones de la obra (ND cuando no se permiten), y en ese caso, si es necesario o no que la obra modificada se comparta de la misma forma (SA, cuando hay que compartir de la misma forma), y finalmente si se permite o no el uso comercial de la obra (NC si no se permite el uso comercial)&lt;sup id=&quot;fnref:fn3&quot;&gt;&lt;a href=&quot;#fn:fn3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;cercamientos&quot;&gt;Cercamientos&lt;/h1&gt;
+&lt;p&gt;¿Por qué estas dos historias? Porque son el reflejo de dos formas de ver y de hacer, de dos formas de entender las producciones culturales. Tanto en el caso del software como en el de los productos culturales en general, nos encontramos con quienes defienden lo privado, lo cerrado frente a quienes defienden lo abierto, lo común, lo público.&lt;/p&gt;
+
+&lt;p&gt;Y también porque creo que es imprescindible reivindicar la segunda opción, reivindicar la necesidad de defender y fomentar el conocimiento abierto, puesto que, aunque cada día se escuchan más voces a su favor, también es cierto que cada día nos encontramos con amenazas, con intentos de limitarlo, con la aparición de nuevos &lt;a href=&quot;http://es.wikipedia.org/wiki/Cercamiento&quot;&gt;“cercamientos culturales”&lt;/a&gt; de lo que debemos entender que es un bién común.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;”(…) we are in the middle of a second  enclosure movement. While it sounds grandiloquent to call it “the  enclosure of the intangible commons of the mind,” in a very real sense  that is just what it is. True, the new state-created property rights  may be “intellectual” rather than “real,” but once again things that  were formerly thought of as common property, or as “uncommodifiable,” or  outside the market altogether, are being covered with new, or newly  extended, property rights.” (Boyle 2008, p. 62)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Como ejemplo de cercamiento de lo que se entiende tradicionalmente por bien común, lo encontramos en nuestro país con la &lt;a href=&quot;https://www.boe.es/boe/dias/2013/12/30/pdfs/BOE-A-2013-13756.pdf&quot;&gt;“Ley Montoro”&lt;/a&gt; que reproduce los antiguos cercamientos de los bienes comunales. Por lo que respecta al conocimiento, entre también podemos ver como cercamiento el &lt;a href=&quot;http://www.boe.es/boe/dias/2014/08/01/pdfs/BOE-A-2014-8275.pdf&quot;&gt;Real Decreto 624/2014&lt;/a&gt;, “por el que se desarrolla el derecho de remuneración a los autores por los préstamos de sus obras realizadas en determinados establecimientos accesibles al público”, es decir,  el decreto que regula la aplicación a las bibliotecas (excepto a las de municipios de menos de 5000 habitantes y a las de instituciones docentes del sistema educativo español) de un canon por el préstamo de libros de 0,16€ por ejemplar adquirido por la biblioteca más 0,05 por socio de la misma&lt;sup id=&quot;fnref:fn4&quot;&gt;&lt;a href=&quot;#fn:fn4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;Por otra parte, también se encuentra en proceso de aprobación definitiva el &lt;a href=&quot;https://docs.google.com/viewer?url=http%3A%2F%2Fwww.senado.es%2Flegis10%2Fpublicaciones%2Fpdf%2Fsenado%2Fbocg%2FBOCG_D_10_388_2650.PDF&quot;&gt;“Proyecto de ley de reforma de la Ley de Propiedad Intelectual”&lt;/a&gt;, una ley que en la línea de la Ley Montoro, supone un ataque de la idea de los bienes comunes y, en este caso, a la idea de conocimiento abierto. Podemos destacar aquí dos elementos de la ley.&lt;/p&gt;
+
+&lt;p&gt;En primer lugar, lo que se conoce como el canon AEDE (por referencia a la Asociación de Editores de Diarios Españoles) o la Tasa Google, que hará que tanto Google (&lt;a href=&quot;https://news.google.es/&quot;&gt;Google News&lt;/a&gt;) como otros buscadores o enlazadores (&lt;a href=&quot;https://www.meneame.net/&quot;&gt;Menéame&lt;/a&gt;, &lt;a href=&quot;https://flipboard.com/&quot;&gt;Flipboard&lt;/a&gt;…), puedan publicar sin necesidad de autorización extractos (fragmentos no significativos) de noticias extraídas de otros medios, pagando a cambio una tasa a través de las entidades de gestión (CEDRO).&lt;/p&gt;
+
+&lt;p&gt;A pesar de que una parte significativa de los medios (los que tienen que percibirla) están en contra de este canon (por ejemplo la AEEPP, &lt;a href=&quot;www.aeepp.com/&quot;&gt;Asociación Española de Editoriales de Publicaciones Periódicas&lt;/a&gt;, uno de los miembro de la &lt;a href=&quot;http://coalicionprointernet.com/&quot;&gt;Coalición Pro Internet&lt;/a&gt;),en España, a diferencia de otros países con legislaciones similares,se trata de un “derecho inalienable” para los creadores de noticias, es decir, que si un diario pensara que le es beneficioso  que otros utilicen parte de sus noticias (porque finalmente recibirá más visitas), y por lo tanto quisiera permitirlo sin necesidad de recibir una compensación económica, no podría hacerlo. De la misma forma, los agregadores tendrían que pagar incluso por contenidos con licencias que permitan su reutilización. El efecto previsible es la penalización de los nuevos medios, que perderán parte de su visibilidad (Ortiz, 2014), y el incremento del poder de las cabeceras conocidas.&lt;/p&gt;
+
+&lt;p&gt;Y por último, otro ejemplo de “derecho inalienable” que recoge el proyecto de ley es el de los autores de manuales universitarios o similares que, quieran o no, veran cómo las universidades pagarán un canon (unos 5€ por alumno) a una sociedad de gestión.&lt;/p&gt;
+
+&lt;p&gt;De nuevo, independientemente de las repercusiones económicas, implica también un nuevo atentado a los legítimos derechos de aquellas personas que deseen que sus obras se utilicen de una forma libre, a aquellas personas que defienden el conocimiento abierto y la publicación abierta.&lt;sup id=&quot;fnref:fn5&quot;&gt;&lt;a href=&quot;#fn:fn5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;abierto-o-libre&quot;&gt;Abierto o Libre&lt;/h1&gt;
+&lt;p&gt;Por lo que hemos visto con las licencias Creative Commons, lo “abierto” puede implicar diferentes significados, y en ocasiones no queda claro a qué nos estamos refiriendo cuando hablamos de “acceso abierto” o de “conocimiento abierto”. En ocasiones, con abierto estamos hablando de gratuito, y en ocasiones de libre, y creo que es necesario aclarar si significan lo mismo o no, puesto que es esta última acepción, la libertad, la que constituye el elemento fundamental de lo que estoy hablando.&lt;/p&gt;
+
+&lt;p&gt;La confusión recuerda a la que se produce también con el significado de “software libre” cuando se lo equipara con software gratuito, a pesar de que, como recuerda Stallman, “El «software libre» es una cuestión de libertad, no de precio. Para comprender este concepto, debemos pensar en la acepción de libre como en «libertad de expresión» y no como en «barra libre de cerveza».” (Stallman, 2004, p. 59). De una forma similar, cuando se habla de conocimiento abierto en ocasiones se interpreta como conocimiento gratuito sin que eso implique que se trate de conocimiento libre.&lt;/p&gt;
+
+&lt;p&gt;Una de las primeras definiciones de qué significa acceso abierto es la que aparece en la &lt;a href=&quot;http://www.budapestopenaccessinitiative.org/translations/spanish-translation&quot;&gt;Budapest Open Access Initiative&lt;/a&gt; (BOAI), un manifiesto que surge a partir de una conferencia  organizada en Budapest (febrero de 2002) por el Open Society Institue (actualmente &lt;a href=&quot;http://www.opensocietyfoundations.org/&quot;&gt;Open Society Foundations&lt;/a&gt;), cuyo objetivo es fomentar el acceso a la literatura científica.&lt;/p&gt;
+
+&lt;p&gt;En la BOAI se realiza la siguiente definición de acceso abierto:
+&amp;gt;”Por “acceso abierto” a esta literatura queremos decir su disponibilidad gratuita en Internet público, permitiendo a cualquier usuario leer, descargar, copiar, distribuir, imprimir, buscar o usarlos con cualquier propósito legal, sin ninguna barrera financiera, legal o técnica, fuera de las que son inseparables de las que implica acceder a Internet mismo. La única limitación en cuanto a reproducción y distribución  y el único rol del copyright en este dominio, deberá ser dar a los autores el control sobre la integridad de sus trabajos y el derecho de ser adecuadamente reconocidos y citados.”&lt;/p&gt;
+
+&lt;p&gt;Como vemos, se pone el énfasis en el acceso gratuito y en mantener la integridad de las obras (y por lo tanto la no posibilidad de modificarlas).&lt;/p&gt;
+
+&lt;p&gt;Poco después, aparecen dos nuevas declaraciones, la &lt;a href=&quot;http://legacy.earlham.edu/~peters/fos/bethesda.htm&quot;&gt;Bethesda Statement on Open Access Publishing&lt;/a&gt; (junio de 2003) y la &lt;a href=&quot;http://openaccess.mpg.de/Berlin-Declaration&quot;&gt;Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities&lt;/a&gt; (octubre de 2003), en las que se produce un cambio significativo en cómo se entiende lo que significa “acceso abierto”, se mantiene la idea de acceso gratuito, pero además se afirma que para definir un contenido como “abierto”, los usuarios deben tener&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“(licencia) para hacer y distribuir trabajos derivativos, en cualquier medio digital para cualquier propósito responsable, todo sujeto al reconocimiento apropiado de autoría.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Como vemos, en esta nueva declaración se añade a la definición de “abierto” la posibilidad de realizar trabajos derivados, de utilizar, como hacía Disney, productos existentes para crear algo nuevo o simplemente para mejorarlo.&lt;/p&gt;
+
+&lt;p&gt;Finalmente, a partir de un nuevo encuentro diez años después de la BOAI, se publican una serie de &lt;a href=&quot;http://www.budapestopenaccessinitiative.org/boai-10-translations/spanish&quot;&gt;recomendaciones&lt;/a&gt; en las que se aclara el concepto de acceso abierto, con la diferenciación entre “acceso abierto gratis” y “acceso abierto libre”, y en las que se prima el acceso abierto libre recomendando que&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Cuando sea posible, las políticas de las entidades financiadoras deberían exigir el acceso abierto libre (libre OA), preferiblemente a través de una licencia CC-BY o su equivalente.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Aunque hay quienes defienden realizar esta diferenciación entre “gratis” y “libre” para caracterizar el acceso abierto (Suber, 2012), por mi parte prefiero la definición que ofrece la &lt;a href=&quot;https://okfn.org/&quot;&gt;Fundación Conocimiento Abierto&lt;/a&gt; (que se aplica tanto a contenido como a datos), que no realiza tal distinción y que pone el énfasis en la libertad (no sólo en la accesibilidad o gratuidad) de uso y modificación:&lt;/p&gt;
+
+&lt;p&gt;“Open means anyone can freely access, use, modify, and share for any purpose (subject, at most, to requirements that preserve provenance and openness).” O también “Open data can be freely used, modified, and shared by anyone for any purpose”&lt;sup id=&quot;fnref:fn6&quot;&gt;&lt;a href=&quot;#fn:fn6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;En base a estas definiciones queda claro que tanto si hablamos de “abierto” como de “libre”, la clave está en la posibilidad de modificación. Por lo tanto, el software con licencia GPL es software libre y también abierto&lt;sup id=&quot;fnref:fn7&quot;&gt;&lt;a href=&quot;#fn:fn7&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;, pero no son libres todas las licencias Creative Commons, sólo lo serían CCZero (dominio público), Atribución (BY) y Atribución Compartir-Igual (BY-SA), mientras que no lo son No Derivados (ND) ni NoComercial (NC) puesto que en ambos casos hay restricción de alguna libertad: la primera porque impediría reutilizar un trabajo en una obra derivada, y la segunda tampoco al impedir su uso comercial&lt;sup id=&quot;fnref:fn8&quot;&gt;&lt;a href=&quot;#fn:fn8&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;Teniendo en cuenta esto, a partir de ahora, cuando me refiera a conocimiento o acceso abierto estaré hablando de conocimiento que es libremente accesible y libremente modificable.&lt;/p&gt;
+
+&lt;h1 id=&quot;tecnologa&quot;&gt;Tecnología&lt;/h1&gt;
+&lt;p&gt;En este apartado mostraré algunas de las tecnologías, que pueden facilitar el desarrollo del conocimiento abierto. Intentaré mostrar también algo quizás obvio, que la tecnología no es la panacea. Como todos sabemos, la tecnología la podemos utilizar para alcanzar diferentes objetivos, podemos utilizarla tanto para crear como para destruir, y podemos utilizarla tanto para cerrar como para abrir.&lt;/p&gt;
+
+&lt;h2 id=&quot;repositorios&quot;&gt;Repositorios&lt;/h2&gt;
+&lt;p&gt;Hemos visto que la BOAI, proponía dos formas de fomentar la difusión abierta del conocimiento académico, publicando en revistas científicas que permitan el acceso abierto a sus contenidos, y/o depositando (auto archivando) sus artículos en repositorios digitales. Es lo que actualmente se conoce como las “dos vías” para el acceso abierto, la “vía dorada” (revistas de acceso abierto) y la “vía verde” (repositorios)&lt;sup id=&quot;fnref:fn9&quot;&gt;&lt;a href=&quot;#fn:fn9&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;Evidentemente, en ambos casos es necesaria la tecnología, tanto a nivel de hardware como a nivel de software, pero como comentaba hace un momento, aunque quizás necesaria, en absoluto es suficiente para favorecer el acceso abierto con las características de libertad que comentaba antes, pues en ambos casos, revistas y repositorios, podríamos estar hablando tanto de acceso abierto “gratis” como de acceso abierto “libre”.&lt;/p&gt;
+
+&lt;p&gt;Es más, en el caso de la publicación en revistas OA,en las que el lector puede acceder gratuitamente a sus contenidos, puede que ni siquiera sean realmente gratis, puesto que en muchas ocasiones son los autores (o sus instituciones) quienes estén pagando a las editoriales lo que estas no cobran a los lectores&lt;sup id=&quot;fnref:fn10&quot;&gt;&lt;a href=&quot;#fn:fn10&quot; class=&quot;footnote&quot;&gt;10&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;Por lo que respecta a la vía del autoarchivo, este puede realizarse en diferentes tipos de repositorios: institucionales, temáticos y genéricos.&lt;/p&gt;
+
+&lt;p&gt;Los repositorios institucionales, tal y como son definidos por &lt;a href=&quot;http:///www.sparc.arl.org/&quot;&gt;SPARC&lt;/a&gt; son “digital collections that capture and preserve the intellectual output of university communities—respond to two strategic issues facing academic institutions: 1) they provide a central component in reforming scholarly communication by stimulating innovation in a disaggregated publishing structure; and 2) they serve as tangible indicators of an institution’s quality, thus increasing its visibility, prestige, and public value.”&lt;/p&gt;
+
+&lt;p&gt;Por poner sólo un ejemplo, puedes visitar el &lt;a href=&quot;http://ddd.uab.cat&quot;&gt;Dipòsit Digital de Documents de la UAB&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Los repositorios temáticos incluyen documentos dentro de un ámbito disciplinario específico. Por ejemplo, &lt;a href=&quot;http://arxiv.org&quot;&gt;arXiv&lt;/a&gt;, uno de los más antiguos&lt;sup id=&quot;fnref:fn11&quot;&gt;&lt;a href=&quot;#fn:fn11&quot; class=&quot;footnote&quot;&gt;11&lt;/a&gt;&lt;/sup&gt;, o &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pmc/&quot;&gt;PubMed Central&lt;/a&gt;, con 3,2 millones de artículos de Biomedicina y Ciencias de la Vida.&lt;/p&gt;
+
+&lt;p&gt;En cuanto a los genéricos, evidentemente se caracterizan por no limitarse a un campo disciplinar, y por permitir una gran variedad de tipos de productos a depositar (artículos, pero también datos, imágenes…). Pondré como ejemplo en este caso &lt;a href=&quot;http://figshare.com/&quot;&gt;Figshare&lt;/a&gt;, un repositorio que ofrece un servicio de pago y/o gratuito para el depósito de todo tipo de productos de investigación, y &lt;a href=&quot;http://zenodo.org&quot;&gt;ZENODO&lt;/a&gt;, otro repositorio que admite cualquier tipo de objeto&lt;sup id=&quot;fnref:fn12&quot;&gt;&lt;a href=&quot;#fn:fn12&quot; class=&quot;footnote&quot;&gt;12&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;Aunque puede que no sean los más representativos, lo interesante de estos dos repositorios es que aunque por lo general las políticas de los repositorios es que sea el autor quien elija el tipo de licencia&lt;sup id=&quot;fnref:fn13&quot;&gt;&lt;a href=&quot;#fn:fn13&quot; class=&quot;footnote&quot;&gt;13&lt;/a&gt;&lt;/sup&gt;, en su caso apuestan por el “auténtico” acceso abierto. Por ejemplo, Figshare, es un servicio gratuito sólo para aquellos objetos que se hacen accesibles públicamente, si queremos que sean privados será necesario pagar una cuota. Además, la licencia que se aplica es de tipo CC-BY para los objetos no-datos, y CC0 para los datos. Por su parte, Zenodo aunque permite que los usuarios elijan el tipo de licencia, apuesta también por “open data in all its forms (meaning data that anyone is free to use, reuse, and redistribute)”.&lt;/p&gt;
+
+&lt;p&gt;En cualquier caso, como vemos, lo relevante no es tanto el servicio que utilicemos, sino su política en cuanto a las licencias que permiten o fomentan y “nuestra política” en cuanto al tipo de licencias que preferimos utilizar.&lt;/p&gt;
+
+&lt;h2 id=&quot;escritura-abierta&quot;&gt;Escritura abierta&lt;/h2&gt;
+&lt;p&gt;Evidentemente, antes de poder publicar o depositar hay que escribir, y si trabajamos en equipo una opción es utilizar software para la escritura colaborativa para evitar el típico circuito de envíos y reenvíos de documentos por correo electrónico con las aportaciones de los diferentes colaboradores y con las sucesivas correcciones. No voy a hablar  de editores en la nube como &lt;a href=&quot;http://docs.google.com&quot;&gt;Google Docs&lt;/a&gt;, &lt;a href=&quot;http://www.zoho.com/docs/&quot;&gt;Zoho Docs&lt;/a&gt;, o los más recientes &lt;a href=&quot;http://quip.com&quot;&gt;Quip&lt;/a&gt;, o &lt;a href=&quot;http://hackpad.com&quot;&gt;Hackpad&lt;/a&gt; (adquirido por Dropbox)  todos ellos del tipo SaaS (Software as a Service), es decir, software que no instalamos en nuestro servidor sino que lo ejecutamos en “la nube” y que en la mayoría de los casos es software propietario (no libre).&lt;/p&gt;
+
+&lt;p&gt;Existen alternativas libres&lt;sup id=&quot;fnref:fn14&quot;&gt;&lt;a href=&quot;#fn:fn14&quot; class=&quot;footnote&quot;&gt;14&lt;/a&gt;&lt;/sup&gt;, algunas de ellas menos atractivas estéticamente y con menos funcionalidades de edición, como por ejemplo &lt;a href=&quot;http://titanpad.com&quot;&gt;TitanPad&lt;/a&gt;, &lt;a href=&quot;http://etherpad.org&quot;&gt;Etherpad&lt;/a&gt;, o &lt;a href=&quot;http://es.fiduswriter.org&quot;&gt;Fiduswriter&lt;/a&gt; (que se presenta a sí mismo como un editor en línea para la escritura colaborativa pensado especialmente para académicos).&lt;/p&gt;
+
+&lt;p&gt;Aunque esos programas nos pueden facilitar la vida, realmente tienen poco que ver con el conocimiento abierto, puesto que podemos utilizarlos simplemente para crear, colaborativamente, productos cerrados (a los que únicamente vamos a tener acceso nosotros y nuestros colaboradores), o que posteriormente vamos a hacer públicos pero no abiertos en el sentido que hemos definido antes.&lt;/p&gt;
+
+&lt;p&gt;Evidentemente, podríamos poner los documentos a disposición de la comunidad depositándolos en un repositorio, pero de nuevo no es el software concreto que hayamos utilizado el que definirá el grado en que será abierto, sino el tipo de licencia que utilicemos&lt;sup id=&quot;fnref:fn15&quot;&gt;&lt;a href=&quot;#fn:fn15&quot; class=&quot;footnote&quot;&gt;15&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;Un claro ejemplo de esto podemos encontrarlo con los contenidos disponibles en &lt;a href=&quot;http://www.oercommons.org/&quot;&gt;OER Commons&lt;/a&gt;, un repositorio de recursos educativos abiertos (Open Educational Resources) en el que pueden descargarse de forma gratuita una gran cantidad de materiales educativos y además ofrece una herramienta de edición on line para la creación de contenidos, &lt;a href=&quot;https://www.oercommons.org/open-author-about&quot;&gt;Open Author&lt;/a&gt;, que permite la edición colaborativa de este tipo de recursos, y permite, especialmente, reutilizarlos para modificarlos y adaptarlos, siempre y cuando los creadores hayan escogido una licencia CC que lo permita&lt;sup id=&quot;fnref:fn16&quot;&gt;&lt;a href=&quot;#fn:fn16&quot; class=&quot;footnote&quot;&gt;16&lt;/a&gt;&lt;/sup&gt;. Por lo tanto, se trata de una forma diferente de escritura colaborativa, en la que no se colabora directamente con el autor original, sino trabajando en la propia versión de forma independiente pero manteniendo la atribución de autoría del trabajo original.&lt;/p&gt;
+
+&lt;p&gt;Esto último, la posibilidad de reutilizar y mezclar otros recursos, me parece sin duda alguna lo más interesante de la plataforma, puesto que se ajusta a la concepción de conocimiento abierto que he defendido anteriormente.&lt;/p&gt;
+
+&lt;p&gt;Ignoro si existe el concepto, pero creo que no estaría mal poder hablar en estos casos de “escritura abierta”.&lt;/p&gt;
+
+&lt;p&gt;Sin embargo, aunque interesante, lo que quiero proponer es la utilización de otro tipo de tecnología.&lt;/p&gt;
+
+&lt;p&gt;Como alternativa de escritura colaborativa que permita y fomente la “mezcla”, la modificación y la reutilización de contenidos, podemos pensar también, evidentemente, en la utilización de wikis. Tenemos un fantástico ejemplo con &lt;a href=&quot;http://es.wikipedia.org&quot;&gt;Wikipedia&lt;/a&gt;, la enciclopedia libre fruto de la colaboración de miles de personas, y que publica sus contenidos con licencia CC-BY-SA.&lt;/p&gt;
+
+&lt;p&gt;Pero aunque la tecnología wiki en general y la Wikipedia en particular son excelentes productos, en los últimos tiempos están surgiendo propuestas de utilizar otra tecnología para la escritura colaborativa, especialmente, pero no solo, para la escritura académica (Lawson, 2013; Massey, 2013; Owens, 2013; Shaffer, 2013.). Quienes lo hacen, proponen que dirijamos nuevamente nuestra mirada al mundo del software libre, que desde hace años utiliza herramientas como &lt;a href=&quot;http://github.com&quot;&gt;GitHub&lt;/a&gt;, repositorio originalmente utilizado por programadores informáticos en el que se deposita código de software para que otras personas puedan colaborar en el desarrollo del mismo (o simplemente descargarlo para utilizarlo).&lt;/p&gt;
+
+&lt;p&gt;Aunque originalmente pensado para el software, la propuesta que serealiza es aprovecharse de la naturaleza eminentemente colaborativa de GitHub (y su potencia como sistema de control de versiones) para incluir, además de código, otro tipo de recursos como artículos, libros, lecciones, programas de asignaturas, o cualquier otro tipo de contenido cultural.&lt;/p&gt;
+
+&lt;p&gt;Desde mi punto de vista, lo que da su carácter de herramienta (casi) ideal para la “escritura abierta”, es bifurcaciones (fork, en lenguaje  GitHub) de proyectos existentes sin necesidad de solicitar permiso al propietario&lt;sup id=&quot;fnref:fn17&quot;&gt;&lt;a href=&quot;#fn:fn17&quot; class=&quot;footnote&quot;&gt;17&lt;/a&gt;&lt;/sup&gt;.De esa forma, cualquier usuario puede crear su propia versión de un proyecto para a partir de ahí poder mejorar o modificar el original.&lt;/p&gt;
+
+&lt;p&gt;Imaginemos, por ejemplo, que he elaborado unos materiales docentes diseñados específicamente para la asignatura que estoy impartiendo y adaptados a las características de mis estudiantes. Una buena práctica sería poner esos materiales a disposición de la comunidad colgándolos, por ejemplo, en el repositorio digital de mi universidad con una licencia abierta, de forma que pudieran ser utilizados por cualquier persona.&lt;/p&gt;
+
+&lt;p&gt;Eso permitiría que otro docente (a partir de ahora me referiré a él como OtroDocente) pudiera utilizarlos adaptándolos a las necesidades de su propia docencia, pero si esa persona quisiera hacerme sugerencias sobre posibles cambios, o simplemente hiciera cambios que a mi me gustaría adaptar, el proceso de comunicación y revisión de cambios empezaría a ser complicado.&lt;/p&gt;
+
+&lt;p&gt;Si en vez de (o además de) utilizar el repositorio de mi universidad (o cualquier otro repositorio) tengo las lecciones de mi curso en un repositorio en GitHub, el proceso (simplificado) habría sido el siguiente:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;OtroDocente crea una bifurcación (fork), que generará una copia exacta de mi repositorio original en su propio espacio en GitHub.&lt;/li&gt;
+  &lt;li&gt;A partir del fork, OtroDocente crea un “clon”, una nueva réplica de los contenidos en su ordenador personal.&lt;/li&gt;
+  &lt;li&gt;OtroDocente realiza, en los contenidos del ordenador personal, las modificaciones que desee.&lt;/li&gt;
+  &lt;li&gt;OtroDocente sincroniza los cambios realizados en su ordenador personal con su repositorio en GitHub (“pull”).&lt;/li&gt;
+  &lt;li&gt;Los cambios realizados por OtroDocente no modifican nada en mi propio repositorio hasta que OtroDocente solicita que se incluyan. Para ello hace un “Pull Request”, una solicitud de actualización.&lt;/li&gt;
+  &lt;li&gt;Puedo aceptar o no la solicitud de cambio. Si la acepto, mi repositorio quedará modificado, añadiéndose una nueva versión a la ya existente (y conservando el historial de los cambios realizados).&lt;/li&gt;
+  &lt;li&gt;Puedo hacer seguimiento de los cambios realizados por OtroDocente en su bifurcación aunque este no me informe ni haga una solicitud de actualización.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Podríamos seguir un procedimiento similar para, por ejemplo, traducir un libro a otro idioma, o cualquier otra manipulación de los materiales originales.&lt;/p&gt;
+
+&lt;p&gt;Personalmente me parece fascinante esta forma de escritura, aunque reconozco que plantea algunos problemas. El primero probablemente es el más fácilmente solucionable, y consiste en el (posible) miedo a la tecnología que hay detrás, a las dificultades para su utilización, para dominarla, y a que efectivamente implica muchos cambios con nuestra forma de trabajar habitual.&lt;/p&gt;
+
+&lt;p&gt;Pero como digo, creo que es el menor de los problemas, puesto que en primer lugar parece más complicado de lo que es en realidad y, si necesitamos ayuda podemos recurrir a la comunidad (foros…) y también es posible encontrar gran cantidad de documentación de ayuda, tanto para usuarios avanzados como noveles (por ejemplo, Konrad M. Lawson (2013a) explica de una forma muy clara los conceptos de fork y pull request).&lt;/p&gt;
+
+&lt;p&gt;Además, a nivel de software podemos encontrar distintas opciones que faciliten nuestro trabajo. Estos serían unos cuantos ejemplos.&lt;/p&gt;
+
+&lt;p&gt;Si lo que queremos es facilidad de uso, &lt;a href=&quot;http://www.penflip.com&quot;&gt;Penflip&lt;/a&gt; y &lt;a href=&quot;http://www.authorea.com&quot;&gt;Authorea&lt;/a&gt; son dos servicios interesantes que comparten varias características: alojamiento gratuito para proyectos públicos, software de edición SaaS que facilita el proceso de escritura en formato markdown, y conexión con nuestro espacio GitHub.&lt;/p&gt;
+
+&lt;p&gt;Creo que Penflip se acerca más a mis requerimientos puesto que Authorea no deja claro en qué consiste un proyecto público (no parece que sea más que la posibilidad de ver y añadir comentarios, pero no de editar o crear derivados), mientras que Penflip permite elegir el tipo de licencia CC para nuestro texto y, para aquellos proyectos de otros usuarios que tienen la licencia adecuada, podemos crear derivados y someter nuestras propuestas de modificaciones al autor original, todo en un entorno sencillo y amigable.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.gitbook.io&quot;&gt;GitBook&lt;/a&gt;, como los anteriores, tiene la característica de repositorio, es decir, que podemos explorar los proyectos de otros usuarios (actualmente más de 700 libros), que pueden ser gratuitos o de pago, y entre los gratuitos podemos encontrar diferentes tipos de licencias. Podemos tener alojado el texto en sus servidores (con características Git) o en nuestro propio GitHub (un ejemplo, el libro ProGit podemos encontrarlo en http://gitbookio.gitbooks.io/progit/ y en https://github.com/progit/progit), por lo tanto podemos crear derivados de esos proyectos.&lt;/p&gt;
+
+&lt;p&gt;No ofrece sin embargo software SaaS de edición en línea, pero podemos descargar su editor markdown (diseñado especialmente para dar estructura de capítulos a la publicación) que por supuesto podemos conectar con nuestra cuenta GitHub.&lt;/p&gt;
+
+&lt;p&gt;Otra opción es &lt;a href=&quot;http://prose.io&quot;&gt;Prose&lt;/a&gt;, que a diferencia de los anteriores no ofrece alojamiento en su servidor y por lo tanto tampoco permite explorar proyectos de otras personas. Consiste únicamente en una interfaz online que conecta directamente con nuestro GitHub y que podemos utilizar en su versión SaaS o &lt;a href=&quot;http://github.com/prose/prose&quot;&gt;descargar&lt;/a&gt; en nuestro propio ordenador/servidor.&lt;/p&gt;
+
+&lt;p&gt;Por último, &lt;a href=&quot;http://editor.oerpub.org/&quot;&gt;Github-Bookeditor&lt;/a&gt; es un proyecto de &lt;a href=&quot;http://oerpub.org&quot;&gt;OERPUB&lt;/a&gt;, “a community that discuss and develop open source technology focused on designing, and implementing “An architecture for remixable Open Educational Resources (OER)””. El editor, que podemos &lt;a href=&quot;http://github.com/oerpub/github-bookeditor&quot;&gt;descargar&lt;/a&gt; en nuestro ordenador/servidor, está diseñado para facilitar la elaboración de materiales docentes y, como los anteriores, nos permite conectar con nuestra cuenta GitHub.&lt;/p&gt;
+
+&lt;p&gt;Como vemos, tenemos múltiples posibilidades, y casi con toda seguridad alguna de ellas se ajustará a nuestras necesidades y nuestras habilidades técnicas.&lt;/p&gt;
+
+&lt;p&gt;Por lo tanto, insisto en que las dificultades técnicas no son el mayor de nuestros problemas, sino lo que Konrad M. Lawson, (2013b) plantea como problemas “disciplinarios”, que pueden dificultar que los académicos opten por lo que denomina “fork the academy”. Esos problemas creo que pueden resumirse en dos grandes categorías.&lt;/p&gt;
+
+&lt;p&gt;Por un lado el hecho de que GitHub es quizás una forma extrema de exposición. Dado que además de la colaboración GitHub permite (siempre y cuando utilicemos la herramienta de una forma adecuada) un riguroso control de versiones y por lo tanto el registro de todos los pasos que hemos realizado hasta conseguir un producto final, nuestros errores, nuestras rectificaciones, el tiempo invertido en el trabajo… , quedaríamos “expuestos” de una forma que puede no ser agradable. Aunque puede ser cierto (no a todo el mundo le gusta mostrarse desnudo en público), también es cierto que deberíamos acostumbrarnos a ver como algo normal que el proceo de creación (de cualquier tipo) no es algo idílico como puede parecer cuando leemos artículos o libros científicos, sino que es un proceso que implica dudas, errores… y que no pasa nada si estos se hacen públicos. Además, deberíamos acostumbrarnos a hacer público un trabajo que consideramos todavía no finalizado, susceptible de mejorar por nuestras propias aportaciones pero también gracias a las aportaciones de otras personas. Creo que, por lo menos en la Academia, esto es difícil, aunque debería ser factible.&lt;/p&gt;
+
+&lt;p&gt;La otra categoría de problemas la considero más delicada, puesto que hacen referencia a las posibles consecuencias negativas para la carrera académica. El miedo a ser plagiados, a que roben nuestras ideas (aunque esto no es algo exclusivo de GitHub), que puede llevarnos a preferir el secretismo, a reservar nuestro producto hasta que tenga su forma definitiva para publicarlo de una forma tradicional, puesto que, además de lo dicho más arriba, las políticas de evaluación académica penalizan (o como mínimo no recompensan) formas alternativas de comunicación. Es cierto que en algunos casos es factible publicar de ambas formas (publicación tradicional y GitHub), pero seguro que en más de una ocasión tendríamos problemas para defender la autoría colectiva de una obra.&lt;/p&gt;
+
+&lt;p&gt;Pero estos problemas, en la práctica, no son problemas vinculados directamente a la utilización de una tecnología como GitHub. El “problema” no es la tecnología sino lo que hay antes que ella, es decir, los motivos que nos llevan a utilizarla, motivos que tienen que ver con elecciones personales basadas en la creencia en la ética del conocimiento abierto. Evidentemente, si no compartimos esa ética, la tecnología que la permite será problemática.&lt;/p&gt;
+
+&lt;p&gt;Finalmente, mi propuesta para una escritura abierta implicaría.
+* Elige una licencia abierta para tus obras (CC-BY o CC-BY-SA.
+* Aloja tu obra en GitHub.
+* Para la edición, utiliza formato Markdown.
+* Crea una copia en un formato abierto (odt, rtf, pdf…)
+* Deposita esa copia en un repositorio (institucional y/o temático) que incluya un enlace al contenido depositado en GitHub.&lt;/p&gt;
+
+&lt;p&gt;Y si todavía no estás convencido, quizás te ayude ver algunos ejemplos de textos disponibles en GitHub
+* El libro “Opening Science”, disponible para lectura en http://book.openingscience.org/ y La versión en GitHub https://github.com/openingscience/openingscience.github.io
+* Artículo “Lord of the Files” sobre GitHub publicado en la revista Wired, con las traducciones aportadas por la comunidad: https://github.com/WiredEnterprise/Lord-of-the-Files
+* Materiales de un taller sobre el gestor de referencias bibliográficas Zotero: https://github.com/adam3smith/zotero-workshops
+* GITenberg, colección de libros del proyecto Gutenberg alojados en GitHub: https://github.com/GITenberg (¡impresionante!)
+* Uno de los artículos que he utilizado en el apartado sobre GitHub y Academia: https://github.com/Harrison-M/hastac-blog/blob/master/2013/10/githubandacademia.md
+* Y, por supuesto, un libro multiidioma sobre Git: https://github.com/progit/progit&lt;/p&gt;
+
+&lt;h1 id=&quot;conclusin&quot;&gt;Conclusión&lt;/h1&gt;
+&lt;p&gt;Y ahora sí, para finalizar, y a modo de conclusión, permitidme que “robe” una cita del (interesante) blog de Jordi Adell (Adell, 2014), en una entrada en la que cita el libro de Facer, K. &amp;amp; Selwyn, N. (2013). The Politics of Education and Technology: Conflicts, Controversies, and Connections.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;”(…) the critical perspective [toward educational technology] is rooted in a broader recognition of technology and education as a set of profoundly political processes and practices that are usefully described in terms of issues of power, control, conflict, and resistance. As such, much of the underlying impetus for a critical approach toward educational technology stems from a desire to foster and support issues of empowerment, equality, social justice, and participatory democracy.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;addenda&quot;&gt;Addenda&lt;/h1&gt;
+&lt;p&gt;Esto convencido de que este texto no sólo es incompleto: he tocado muchos temas de forma excesivamente somera, he dejado muchos otros en el teclado tintero, y tampoco conozco todas las herramientas existentes, por lo que seguro que hay alguna que ni siquiera ha sido mencionada. Además, puesto que (lo confieso) tampoco tengo un conocimiento realmente a fondo de las herramientas que he mencionado, seguro que también incluye más de una incorrección en la descripción que he realizado de las mismas. Finalmente, puede que incluso haya utilizado de forma incorrecta alguno de los conceptos teóricos que he tratado.&lt;/p&gt;
+
+&lt;p&gt;¿Supone esto un problema? Creo que sí (la posible constatación de errores seguro que afecta a mi autoestima), pero un problema solucionable si aplicamos los principios que he propuesto. ¿Cómo?&lt;/p&gt;
+
+&lt;p&gt;En primer lugar, para posibilitar lo que propongo a continuación, es necesario que la licencia de este texto sea diferente a la que utiliza Libre Pensamiento (CC-BY-NC-ND) y utilizar una licencia abierta CC-BY algo a lo que han accedido los editores de Libre Pensamiento.&lt;/p&gt;
+
+&lt;p&gt;La utilización de esta licencia permite que quienes consideren que el texto puede/debe ser modificado, corregido, mejorado… lo hagan, tanto avisando (Fork + Pull request) como sin avisar (Clone).&lt;/p&gt;
+
+&lt;p&gt;Si te apetece, el texto está disponible en un repositorio GitHub:&lt;/p&gt;
+
+&lt;p&gt;https://github.com/jmunoz298/conocimiento-y-tecnologia&lt;/p&gt;
+
+&lt;h1 id=&quot;referencias&quot;&gt;Referencias&lt;/h1&gt;
+&lt;p&gt;Adell, J. (2014, October 12). Para una tecnología educativa crítica | Jordi Adell: edu &amp;amp; tec. Retrieved from &lt;a href=&quot;http://elbonia.cent.uji.es/jordi/2014/10/12/para-una-tecnologia-educativa-critica/&quot;&gt;http://elbonia.cent.uji.es/jordi/2014/10/12/para-una-tecnologia-educativa-critica/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Boyle, J. (2008). The Public Domain. Enclosing the Commons of the Mind. New Haven: Yale University Press. Retrieved from http://www.thepublicdomain.org/download/&lt;/p&gt;
+
+&lt;p&gt;Lawson, K. M. (2013, March 26). Forks and Pull Requests in GitHub. Retrieved from http://chronicle.com/blogs/profhacker/forks-and-pull-requests-in-github/47753&lt;/p&gt;
+
+&lt;p&gt;Lawson, K. M. (2013, April 30). Fork the Academy. Retrieved from http://chronicle.com/blogs/profhacker/fork-the-academy/48935&lt;/p&gt;
+
+&lt;p&gt;Lessig, L. (2005). Por una cultura libre. Madrid: Traficantes de Sueños. Retrieved from http://www.traficantes.net/libros/por-una-cultura-libre&lt;/p&gt;
+
+&lt;p&gt;Massey, H. (2013, December 10). GitHub, Academia, and Collaborative Writing. Retrieved from https://www.hastac.org/blogs/harrisonm/2013/10/12/github-academia-and-collaborative-writing&lt;/p&gt;
+
+&lt;p&gt;Möller, E. (2006). The case for Free use: reasons not to use a Creative Commons -NC license. Open Source Jahrbuch. Retrieved from http://www.opensourcejahrbuch.de/download/jb2006/chapter_06/osjb2006-06-02-en-moeller.pdf&lt;/p&gt;
+
+&lt;p&gt;Ortiz, A. (2014, July 22). Crónica del mayor robo a internet jamás perpetrado. Retrieved from http://www.xataka.com/analisis/cronica-de-la-historia-del-mayor-robo-a-internet-jamas-perpetrado&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Owens, T. (2013, November 21). Writing Collaborative Documentation with DokuWiki and GitHub&lt;/td&gt;
+      &lt;td&gt;Tim Owens. Retrieved from &lt;a href=&quot;http://archive.timmmmyboy.com/2013/11/writing-collaborative-documentation-with-dokuwiki-and-github/&quot;&gt;http://archive.timmmmyboy.com/2013/11/writing-collaborative-documentation-with-dokuwiki-and-github/&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Shaffer, K. (2013, May 26). Push, Pull, Fork: GitHub for Academics. Retrieved from http://www.hybridpedagogy.com/journal/push-pull-fork-github-for-academics/&lt;/p&gt;
+
+&lt;p&gt;Stallman, R. (2004). Software libre para una sociedad libre ([1 ̇ed. castellana].). Madrid: Traficantes de Sueños. Retrieved from http://www.traficantes.net/libros/software-libre-para-una-sociedad-libre&lt;/p&gt;
+
+&lt;p&gt;Suber, P. (2012). Open access. Cambridge, Mass: MIT Press. Retrieved from https://mitpress.mit.edu/sites/default/files/titles/content/9780262517638_Open_Access_PDF_Version.pdf&lt;/p&gt;
+
+&lt;p&gt;Vera, A. (2014, January). Guía Licencias Creative Commons. Retrieved from http://www.sideleft.com/guia-creative-commons/&lt;/p&gt;
+
+&lt;h1 id=&quot;notas&quot;&gt;Notas&lt;/h1&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:fn1&quot;&gt;
+      &lt;p&gt;Estado en que se encuentra una obra cuando expiran los derechos de autor y que permite ser utilizada por cualquier persona. Disney ha sido una de las compañías que mejor han sabido utilizar las obras de dominio público en su propio beneficio (Cenicienta, Blancanieves, Peter Pan, Alicia, Robin Hodd… son sólo algunos de los ejemplos) &lt;a href=&quot;#fnref:fn1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:fn2&quot;&gt;
+      &lt;p&gt;Lessig no está en contra de las leyes de copyright, sino en contra de la excesiva duración de los plazos antes de que una obra pase a dominio público. En 1999 presentó una demanda de inconstitucionalidad de la ley (que pierde) &lt;a href=&quot;#fnref:fn2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:fn3&quot;&gt;
+      &lt;p&gt;También existe la posibilidad de licenciar una obra como de dominio p´ublico (0) &lt;a href=&quot;#fnref:fn3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:fn4&quot;&gt;
+      &lt;p&gt;La argumentación, en este caso, es que el canon es necesario como como “contrapartida al perjuicio causado a los autores derivada de la utilización de sus obras en establecimientos accesibles al público sin necesidad de autorización” (BOE, p. 61524), una argumentación que no contempla que puede haber autores que acepten gustosamente que sus obras se presten sin ningún tipo de remuneración (sin necesidad de hablar de cuestiones ideológicas, simplemente por el hecho de que puede suponer una importante publicidad y el consiguiente incremento de ventas) y que implica también el pago por obras que formen parte del dominio público, no sujetas por lo tanto a derechos de autor (lo mismo que con las donaciones, se tendría que pagar igualmente puesto que como hemos visto el canon contabiliza no sólo los libros comprados sino también por usuario). &lt;a href=&quot;#fnref:fn4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:fn5&quot;&gt;
+      &lt;p&gt;Ver aquí las alegaciones de la Conferencia de Rectores de las Universidades Españolas. &lt;a href=&quot;#fnref:fn5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:fn6&quot;&gt;
+      &lt;p&gt;Puedes leer la definición amplia, en su versión 2.0, publicada el 7 de octubre de 2014, en http://opendefinition.org/ &lt;a href=&quot;#fnref:fn6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:fn7&quot;&gt;
+      &lt;p&gt;Aunque para muchos defensores del software libre (incluido el mismo Stallman) hay que hacer una clara diferenciación entre soware libre y software de código abierto:
+“Para el movimiento open source, la cuestión de si el software debe ser de fuente abierta es una cuestión práctica, no ética. Como lo expresó alguien, «el open source es un método de desarrollo; el software libre es un movimiento social».” (Stallman, 2004, p. 75) &lt;a href=&quot;#fnref:fn7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:fn8&quot;&gt;
+      &lt;p&gt;Una más amplia explicación en http://creativecommons.org/freeworks
+También, para una explicación del porqué de la defensa de permitir el uso comercial, ver Möller (2006). Puedes encontrar la traducción al español en http://freedomdefined.org/Licenses/NC/Es &lt;a href=&quot;#fnref:fn8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:fn9&quot;&gt;
+      &lt;p&gt;No entraré aquí en el interesante debate sobre las ventajas e inconvenientes de ambas vías (ver de nuevo Suber 2012) &lt;a href=&quot;#fnref:fn9&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:fn10&quot;&gt;
+      &lt;p&gt;Por ejemplo, las revistas editadas por PLOS tienen una licencia CC-BY, por lo que son de acceso gratuito y libre, pero  aplican un precio de publicación por artículo (dependiendo de la revista) de entre 1350 y 2900 dólares. Libre Pensamiento, en cambio, con su licencia CC-BY-NC-ND, además de ser de acceso gratuito no carga costes de publicación a los autores, pero sin embargo, dado el tipo de licencia que utiliza, no puede considerarse una revista libre. &lt;a href=&quot;#fnref:fn10&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:fn11&quot;&gt;
+      &lt;p&gt;arXiv alberga actualmente alrededor de un millón de textos en campos como Física, Matemáticas, Biología Cuantitativa o Estadística. &lt;a href=&quot;#fnref:fn11&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:fn12&quot;&gt;
+      &lt;p&gt;Otra peculiaridad importante de Zenodo es la posibilidad de que los usuarios vinculen su cuenta de Zenodo con GitHub (ver más adelante)
+En ambos casos, como un valor añadido, todos los objetos que se depositan tendrán asociado un DOI. &lt;a href=&quot;#fnref:fn12&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:fn13&quot;&gt;
+      &lt;p&gt;Lo cual no quiere decir que no sean conscientes de lo que significa abierto, como puntualizan en PubMed Central cuando definen el tipo de contenidos: “They are free to access, but they are not Open Access articles in the specialized sense of that term.” &lt;a href=&quot;#fnref:fn13&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:fn14&quot;&gt;
+      &lt;p&gt;Lo que implica que podemos instalarlo en nuestro propio ordenador/servidor. Normalmente tambi´en podemos utilizarlos en sus propios servidores como SaaS &lt;a href=&quot;#fnref:fn14&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:fn15&quot;&gt;
+      &lt;p&gt;Por supuesto, al utilizar un repositorio, si se trata de textos que han sido enviados previamente a una revista, debemos tener en cuenta la política de la revista en cuanto a derechos de autor, puesto que aunque cada vez más revistas permiten el archivado en repositorios, no todas lo hacen, y también pueden existir diferencias en cuanto hasta qué nivel lo permiten. Aparte de leer cuidadosamente las condiciones del contrato con cada revista, podemos hacer una búsqueda en la web de SHERPA/Romeo, que informa de las condiciones de decenas de miles de revistas científicas. &lt;a href=&quot;#fnref:fn15&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:fn16&quot;&gt;
+      &lt;p&gt;En el momento de escribir este texto, de los 1355 recursos disponibles creados con Open Author, 1205 tienen una licencia que permite su modificacin. &lt;a href=&quot;#fnref:fn16&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:fn17&quot;&gt;
+      &lt;p&gt;Sólo en el caso de los proyectos públicos (repositorios en la terminología GitHub). Pueden crearse también repositorios privados, pero en ese caso el alojamiento no es gratuito. &lt;a href=&quot;#fnref:fn17&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/conocimiento-y-tecnologia/&quot;&gt;Conocimiento abierto y tecnología&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on September 10, 2014.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Post with a Background Image]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/background-image/" />
+  <id>http://localhost:4000/background-image</id>
+  <published>2013-10-26T00:00:00-04:00</published>
+  <updated>2013-10-26T00:00:00-04:00</updated>
+  <author>
+    <name>Juan Muñoz</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Here be a sample post with a custom background image. To utilize this “feature” just add the following YAML to a post’s front matter.&lt;/p&gt;
+
+&lt;!--mas--&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;&lt;span class=&quot;l-Scalar-Plain&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;background&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;filename.png&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;This little bit of YAML makes the assumption that your background image asset is in the &lt;code&gt;/images&lt;/code&gt; folder. If you place it somewhere else or are hotlinking from the web, just include the full http(s):// URL. Either way you should have a background image that is tiled.&lt;/p&gt;
+
+&lt;p&gt;If you want to set a background image for the entire site just add &lt;code&gt;background: filename.png&lt;/code&gt; to your &lt;code&gt;_config.yml&lt;/code&gt; and BOOM — background images on every page!&lt;/p&gt;
+
+&lt;div xmlns:cc=&quot;http://creativecommons.org/ns#&quot; xmlns:dct=&quot;http://purl.org/dc/terms/&quot; about=&quot;http://subtlepatterns.com&quot; class=&quot;notice&quot;&gt;Background images from &lt;span property=&quot;dct:title&quot;&gt;Subtle Patterns&lt;/span&gt; (&lt;a rel=&quot;cc:attributionURL&quot; property=&quot;cc:attributionName&quot; href=&quot;http://subtlepatterns.com&quot;&gt;Subtle Patterns&lt;/a&gt;) / &lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by-sa/3.0/&quot;&gt;CC BY-SA 3.0&lt;/a&gt;&lt;/div&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/background-image/&quot;&gt;Post with a Background Image&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on October 26, 2013.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Syntax Highlighting Post]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/code-highlighting-post/" />
+  <id>http://localhost:4000/code-highlighting-post</id>
+  <updated>2014-12-23T00:00:00-00:00</updated>
+  <published>2013-08-16T00:00:00-04:00</published>
+  
+  <author>
+    <name>Juan Muñoz</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;!--mas--&gt;
+
+&lt;h3 id=&quot;pygments-code-blocks&quot;&gt;Pygments Code Blocks&lt;/h3&gt;
+
+&lt;p&gt;To modify styling and highlight colors edit &lt;code&gt;/_sass/_pygments.scss&lt;/code&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nf&quot;&gt;#container&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;float&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;-240px&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;nav&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;pagination&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;role=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;navigation&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    {% if page.previous %}
+        &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;{{ site.url }}{{ page.previous.url }}&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;btn&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;title=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;{{ page.previous.title }}&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Previous article&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+    {% endif %}
+    {% if page.next %}
+        &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;{{ site.url }}{{ page.next.url }}&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;btn&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;title=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;{{ page.next.title }}&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Next article&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+    {% endif %}
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/nav&amp;gt;&lt;/span&gt;&lt;span class=&quot;c&quot;&gt;&amp;lt;!-- /.pagination --&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;module&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;Jekyll&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;TagIndex&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Page&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;initialize&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;base&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dir&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+      &lt;span class=&quot;vi&quot;&gt;@site&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;
+      &lt;span class=&quot;vi&quot;&gt;@base&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;base&lt;/span&gt;
+      &lt;span class=&quot;vi&quot;&gt;@dir&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dir&lt;/span&gt;
+      &lt;span class=&quot;vi&quot;&gt;@name&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;index.html&amp;#39;&lt;/span&gt;
+      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;process&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;vi&quot;&gt;@name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;read_yaml&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;File&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;base&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;_layouts&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;tag_index.html&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;tag&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;
+      &lt;span class=&quot;n&quot;&gt;tag_title_prefix&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;tag_title_prefix&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;||&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;Tagged: &amp;#39;&lt;/span&gt;
+      &lt;span class=&quot;n&quot;&gt;tag_title_suffix&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;tag_title_suffix&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;||&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;&amp;amp;#8211;&amp;#39;&lt;/span&gt;
+      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;title&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tag_title_prefix&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;description&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;An archive of posts tagged &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;.&amp;quot;&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;standard-code-block&quot;&gt;Standard Code Block&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;nav class=&quot;pagination&quot; role=&quot;navigation&quot;&amp;gt;
+    {% if page.previous %}
+        &amp;lt;a href=&quot;{{ site.url }}{{ page.previous.url }}&quot; class=&quot;btn&quot; title=&quot;{{ page.previous.title }}&quot;&amp;gt;Previous article&amp;lt;/a&amp;gt;
+    {% endif %}
+    {% if page.next %}
+        &amp;lt;a href=&quot;{{ site.url }}{{ page.next.url }}&quot; class=&quot;btn&quot; title=&quot;{{ page.next.title }}&quot;&amp;gt;Next article&amp;lt;/a&amp;gt;
+    {% endif %}
+&amp;lt;/nav&amp;gt;&amp;lt;!-- /.pagination --&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&quot;fenced-code-blocks&quot;&gt;Fenced Code Blocks&lt;/h3&gt;
+
+&lt;p&gt;To modify styling and highlight colors edit &lt;code&gt;/_sass/_coderay.scss&lt;/code&gt;. Line numbers and a few other things can be modified in &lt;code&gt;_config.yml&lt;/code&gt;. Consult &lt;a href=&quot;http://jekyllrb.com/docs/configuration/&quot;&gt;Jekyll’s documentation&lt;/a&gt; for more information.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;#container {
+    float: left;
+    margin: 0 -240px 0 0;
+    width: 100%;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-html&quot;&gt;&amp;lt;nav class=&quot;pagination&quot; role=&quot;navigation&quot;&amp;gt;
+    {% if page.previous %}
+        &amp;lt;a href=&quot;{{ site.url }}{{ page.previous.url }}&quot; class=&quot;btn&quot; title=&quot;{{ page.previous.title }}&quot;&amp;gt;Previous article&amp;lt;/a&amp;gt;
+    {% endif %}
+    {% if page.next %}
+        &amp;lt;a href=&quot;{{ site.url }}{{ page.next.url }}&quot; class=&quot;btn&quot; title=&quot;{{ page.next.title }}&quot;&amp;gt;Next article&amp;lt;/a&amp;gt;
+    {% endif %}
+&amp;lt;/nav&amp;gt;&amp;lt;!-- /.pagination --&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;module Jekyll
+  class TagIndex &amp;lt; Page
+    def initialize(site, base, dir, tag)
+      @site = site
+      @base = base
+      @dir = dir
+      @name = &#39;index.html&#39;
+      self.process(@name)
+      self.read_yaml(File.join(base, &#39;_layouts&#39;), &#39;tag_index.html&#39;)
+      self.data[&#39;tag&#39;] = tag
+      tag_title_prefix = site.config[&#39;tag_title_prefix&#39;] || &#39;Tagged: &#39;
+      tag_title_suffix = site.config[&#39;tag_title_suffix&#39;] || &#39;&amp;amp;#8211;&#39;
+      self.data[&#39;title&#39;] = &quot;#{tag_title_prefix}#{tag}&quot;
+      self.data[&#39;description&#39;] = &quot;An archive of posts tagged #{tag}.&quot;
+    end
+  end
+end
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&quot;github-gist-embed&quot;&gt;GitHub Gist Embed&lt;/h3&gt;
+
+&lt;p&gt;An example of a Gist embed below.&lt;/p&gt;
+
+&lt;script src=&quot;https://gist.github.com/mmistakes/6589546.js&quot;&gt; &lt;/script&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Syntax_highlighting&quot;&gt;http://en.wikipedia.org/wiki/Syntax_highlighting&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/code-highlighting-post/&quot;&gt;Syntax Highlighting Post&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on August 16, 2013.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Sample Link Post]]></title>
+ <link rel="alternate" type="text/html" href="http://mademistakes.com" />
+  <id>http://localhost:4000/sample-link-post</id>
+  <published>2013-08-12T00:00:00-04:00</published>
+  <updated>2013-08-12T00:00:00-04:00</updated>
+  <author>
+    <name>Juan Muñoz</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;This theme supports &lt;strong&gt;link posts&lt;/strong&gt;, made famous by John Gruber. To use, just add &lt;code&gt;link: http://url-you-want-linked&lt;/code&gt; to the post’s YAML front matter and you’re done.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/sample-link-post/&quot;&gt;Sample Link Post&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on August 12, 2013.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[A Post with a Video]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/video-post/" />
+  <id>http://localhost:4000/video-post</id>
+  <published>2013-06-25T00:00:00-04:00</published>
+  <updated>2013-06-25T00:00:00-04:00</updated>
+  <author>
+    <name>Juan Muñoz</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/SU3kYxJmWuQ&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+
+&lt;p&gt;Video embeds are responsive and scale with the width of the main content block with the help of &lt;a href=&quot;http://fitvidsjs.com/&quot;&gt;FitVids&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Not sure if this only effects Kramdown or if it’s an issue with Markdown in general. But adding YouTube video embeds causes errors when building your Jekyll site. To fix add a space between the &lt;code&gt;&amp;lt;iframe&amp;gt;&lt;/code&gt; tags and remove &lt;code&gt;allowfullscreen&lt;/code&gt;. Example below:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;iframe&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;560&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;315&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;//www.youtube.com/embed/SU3kYxJmWuQ&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;frameborder=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;0&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/video-post/&quot;&gt;A Post with a Video&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on June 25, 2013.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Post with Large Feature Image and Text]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/readability-feature-post/" />
+  <id>http://localhost:4000/readability-feature-post</id>
+  <updated>2013-06-30T00:00:00-00:00</updated>
+  <published>2013-05-23T00:00:00-04:00</published>
+  
+  <author>
+    <name>Juan Muñoz</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;This is a sample post with a large feature image up top and tons of text. Odio ad blue bottle vinyl, 90’s narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney’s. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.&lt;/p&gt;
+
+&lt;p&gt;Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.&lt;/p&gt;
+
+&lt;h2 id=&quot;cupidatat-90s-lo-fi-authentic-try-hard&quot;&gt;Cupidatat 90’s lo-fi authentic try-hard&lt;/h2&gt;
+
+&lt;p&gt;In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. Terry Richardson shabby chic +1, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. Farm-to-table hashtag Truffaut, Odd Future ex meggings gentrify single-origin coffee try-hard 90’s.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sartorial hoodie&lt;/li&gt;
+  &lt;li&gt;Labore viral forage&lt;/li&gt;
+  &lt;li&gt;Tote bag selvage&lt;/li&gt;
+  &lt;li&gt;DIY exercitation et id ugh tumblr church-key&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Incididunt umami sriracha, ethical fugiat VHS ex assumenda yr irure direct trade. Marfa Truffaut bicycle rights, kitsch placeat Etsy kogi asymmetrical. Beard locavore flexitarian, kitsch photo booth hoodie plaid ethical readymade leggings yr.&lt;/p&gt;
+
+&lt;p&gt;Aesthetic odio dolore, meggings disrupt qui readymade stumptown brunch Terry Richardson pour-over gluten-free. Banksy american apparel in selfies, biodiesel flexitarian organic meh wolf quinoa gentrify banjo kogi. Readymade tofu ex, scenester dolor umami fingerstache occaecat fashion axe Carles jean shorts minim. Keffiyeh fashion axe nisi Godard mlkshk dolore. Lomo you probably haven’t heard of them eu non, Odd Future Truffaut pug keytar meggings McSweeney’s Pinterest cred. Etsy literally aute esse, eu bicycle rights qui meggings fanny pack. Gentrify leggings pug flannel duis.&lt;/p&gt;
+
+&lt;h2 id=&quot;forage-occaecat-cardigan-qui&quot;&gt;Forage occaecat cardigan qui&lt;/h2&gt;
+
+&lt;p&gt;Fashion axe hella gastropub lo-fi kogi 90’s aliquip +1 veniam delectus tousled. Cred sriracha locavore gastropub kale chips, iPhone mollit sartorial. Anim dolore 8-bit, pork belly dolor photo booth aute flannel small batch. Dolor disrupt ennui, tattooed whatever salvia Banksy sartorial roof party selfies raw denim sint meh pour-over. Ennui eu cardigan sint, gentrify iPhone cornhole.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Whatever velit occaecat quis deserunt gastropub, leggings elit tousled roof party 3 wolf moon kogi pug blue bottle ea. Fashion axe shabby chic Austin quinoa pickled laborum bitters next level, disrupt deep v accusamus non fingerstache.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Tote bag asymmetrical elit sunt. Occaecat authentic Marfa, hella McSweeney’s next level irure veniam master cleanse. Sed hoodie letterpress artisan wolf leggings, 3 wolf moon commodo ullamco. Anim occupy ea labore Terry Richardson. Tofu ex master cleanse in whatever pitchfork banh mi, occupy fugiat fanny pack Austin authentic. Magna fugiat 3 wolf moon, labore McSweeney’s sustainable vero consectetur. Gluten-free disrupt enim, aesthetic fugiat jean shorts trust fund keffiyeh magna try-hard.&lt;/p&gt;
+
+&lt;h2 id=&quot;hoodie-duis&quot;&gt;Hoodie Duis&lt;/h2&gt;
+
+&lt;p&gt;Actually salvia consectetur, hoodie duis lomo YOLO sunt sriracha. Aute pop-up brunch farm-to-table odio, salvia irure occaecat. Sriracha small batch literally skateboard. Echo Park nihil hoodie, aliquip forage artisan laboris. Trust fund reprehenderit nulla locavore. Stumptown raw denim kitsch, keffiyeh nulla twee dreamcatcher fanny pack ullamco 90’s pop-up est culpa farm-to-table. Selfies 8-bit do pug odio.&lt;/p&gt;
+
+&lt;h3 id=&quot;thundercats-ho&quot;&gt;Thundercats Ho!&lt;/h3&gt;
+
+&lt;p&gt;Fingerstache thundercats Williamsburg, deep v scenester Banksy ennui vinyl selfies mollit biodiesel duis odio pop-up. Banksy 3 wolf moon try-hard, sapiente enim stumptown deep v ad letterpress. Squid beard brunch, exercitation raw denim yr sint direct trade. Raw denim narwhal id, flannel DIY McSweeney’s seitan. Letterpress artisan bespoke accusamus, meggings laboris consequat Truffaut qui in seitan. Sustainable cornhole Schlitz, twee Cosby sweater banh mi deep v forage letterpress flannel whatever keffiyeh. Sartorial cred irure, semiotics ethical sed blue bottle nihil letterpress.&lt;/p&gt;
+
+&lt;p&gt;Occupy et selvage squid, pug brunch blog nesciunt hashtag mumblecore skateboard yr kogi. Ugh small batch swag four loko. Fap post-ironic qui tote bag farm-to-table american apparel scenester keffiyeh vero, swag non pour-over gentrify authentic pitchfork. Schlitz scenester lo-fi voluptate, tote bag irony bicycle rights pariatur vero Vice freegan wayfarers exercitation nisi shoreditch. Chambray tofu vero sed. Street art swag literally leggings, Cosby sweater mixtape PBR lomo Banksy non in pitchfork ennui McSweeney’s selfies. Odd Future Banksy non authentic.&lt;/p&gt;
+
+&lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/readability-feature-post/&quot;&gt;Post with Large Feature Image and Text&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on May 23, 2013.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[A Post with Images]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/sample-post-images/" />
+  <id>http://localhost:4000/sample-post-images</id>
+  <published>2013-05-22T00:00:00-04:00</published>
+  <updated>2013-05-22T00:00:00-04:00</updated>
+  <author>
+    <name>Juan Muñoz</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use &lt;code&gt;figure&lt;/code&gt; with the appropriate &lt;code&gt;class&lt;/code&gt;. Each instance of &lt;code&gt;figure&lt;/code&gt; is auto-numbered and displayed in the caption.&lt;/p&gt;
+
+&lt;h2 id=&quot;figures-for-images-or-video&quot;&gt;Figures (for images or video)&lt;/h2&gt;
+
+&lt;h3 id=&quot;one-up&quot;&gt;One Up&lt;/h3&gt;
+
+&lt;figure&gt;
+	&lt;a href=&quot;http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg&quot;&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;&lt;a href=&quot;http://www.flickr.com/photos/80901381@N04/7758832526/&quot; title=&quot;Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr&quot;&gt;Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr&lt;/a&gt;.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;two-up&quot;&gt;Two Up&lt;/h3&gt;
+
+&lt;p&gt;Apply the &lt;code&gt;half&lt;/code&gt; class like so to display two images side by side that share the same caption.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;figure&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;half&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+	&lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;/images/image-filename-1.jpg&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+	&lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;/images/image-filename-2.jpg&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+	&lt;span class=&quot;nt&quot;&gt;&amp;lt;figcaption&amp;gt;&lt;/span&gt;Caption describing these two images.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figcaption&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figure&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;And you’ll get something that looks like this:&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;&quot; /&gt;
+	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;&quot; /&gt;
+	&lt;figcaption&gt;Two images.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;three-up&quot;&gt;Three Up&lt;/h3&gt;
+
+&lt;p&gt;Apply the &lt;code&gt;third&lt;/code&gt; class like so to display three images side by side that share the same caption.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;figure&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;third&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+	&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;http://placehold.it/1200x600.jpg&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;http://placehold.it/600x300.jpg&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+	&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;http://placehold.it/1200x600.jpg&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;http://placehold.it/600x300.jpg&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+	&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;http://placehold.it/1200x600.jpg&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;http://placehold.it/600x300.jpg&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+	&lt;span class=&quot;nt&quot;&gt;&amp;lt;figcaption&amp;gt;&lt;/span&gt;Caption describing these three images.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figcaption&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figure&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;And you’ll get something that looks like this:&lt;/p&gt;
+
+&lt;figure class=&quot;third&quot;&gt;
+	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;Three images.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;alternative-way&quot;&gt;Alternative way&lt;/h3&gt;
+
+&lt;p&gt;Another way to achieve the same result is to include &lt;code&gt;gallery&lt;/code&gt; Liquid template. In this case you
+don’t have to write any HTML tags – just copy a small block of code, adjust the parameters (see below)
+and fill the block with any number of links to images. You can mix relative and external links.&lt;/p&gt;
+
+&lt;p&gt;Here is the block you might want to use:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-jinja&quot; data-lang=&quot;jinja&quot;&gt;&lt;span class=&quot;cp&quot;&gt;{%&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;capture&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;images&lt;/span&gt; &lt;span class=&quot;cp&quot;&gt;%}&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;x&quot;&gt;	/images/kitsch/postal-000.jpg&lt;/span&gt;
+&lt;span class=&quot;x&quot;&gt;	/images/kitsch/postal-001.jpg&lt;/span&gt;
+&lt;span class=&quot;x&quot;&gt;	/images/kitsch/postal-002.jpg&lt;/span&gt;
+&lt;span class=&quot;x&quot;&gt;	/images/kitsch/postal-003.jpg&lt;/span&gt;
+&lt;span class=&quot;x&quot;&gt;	/images/kitsch/postal-004.jpg&lt;/span&gt;
+&lt;span class=&quot;x&quot;&gt;	/images/kitsch/postal-005.jpg&lt;/span&gt;
+&lt;span class=&quot;x&quot;&gt;	/images/kitsch/postal-006.jpg&lt;/span&gt;
+&lt;span class=&quot;x&quot;&gt;	/images/kitsch/postal-007.jpg&lt;/span&gt;
+&lt;span class=&quot;x&quot;&gt;	/images/kitsch/postal-008.jpg&lt;/span&gt;
+&lt;span class=&quot;cp&quot;&gt;{%&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;endcapture&lt;/span&gt; &lt;span class=&quot;cp&quot;&gt;%}&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;cp&quot;&gt;{%&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;include&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;gallery&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;images&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;images&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;caption&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;Test images&amp;quot;&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;cols&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;3&lt;/span&gt; &lt;span class=&quot;cp&quot;&gt;%}&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Parameters:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code&gt;caption&lt;/code&gt;: Sets the caption under the gallery (see &lt;code&gt;figcaption&lt;/code&gt; HTML tag above);&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;cols&lt;/code&gt;: Sets the number of columns of the gallery.
+Available values: [1..3].&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It will look something like this:&lt;/p&gt;
+
+&lt;figure class=&quot;third&quot;&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postal-000.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postal-000.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postal-001.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postal-001.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postal-002.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postal-002.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postal-003.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postal-003.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postal-004.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postal-004.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postal-005.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postal-005.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postal-006.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postal-006.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postal-007.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postal-007.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postal-008.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postal-008.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/kitsch/postal-009.jpg&quot;&gt;&lt;img src=&quot;/images/kitsch/postal-009.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;Test images&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/sample-post-images/&quot;&gt;A Post with Images&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on May 22, 2013.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Guía de herramientas Moodle 2.0]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/herramientas-moodle/" />
+  <id>http://localhost:4000/herramientas-moodle</id>
+  <updated>2014-12-24T00:00:00-00:00</updated>
+  <published>2013-05-16T00:00:00-04:00</published>
+  
+  <author>
+    <name>Juan Muñoz</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Interesante &lt;a href=&quot;http://www.scribd.com/doc/90669679&quot;&gt;guía de posibles usos de las herramientas Moodle&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;http://www.scribd.com/embeds/90669679/content?start_page=1&amp;amp;view_mode=scroll&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; width=&quot;100%&quot; height=&quot;600&quot; class=&quot;scribd_iframe_embed&quot; data-auto-height=&quot;false&quot; data-aspect-ratio=&quot;undefined&quot; id=&quot;doc_76917&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/herramientas-moodle/&quot;&gt;Guía de herramientas Moodle 2.0&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on May 16, 2013.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Research with Atlas.ti]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/research-with-atlas/" />
+  <id>http://localhost:4000/research-with-atlas</id>
+  <updated>2014-12-24T00:00:00-00:00</updated>
+  <published>2012-10-31T00:00:00-04:00</published>
+  
+  <author>
+    <name>Juan Muñoz</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;En el último número de la &lt;a href=&quot;http://www.atlasti.com/newsletter.html&quot;&gt;newsletter&lt;/a&gt; de ATLAS.ti podemos encontrar un breve texto de Christina Herkommer en el que explica cómo utilizó Atlas.ti para el análisis de datos de su tesis. Aunque simple, puede ser de ayuda para aquellas personas que tengan dudas sobre la conveniencia o no de la utilización de software para el análisis.&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/research-with-atlas/&quot;&gt;Research with Atlas.ti&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on October 31, 2012.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Milgram en el S. XXI (2)]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/milgram-sxxi-2/" />
+  <id>http://localhost:4000/milgram-sxxi-2</id>
+  <updated>2014-12-24T00:00:00-00:00</updated>
+  <published>2012-10-03T00:00:00-04:00</published>
+  
+  <author>
+    <name>Juan Muñoz</name>
+    <uri>http://localhost:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;El 17 de marzo de 2010, la cadena de televisión France 2 emite un documental titulado “Le jeu de la mort”, en el que se realiza una crítica a los programas de telerealidad y los peligros que conllevan dado el enorme poder que están adquiriendo y la tremenda capacidad que tienen para situar a las personas (concursantes) en situaciones desagradables.&lt;/p&gt;
+
+&lt;p&gt;El documental gira en torno a la simulación de un concurso de televisión “La Zone Xtrême”, en el que supuestamente un concursante tiene que dar descargas eleécticras de gran intensidad a otra persona que está realizando una tarea de aprendizaje.&lt;/p&gt;
+
+&lt;p&gt;Las similitudes con las investigaciones de Stanley Milgram son evidentes, y lo son todavía más si consideramos que el diseño del juego ha sido realizado por un equipo dirigido por el psicólogo social Jean-Léon Beuavois.&lt;/p&gt;
+
+&lt;p&gt;El objetivo de los investigadores es comprobar si otros agentes, como la televisión, están dotados de un grado de autoridad que les permite hacer programas en los que los participantes realizan actos peligrosos. Por lo tanto, comprobar si el poder legítimo que era la base de los resultados de Milgram podía estar presente también en este otro contexto no científico.&lt;/p&gt;
+
+&lt;p&gt;Didier, C., Oberlé, D., &amp;amp; Beauvois, J.-L. (2011). Une Transposition Du Paradigme D’obéissance De Milgram À La Télévision: Enjeux, Résultats Et Perspectives. Conexions, 95(1), 71–88.
+Beauvois, J.-L., Courbet, D., &amp;amp; Oberlé, D. (2012). The prescriptive power of the television host. A transposition of Milgram’s obedience paradigm to the context of TV game show. Revue Européenne de Psychologie Appliquée/European Review of Applied Psychology, 62(3), 111–119.&lt;/p&gt;
+
+&lt;p&gt;Read More
+El estudio, aunque muy parecido, no es una réplica exacta de Milgram, puesto que se realiza en un contexto muy diferente y la legitimidad de la autoridad no es la científica, sino que viene dada por el contexto televisivo. Para los participantes no se trata de un estudio científico, sino una prueba piloto para un concurso televisivo (France 2). Se les dice que en el concurso real los participantes pueden llegar a ganar un millón de euros, pero dado que se trata de un piloto, que no se va a emitir, ellos recibirán sólo una recompensa de 40€&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Our assumption is that the authority is incarnated by the game host. While the persuasive influence of hosts is now widely recognized (Nabi and Hendriks, 2003), it is the host’s prescriptive power which we would like to make apparent and whose potential limits we would like to test. This power is related to the statutory position occupied in an organizational structure and results from a delegation of power (Coenen-Huther, 2005). It thus does not depend on the delegated person’s level of prestige. ” (Beauvois, Courbet, &amp;amp; Oberlé, 2012, p. 112)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;participantes-y-condiciones-experimentales&quot;&gt;Participantes y condiciones experimentales&lt;/h2&gt;
+
+&lt;p&gt;76 participantes del área de París, reclutados a través de una empresa de estudios de opinión y de mercado. Se realizan cuatro versiones del experimento.&lt;/p&gt;
+
+&lt;p&gt;Condición estándar (n = 32): similar a la de Milgram con feedback (experimento 2). Un maestro y un alumno (cómplice) que debe responder a 27 preguntas. Ante cada uno de los errores (programados, un total de 24) el alumno debe dar una descarga eléctrica incrementando el nivel tras cada error. Las descargas van entre 20 y 460 voltios, en intérvalos de 20. Hay un total de 24 intérvalos.&lt;/p&gt;
+
+&lt;p&gt;Si el participante se niega a contestar, la conductora del programa le insiste con cuatro mensajes (exhortaciones) en la línea de Milgram. Hay un quinto adicional que implica pedir la opinión del público (100 personas ingenuas)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“Que no te impresiona, hay que continuar”,&lt;/li&gt;
+  &lt;li&gt;“Las reglas dicen que tienes que continuar”&lt;/li&gt;
+  &lt;li&gt;“Nosotros asumimos todas las consecuencias”&lt;/li&gt;
+  &lt;li&gt;“Ahora mismo el candidato quiere parar, pero en 10 minutos te lo agradecerá”&lt;/li&gt;
+  &lt;li&gt;“No puedes hacer que pierda. ¿Qué piensa la audiencia?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;Condición apoyo social (n = 19)&lt;/dt&gt;
+  &lt;dd&gt;Cuando el voltaje llega a 120 (nivel 6), el ayudante de producción pide que se pare el programa puesto que es inmoral lo que se está haciendo. La conductora del programa lo ignora y el juego continúa.&lt;/dd&gt;
+  &lt;dt&gt;Condición emisión (n = 18)&lt;/dt&gt;
+  &lt;dd&gt;Se les dice que aunque la idea original era que el programa piloto no se retransmitiera, finalmente el programa se emitirá, aunque igualmente no ganarán ningún premio.&lt;/dd&gt;
+  &lt;dt&gt;Condición presentadora se marcha (n = 7)&lt;/dt&gt;
+  &lt;dd&gt;Similar al experimento 7 de Milgram (experimentador ausente). Al llegar a los 80 voltios (nivel 4), la presentadora dice que se ausenta del plató y que no volverá hasta que no finalice el juego.&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;h2 id=&quot;debriefing&quot;&gt;Debriefing&lt;/h2&gt;
+
+&lt;p&gt;En todas las condiciones, al finalizar el experimento se realizó el debriefing post-experimental, que consta de cinco elementos,&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;se explica al participante los objetivos reales del experimento y se le asegura que su conducta ha sido la habitual&lt;/li&gt;
+  &lt;li&gt;el participante contesta un cuestionario para evaluar, desde su punto de vista la responsabilidad que tienen en lo acontecido, el productor, la presentadora, el público, el alumno y él mismo&lt;/li&gt;
+  &lt;li&gt;se le solicita la libre verbalización de sus sentimiento&lt;/li&gt;
+  &lt;li&gt;se le presentan demostraciones estadísticas de que la obediencia es la conducta más habitual&lt;/li&gt;
+  &lt;li&gt;Se le informa de que el experimento se incorporará en un documental crítico con ciertas formas de reality show televisivos.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;resultados&quot;&gt;Resultados&lt;/h2&gt;
+
+&lt;p&gt;En la gráfica podemos ver cómo en la condición estándar se encuentra el mayor porcentaje de personas que llegan hasta el máximo nivel es de 81,25% (26 de 32), mientras que el menor porcentaje se encuentra en la condición en la que la presentadora del programa se ausenta, con sólo un 28,57% de personas que llegan al nivel máximo (2 de 9). De hecho, sólo se encuentran diferencias estadísticamente significativas (tanto en obediencia como en el número medio de descargas) entre la condición estándar y la de ausencia. No hay diferencias en función de género ni de categorías socioprofesionales, ni en función de la edad.&lt;/p&gt;
+
+&lt;h2 id=&quot;resultados-beuaviois&quot;&gt;Resultados Beuaviois&lt;/h2&gt;
+
+&lt;p&gt;En cuanto al cuestionario postexperimental en de atribución de responsabilidad (en una escala del 1 al 100), podemos ver los resultados en la siguiente gráfica. En esta ocasión, si tenemos en cuenta las respuestas de las personas obedientes y las obedientes se encuentran diferencias significativas en el sentido de que los obedientes atribuyen más responsabilidad al productor que a ellos mismos, mientras que los desobedientes lo hacen al revés.&lt;/p&gt;
+
+&lt;h2 id=&quot;resultados-adicionales&quot;&gt;Resultados adicionales&lt;/h2&gt;
+&lt;p&gt;Según los autores, es de destacar que la última consigna para que se continúe (la pregunta al público), no tiene efecto, de los 16 participantes que llegaron a ella, sólo uno le hizo caso y continuó. De hecho, la mayoría de los obedientes sólo necesitaron dos “incitaciones”.&lt;/p&gt;
+
+&lt;p&gt;Por otra parte, Milgram afirmaba que la desobediencia ocurre principalmente por un búsqueda de reducción de la tensión (más que por motivos morales), y que los participantes utilizaban diversas estrategias para reducirla, algo que ocurre también en este experimento: 1) Risas en los niveles moderados de descargas: 70% de los participantes se ríen a los 80v, la primera vez que el alumno se queja; 2) Engaño: al nivel de 180 un 17% de los participantes intenta engañar utilizando un tono de voz diferente para la respuesta correcta; 3) Eliminación psicológica: al llegar a los 320v, el 70% hacen lo que Milgram llama “eliminación psicológica” , ignorándolo.&lt;/p&gt;
+
+&lt;h2 id=&quot;discusin&quot;&gt;Discusión&lt;/h2&gt;
+
+&lt;p&gt;Los autores destacan cómo sus resultados, incluso en un entorno muy diferente, son similares a los de Milgram en el sentido de que el factor determinante a la hora de que se produzca la obediencia es la proximidad de la figura de autoridad, puesto que la obediencia disminuye significativamente sólo en la condición en la que se ausenta la presentadora.&lt;/p&gt;
+
+&lt;p&gt;Por otra parte, llama la atención que la condición “apoyo” no haya hecho disminuir la obediencia, algo que sí que ocurría en la investigación de Milgram pero que va en la misma línea que los resultados obtenidos por Burger (2009).&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;What we found here in the television studio is that obedience continues to be a reality, at a time when many authors believe that our societies are evolving instead toward greater permissiveness, toward more “negotiated” powers and even toward the end of authority altogether (Friedberg, 1997; Lemel and Galland, 1988). While this is not sufficient to make the argument that current times encourage greater obedience than was the case in the 1960s, our observations, like those of Burger, warrant at least some skepticism about theses like that of the end of authority. They also help us understand why, in today’s liberal society, “moral rebels” may be stigmatized (Monin et al., 2008).” (Beauvois, Courbet, &amp;amp; Oberlé, 2012, p. 119)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;{youtube}P7CPKPQV6jc{/youtube}&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/milgram-sxxi-2/&quot;&gt;Milgram en el S. XXI (2)&lt;/a&gt; was originally published by Juan Muñoz at &lt;a href=&quot;http://localhost:4000&quot;&gt;El sitio de Juan&lt;/a&gt; on October 03, 2012.&lt;/p&gt;
+  </content>
+</entry>
+
+</feed>

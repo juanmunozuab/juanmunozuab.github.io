@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<table border="0" cellspacing="1" bgcolor="#000000">
+	<th>
+		<td width="120" color="#FFFF00" bgcolor="#000000" align="right">Utilizados más frecuentemente</td>
+		<td width="120" color="#FFFF00" bgcolor="#000000" align="left">Utilizados menos frecuentemente</td>
+	</th>
+
+	<tr>
+		<td width="50" bgcolor="#33FF00" align="right">Conservador</td>
+		<td width="60" bgcolor="#FF6600" align="left">Modesto</td>
+	</tr>
+
+	<tr>
+		<td width="50" bgcolor="#33FF00" align="right">Sociable</td>
+		<td width="60" bgcolor="#FF6600" align="left">Imaginativo</td>
+	</tr>
+	
+	<tr>
+		<td width="50" bgcolor="#33FF00" align="right">Amistoso</td>
+		<td width="60" bgcolor="#FF6600" align="left">Romántico</td>
+	</tr>
+	
+	<tr>
+		<td width="50" bgcolor="#33FF00" align="right">Pacífico</td>
+		<td width="60" bgcolor="#FF6600" align="left">Artístico</td>
+	</tr>
+
+	<tr>
+		<td width="50" bgcolor="#33FF00" align="right">Flexible</td>
+		<td width="60" bgcolor="#FF6600" align="left">Religioso</td>
+	</tr>
+
+	<tr>
+		<td width="50" bgcolor="#33FF00" align="right">Optimista</td>
+		<td width="60" bgcolor="#FF6600" align="left">Espiritualista</td>
+	</tr>
+	
+	<tr>
+		<td width="50" bgcolor="#33FF00" align="right">Seguidor</td>
+		<td width="60" bgcolor="#FF6600" align="left">Sutil</td>
+	</tr>
+
+
+</table>
