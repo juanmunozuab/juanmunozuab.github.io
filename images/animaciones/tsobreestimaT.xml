@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<table border="0" cellspacing="1" bgcolor="#000000">
+	<th>
+		<td width="200" color="#FFFF00" bgcolor="#000000" align="center">Condición</td>
+		<td width="50" color="#FFFFFF" bgcolor="#000000" align="center" sort="number">1c</td>
+		<td width="50" color="#FFFFFF" bgcolor="#000000" align="center" sort="number">5c</td>
+		<td width="50" color="#FFFFFF" bgcolor="#000000" align="center" sort="number">10c</td>
+		<td width="50" color="#FFFFFF" bgcolor="#000000" align="center" sort="number">25c</td>
+		<td width="50" color="#FFFFFF" bgcolor="#000000" align="center" sort="number">50c</td>
+
+	</th>
+
+	<tr>
+		<td width="50" bgcolor="#CCCCCC" >Monedas ausentes</td>
+		<td width="60" bgcolor="#CCCCCC" align="right">16.5</td>
+		<td width="80" bgcolor="#CCCCCC" align="right">23.9</td>
+		<td width="100" bgcolor="#CCCCCC" align="right">29.1</td>
+		<td width="100" bgcolor="#CCCCCC" align="right">3.7</td>
+		<td width="100" bgcolor="#CCCCCC" align="right">29.6</td>
+	</tr>
+	<tr>
+		<td width="50" bgcolor="#CCCCCC" >Monedas presentes</td>
+		<td width="60" bgcolor="#CCCCCC" align="right">7.2</td>
+		<td width="80" bgcolor="#CCCCCC" align="right">19.6</td>
+		<td width="100" bgcolor="#CCCCCC" align="right">11.6</td>
+		<td width="100" bgcolor="#CCCCCC" align="right">32.8</td>
+		<td width="100" bgcolor="#CCCCCC" align="right">35.8</td>
+	</tr>
+	<tr>
+		<td width="50" bgcolor="#CCCCCC" >Discos cartón</td>
+		<td width="60" bgcolor="#CCCCCC" align="right">-5.4</td>
+		<td width="80" bgcolor="#CCCCCC" align="right">-0.9</td>
+		<td width="100" bgcolor="#CCCCCC" align="right">-1.5</td>
+		<td width="100" bgcolor="#CCCCCC" align="right">1.8</td>
+		<td width="100" bgcolor="#CCCCCC" align="right">-0.8</td>
+	</tr>
+	<tr>
+		<td width="50" bgcolor="#CCCCCC" >Ricos: Monedas presentes</td>
+		<td width="60" bgcolor="#CCCCCC" align="right">10.3</td>
+		<td width="80" bgcolor="#CCCCCC" align="right">20.4</td>
+		<td width="100" bgcolor="#CCCCCC" align="right">16.3</td>
+		<td width="100" bgcolor="#CCCCCC" align="right">22.4</td>
+		<td width="100" bgcolor="#CCCCCC" align="right">17.4</td>
+	</tr>
+	<tr>
+		<td width="50" bgcolor="#CCCCCC" >Pobres: Monedas presentes</td>
+		<td width="60" bgcolor="#CCCCCC" align="right">22.7</td>
+		<td width="80" bgcolor="#CCCCCC" align="right">27.3</td>
+		<td width="100" bgcolor="#CCCCCC" align="right">41.8</td>
+		<td width="100" bgcolor="#CCCCCC" align="right">51.6</td>
+		<td width="100" bgcolor="#CCCCCC" align="right">42.0</td>
+	</tr>
+	<tr>
+		<td width="50" bgcolor="#CCCCCC" >Ricos: Monedas ausentes</td>
+		<td width="60" bgcolor="#CCCCCC" align="right">2.6</td>
+		<td width="80" bgcolor="#CCCCCC" align="right">19.8</td>
+		<td width="100" bgcolor="#CCCCCC" align="right">7.8</td>
+		<td width="100" bgcolor="#CCCCCC" align="right">28.3</td>
+		<td width="100" bgcolor="#CCCCCC" align="right">34.7</td>
+	</tr>
+	<tr>
+		<td width="50" bgcolor="#CCCCCC" >Pobres: Monedas ausentes</td>
+		<td width="60" bgcolor="#CCCCCC" align="right">11.8</td>
+		<td width="80" bgcolor="#CCCCCC" align="right">19.4</td>
+		<td width="100" bgcolor="#CCCCCC" align="right">15.4</td>
+		<td width="100" bgcolor="#CCCCCC" align="right">37.3</td>
+		<td width="100" bgcolor="#CCCCCC" align="right">36.9</td>
+	</tr>
+</table>
