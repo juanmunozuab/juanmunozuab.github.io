@@ -14,4 +14,3 @@ Programa gratuito que facilita la transcripción de archivos de sonido o vídeo.
 
 Aquí tienes una pequeña guía visual de cómo funciona Soundscriber.
 
-{% swfobject /images/animaciones/sscriber.swf %}Flash Player required.{% endswfobject %}
