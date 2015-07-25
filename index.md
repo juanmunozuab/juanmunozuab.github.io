@@ -10,17 +10,17 @@ header:
    image_fullwidth: "LibrosDespacho.jpg"
 widget-1:
     title: "Blog"
-    url: /blog/
+    url: "http://juanmunozuab.github.io/blog/"
     text: 'Esta es la sección en la que de vez en cuando iré publicando alguna idea, noticia, enlace a algún sitio interesante... No esperes que haya un número excesivo de actualizaciones ;-)'
     image: typewriter.jpg
 widget-2:
     title: "Docencia"
-    url: 'http://phlow.github.io/feeling-responsive/info/'
+    url: 'http://juanmunozuab.github.io/docencia'
     text: 'Aquí podrás encontrar diversos recursos relacionados con mi docencia'
     image: chalkboard.png
 widget-3:
     title: "Psicología Social"
-    url: 'https://github.com/Phlow/feeling-responsive'
+    url: 'http://juanmunozuab.github.io/social/'
     text: 'Este apartado está dedicado a textos que he escrito sobre Psicología social. No se trata de artículos "científicos", sino simplemente de temas que en algún momento me han interesado y que probablemente he utilizado como materiales docentes.'
     image: definition.jpg
 ---
