@@ -64,10 +64,3 @@ Muñoz-Justicia, J. (1990). El papel de las normas en la definición de la agres
 Muñoz-Justicia, J. (1988). *Psicología social de la agresión. Análisis teórico y experimental*. Universitat Autònoma de Barcelona, Barcelona. [Descargar](/mistextos/munoz-justicia_tesis_1988.pdf){:target="_blank" class="button tiny radius"}
 
 Blanch, J. M., Elejabarrieta, F. J., & Muñoz-Justicia, J. (1988). Ideología y Política. En J. Seoane & Á. Rodríguez (Eds.), *Psicología Política* (pp. 254-278). Madrid: Pirámide. [Descargar](mistextos/blanch_ideologia_1988.pdf){:target="_blank" class="button tiny radius"}
-
-
-{% comment %}
-
-{% bibliography %}
-
-{% endcomment %}

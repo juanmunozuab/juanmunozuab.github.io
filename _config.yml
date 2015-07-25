@@ -22,7 +22,7 @@ description: "Sobre »El sitio de Juan«"
 # This URL is the main adresse. Don't include a slash at the end.
 #
 url: "http://juanmunozuab.github.io"
-baseurl: "http://localhost:4000"
+baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -35,7 +35,6 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
 urlimg: "http://juanmunozuab.github.io/images/"
-
 
 # Logo size is 600x80 pixels
 logo: "ElSitioDe.png"
@@ -205,30 +204,3 @@ sass:
 # used in _includes/footer_scripts.html
 
 google_analytics_tracking_id: UA-60112281-1
-
-# Instalaciones adicionales
-gems: ['jekyll/scholar']
-
-# Configuracion jekyll/scholar
-# jekyll-scholar (bibliogragía)
-scholar:
-  style: apa
-  locale: es
-
-  sort_by: year
-  order: descending
-
-  source: ./_bibliography
-  bibliography: mis-textos.bib
-  bibliography_template: bibliography
-
-  replace_strings: true
-  join_strings:    true
-
-  details_dir:    bibliography
-  details_layout: bibtex.html
-  details_link:   Details
-
-  query: "@*"
-
-  repository: mistextos
