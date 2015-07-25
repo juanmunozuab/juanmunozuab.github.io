@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="443.12805"
+   height="84.75"
+   viewBox="0 0 443.12806 84.749997"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="categoriza-cuadrados.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="215.3047"
+     inkscape:cy="238.49553"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     width="2296.06px"
+     borderlayer="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="15"
+     fit-margin-left="15"
+     fit-margin-right="15"
+     fit-margin-bottom="15" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <animateTransform
+     attributeName="transform"
+     type="matrix"
+     to="20,0,0,20,0,0"
+     begin="boton.click"
+     dur="3s"
+     xlink:href="#c1c"
+     id="animateMotion2309">
+    <mpath
+       xlink:href="#path8507"
+       id="mpath2311" />
+  </animateTransform>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="nueva"
+     style="display:inline"
+     transform="translate(-7.5718908,-210.40626)">
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0.63760418"
+       id="rect6282"
+       width="54.102512"
+       height="54.102512"
+       x="94.567764"
+       y="225.73131"
+       inkscape:tile-cx="82.024383"
+       inkscape:tile-cy="228.43522"
+       inkscape:tile-w="54.102512"
+       inkscape:tile-h="54.102512"
+       inkscape:tile-x0="54.973127"
+       inkscape:tile-y0="201.38397" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect6282"
+       xlink:href="#rect6282"
+       id="use6303"
+       transform="translate(-71.678109,-1.7406052e-6)"
+       width="785.50635"
+       height="470.26572" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect6282"
+       xlink:href="#rect6282"
+       transform="translate(71.678117,-1.7406052e-6)"
+       id="use6305"
+       width="785.50635"
+       height="470.26572" />
+    <rect
+       inkscape:tile-y0="201.38397"
+       inkscape:tile-x0="253.55759"
+       y="225.73131"
+       x="237.924"
+       height="54.102512"
+       width="54.102512"
+       id="use6307"
+       style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0.63760418"
+       inkscape:tile-cx="280.60884"
+       inkscape:tile-cy="228.43522"
+       inkscape:tile-w="54.102512"
+       inkscape:tile-h="54.102512" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use6307"
+       xlink:href="#use6307"
+       id="use6317"
+       transform="translate(143.35621,-1.7406052e-6)"
+       width="785.50635"
+       height="470.26572" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use6307"
+       xlink:href="#use6307"
+       transform="translate(71.678102,-1.7406052e-6)"
+       id="use6319"
+       width="785.50635"
+       height="470.26572" />
+  </g>
+</svg>

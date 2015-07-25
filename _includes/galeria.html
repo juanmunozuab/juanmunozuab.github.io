@@ -1,0 +1,15 @@
+{% assign imgNameStart = page.id | remove: page.dir | remove: "/" %}
+{% assign imgBasePath = imgNameStart | prepend: "/images/kitsch/" %}
+{% assign imgBasePathb = imgNameStart | prepend: "/images/kitsch/thumbnails/" %}
+
+
+
+{% capture templates %}
+{% for tem in site.static_files %}
+{% if tem.path contains imgBasePathb %}
+{{ tem.path }}
+{% endif %}
+{% endfor %}
+{% endcapture %}
+
+{% include gallery images=images caption="" cols=3 %}

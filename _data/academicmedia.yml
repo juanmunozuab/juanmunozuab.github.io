@@ -1,0 +1,21 @@
+
+
+- name: Google Scholar
+  url: http://twitter.com/juanmunozuab
+  class: ai-google-scholar
+  title: "Mi página en Google Scholar"
+
+- name: Research Gate
+  url: http://researchgate
+  class: icon-google-scholar
+  title: "ResearchGate"
+
+- name: Twitter
+  url: http://github.com/JuanMJus
+  class: icon-twitter
+  title:
+
+- name: Pinterest
+  url: http://www.pinterest.com/jmunozjus/
+  class: icon-academia
+  title: "Mi poco activa página de Pinterest..."

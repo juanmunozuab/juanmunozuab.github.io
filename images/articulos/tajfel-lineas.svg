@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="447.04391"
+   height="408.66171"
+   viewBox="0 0 447.04392 408.6617"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="tajfel-lineas.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="232.62167"
+     inkscape:cy="220.0507"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     width="2296.06px"
+     borderlayer="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="15"
+     fit-margin-left="15"
+     fit-margin-right="15"
+     fit-margin-bottom="15" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <animateTransform
+     attributeName="transform"
+     type="matrix"
+     to="20,0,0,20,0,0"
+     begin="boton.click"
+     dur="3s"
+     xlink:href="#c1c"
+     id="animateMotion2309">
+    <mpath
+       xlink:href="#path8507"
+       id="mpath2311" />
+  </animateTransform>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="nueva"
+     style="display:inline"
+     transform="translate(0.36984271,-75.778628)">
+    <g
+       id="g6426"
+       transform="translate(112.78354,-50)">
+      <path
+         inkscape:tile-y0="-158.72309"
+         inkscape:tile-x0="295.47089"
+         inkscape:tile-h="228"
+         inkscape:tile-w="7.2724599"
+         inkscape:tile-cy="-44.72309"
+         inkscape:tile-cx="299.10712"
+         sodipodi:nodetypes="ccccc"
+         style="fill:#000000;display:inline"
+         inkscape:connector-curvature="0"
+         id="flecha"
+         d="m 195.97655,266.95524 0,-126.17655 -4.02463,-7e-5 0,126.17662 z" />
+      <use
+         height="84.75"
+         width="443.12805"
+         transform="matrix(1,0,0,0.95219298,-24.261717,12.762334)"
+         id="use6328"
+         xlink:href="#flecha"
+         y="0"
+         x="0" />
+      <use
+         height="84.75"
+         width="443.12805"
+         transform="matrix(1,0,0,0.90701754,-48.523416,24.822151)"
+         id="use6410"
+         xlink:href="#flecha"
+         inkscape:tiled-clone-of="#flecha"
+         y="0"
+         x="0" />
+      <use
+         height="84.75"
+         width="443.12805"
+         id="use6414"
+         transform="matrix(1,0,0,0.71052632,-169.83192,77.276519)"
+         xlink:href="#flecha"
+         inkscape:tiled-clone-of="#flecha"
+         y="0"
+         x="0" />
+      <use
+         height="84.75"
+         width="443.12805"
+         id="use6418"
+         transform="matrix(1,0,0,0.86359649,-72.785118,36.413632)"
+         xlink:href="#flecha"
+         inkscape:tiled-clone-of="#flecha"
+         y="0"
+         x="0" />
+      <use
+         height="84.75"
+         width="443.12805"
+         id="use6420"
+         transform="matrix(1,0,0,0.82236842,-97.046818,47.419681)"
+         xlink:href="#flecha"
+         inkscape:tiled-clone-of="#flecha"
+         y="0"
+         x="0" />
+      <use
+         height="84.75"
+         width="443.12805"
+         id="use6422"
+         transform="matrix(1,0,0,0.78333333,-121.30853,57.840305)"
+         xlink:href="#flecha"
+         inkscape:tiled-clone-of="#flecha"
+         y="0"
+         x="0" />
+      <use
+         height="84.75"
+         width="443.12805"
+         id="use6424"
+         transform="matrix(1,0,0,0.74605263,-145.57022,67.792585)"
+         xlink:href="#flecha"
+         inkscape:tiled-clone-of="#flecha"
+         y="0"
+         x="0" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g6426"
+       id="use6436"
+       transform="translate(114.19774,189.30004)"
+       width="443.12805"
+       height="84.75" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g6426"
+       id="use6438"
+       transform="translate(-114.19775,192.83557)"
+       width="443.12805"
+       height="84.75" />
+    <g
+       id="g6592">
+      <text
+         inkscape:tile-y0="221.73491"
+         inkscape:tile-x0="5.946597"
+         inkscape:tile-h="14.335937"
+         inkscape:tile-w="12.158203"
+         inkscape:tile-cy="228.90288"
+         inkscape:tile-cx="12.025698"
+         sodipodi:linespacing="100%"
+         id="text6488"
+         y="433.33484"
+         x="22.780008"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         xml:space="preserve"><tspan
+           style="font-size:20px"
+           y="433.33484"
+           x="22.780008"
+           id="tspan6490"
+           sodipodi:role="line">A</tspan></text>
+      <use
+         height="84.75"
+         width="443.12805"
+         transform="translate(72.642997,1.3720004e-7)"
+         id="use6508"
+         xlink:href="#text6488"
+         inkscape:tiled-clone-of="#text6488"
+         y="0"
+         x="0" />
+      <use
+         height="84.75"
+         width="443.12805"
+         id="use6518"
+         transform="translate(97.02377,1.3720004e-7)"
+         xlink:href="#text6488"
+         inkscape:tiled-clone-of="#text6488"
+         y="0"
+         x="0" />
+      <use
+         height="84.75"
+         width="443.12805"
+         id="use6520"
+         transform="translate(145.44836,1.3720004e-7)"
+         xlink:href="#text6488"
+         inkscape:tiled-clone-of="#text6488"
+         y="0"
+         x="0" />
+      <text
+         inkscape:tile-y0="257.85595"
+         inkscape:tile-x0="7.7532366"
+         inkscape:tile-h="14.277343"
+         inkscape:tile-w="9.3749998"
+         inkscape:tile-cy="264.99463"
+         inkscape:tile-cx="12.440737"
+         sodipodi:linespacing="100%"
+         id="text6542"
+         y="433.30554"
+         x="47.114971"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         xml:space="preserve"><tspan
+           style="font-size:20px"
+           y="433.30554"
+           x="47.114971"
+           id="tspan6544"
+           sodipodi:role="line">B</tspan></text>
+      <use
+         height="84.75"
+         width="443.12805"
+         id="use6550"
+         transform="translate(23.674587,3.7200039e-8)"
+         xlink:href="#text6542"
+         inkscape:tiled-clone-of="#text6542"
+         y="0"
+         x="0" />
+      <use
+         height="84.75"
+         width="443.12805"
+         id="use6554"
+         transform="translate(97.02377,3.7200039e-8)"
+         xlink:href="#text6542"
+         inkscape:tiled-clone-of="#text6542"
+         y="0"
+         x="0" />
+      <use
+         height="84.75"
+         width="443.12805"
+         id="use6558"
+         transform="translate(145.44836,3.7200039e-8)"
+         xlink:href="#text6542"
+         inkscape:tiled-clone-of="#text6542"
+         y="0"
+         x="0" />
+    </g>
+    <g
+       id="g6604"
+       transform="translate(0,9.279298)">
+      <use
+         height="84.75"
+         width="443.12805"
+         id="use6510"
+         transform="translate(276.91575,-9.2792979)"
+         xlink:href="#text6488"
+         inkscape:tiled-clone-of="#text6488"
+         y="0"
+         x="0" />
+      <use
+         height="84.75"
+         width="443.12805"
+         id="use6512"
+         transform="translate(252.5696,-9.2792979)"
+         xlink:href="#text6488"
+         inkscape:tiled-clone-of="#text6488"
+         y="0"
+         x="0" />
+      <use
+         height="84.75"
+         width="443.12805"
+         id="use6516"
+         transform="translate(228.60154,-9.2792979)"
+         xlink:href="#text6488"
+         inkscape:tiled-clone-of="#text6488"
+         y="0"
+         x="0" />
+      <use
+         height="84.75"
+         width="443.12805"
+         id="use6522"
+         transform="translate(301.04383,-9.2792979)"
+         xlink:href="#text6488"
+         inkscape:tiled-clone-of="#text6488"
+         y="0"
+         x="0" />
+      <g
+         transform="translate(97.250002,-26.000001)"
+         id="g6586">
+        <use
+           x="0"
+           y="0"
+           inkscape:tiled-clone-of="#text6542"
+           xlink:href="#text6542"
+           id="use6546"
+           transform="translate(203.85154,16.75)"
+           width="443.12805"
+           height="84.75" />
+        <use
+           x="0"
+           y="0"
+           inkscape:tiled-clone-of="#text6542"
+           xlink:href="#text6542"
+           transform="translate(227.8196,16.75)"
+           id="use6548"
+           width="443.12805"
+           height="84.75" />
+        <use
+           x="0"
+           y="0"
+           inkscape:tiled-clone-of="#text6542"
+           xlink:href="#text6542"
+           transform="translate(276.29383,16.75)"
+           id="use6552"
+           width="443.12805"
+           height="84.75" />
+        <use
+           x="0"
+           y="0"
+           inkscape:tiled-clone-of="#text6542"
+           xlink:href="#text6542"
+           transform="translate(252.16575,16.75)"
+           id="use6560"
+           width="443.12805"
+           height="84.75" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="221.99197"
+       y="245.17334"
+       id="text6634"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan6636"
+         x="221.99197"
+         y="245.17334"
+         style="font-size:16px">Condición sin asociación</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="107.79422"
+       y="469.28409"
+       id="text6634-9"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan6636-6"
+         x="107.79422"
+         y="469.28409"
+         style="font-size:16px">Condición sin clasificación</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="336.1897"
+       y="468.52777"
+       id="text6634-9-8"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan6636-6-1"
+         x="336.1897"
+         y="468.52777"
+         style="font-size:16px">Condición con clasificación</tspan></text>
+  </g>
+</svg>

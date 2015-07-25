@@ -1,0 +1,34 @@
+{{ reference }}
+
+{% if entry.abstract %}
+<ul class="accordion" data-accordion>
+  <li class="accordion-navigation">
+    <a href="#panel1a">Abstract</a>
+    <div id="panel1a" class="content">
+      {{entry.abstract}}
+    </div>
+  </li>
+</ul>
+{% endif %}
+
+{% if entry.doi or entry.url or link %}
+<ul class="accordion" data-accordion>
+  <li class="accordion-navigation">
+  <a href="#panel2a">Visitar página</a>
+  <div id="panel2a" class="content">
+{% if entry.doi %}
+    DOI: <a href="http://dx.doi.org/{{entry.doi}}" target="_blank">{{entry.doi}}</a>
+{% endif %}
+{% if entry.url %}
+    <p>URL: <a href="{{entry.url}}" target="_blank">{{entry.url}}</a></p>
+{% endif %}
+{% if link %}
+<p>  <a href="{{ link }}">Ver PDF</a></p>
+{% endif %}
+</div>
+</li>
+{% endif %}
+</ul>
+{% if link %}
+<p>  <a href="{{ link }}">Ver PDF</a></p>
+{% endif %}

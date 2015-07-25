@@ -1,0 +1,26 @@
+
+
+- name: GitHub
+  url: http://github.com/juanmunozuab
+  class: icon-github
+  title: "Mi página en GitHub"
+
+- name: GitHub
+  url: http://github.com/jmunoz298
+  class: icon-github
+  title: "Otros proyectos en GitHub"
+
+- name: Twitter
+  url: http://twitter.com/JuanMJus
+  class: icon-twitter
+  title:
+
+- name: Pinterest
+  url: http://www.pinterest.com/jmunozjus/
+  class: icon-pinterest
+  title: "Mi poco activa página de Pinterest..."
+
+# - name: Xing
+#   url: https://www.xing.com/profile/Moritzmo_Sauer
+#   class: icon-xing
+#   title: Xing Profil

@@ -1,0 +1,16 @@
+- menu_name: "Webs académicas"
+
+- name: "Athenea Digital"
+  url: "http://atheneadigital.net/"
+  class: "network-entypo"
+  title: "Athenea Digital"
+
+- name: "Academia.edu"
+  url: "https://uab.academia.edu/JuanMu%C3%B1ozJusticia"
+  class: "services-newsletter"
+  title: "Academia.edu"
+
+- name: "ResearchGate"
+  url: "http://www.researchgate.net/profile/Juan_Munoz7/"
+  class: "rss-link"
+  title: "ResearchGate"

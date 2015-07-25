@@ -1,0 +1,12 @@
+{% assign images = include.images | remove: ".jpg" | split:" " %}
+{% assign templates = include.templates | remove: ".jpg" | split:" " %}
+
+{% assign caption = include.caption %}
+{% assign cols = include.cols %}
+
+
+<ul class="clearing-thumbs small-block-grid-6" data-clearing>
+{% for image in images %}
+  <li><a href="{{ site.baseurl }}{{ image }}.jpg"><img  data-caption="" class="th" src="{{ site.baseurl }}{{ template }}.jpg"></a></li>
+{% endfor %}
+</ul>

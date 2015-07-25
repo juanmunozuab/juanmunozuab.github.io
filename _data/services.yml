@@ -1,0 +1,16 @@
+- menu_name: "Mi universidad"
+
+- name: "Departament de Psicologia Social"
+  url: "http://www.uab.cat/departament/psicologia-social/"
+  class: "services-contact"
+  title: "Mi Departamento"
+
+- name: "Facultat de Psicologia"
+  url: "http://www.uab.cat/psicologia/"
+  class: "rss-link"
+  title: "Mi Facultad"
+
+- name: "Universitat Autònoma de Barcelona"
+  url: "http://www.uab.cat"
+  class: "sitemap-link"
+  title: "Mi Universidad"
