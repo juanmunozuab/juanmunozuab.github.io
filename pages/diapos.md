@@ -10,6 +10,8 @@ header:
     background-color:  "#304558"
     caption: StockSnap
     caption_url: https://pixabay.com/p-699273/?no_redirect
+categories:
+  - docencia
 ---
 
 
