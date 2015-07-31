@@ -5,7 +5,7 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-title: "Feeling Responsive – A Jekyll Theme Based On Foundation"
+title: "El sitio de Juan (Muñoz) - Psicología social y +"
 header:
    image_fullwidth: "LibrosDespacho.jpg"
 widget-1:
@@ -14,9 +14,9 @@ widget-1:
     text: 'Esta es la sección en la que de vez en cuando iré publicando alguna idea, noticia, enlace a algún sitio interesante... No esperes que haya un número excesivo de actualizaciones ;-)'
     image: typewriter.jpg
 widget-2:
-    title: "Docencia"
-    url: 'http://juanmunozuab.github.io/docencia'
-    text: 'Aquí podrás encontrar diversos recursos relacionados con mi docencia'
+    title: "Recursos"
+    url: '#'
+    text: 'Aquí podrás encontrar diversos recursos relacionados con mi docencia. Básicamente las "diapositivas" que utilizo en mis clases, y algunos textos sobre Psicología social.'
     image: chalkboard.png
 widget-3:
     title: "Psicología Social"
