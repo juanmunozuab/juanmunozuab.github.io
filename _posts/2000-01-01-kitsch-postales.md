@@ -84,6 +84,7 @@ image:
   <li><a href="{{ site.urlimg }}kitsch/postales-065.jpg"><img  data-caption="" class="th" src="{{ site.urlimg }}kitsch/thumbnails/postales-065_th.jpg"></a></li>
   <li><a href="{{ site.urlimg }}kitsch/postales-066.jpg"><img  data-caption="" class="th" src="{{ site.urlimg }}kitsch/thumbnails/postales-066_th.jpg"></a></li>
   <li><a href="{{ site.urlimg }}kitsch/postales-067.jpg"><img  data-caption="" class="th" src="{{ site.urlimg }}kitsch/thumbnails/postales-067_th.jpg"></a></li>
+  <li><a href="{{ site.urlimg }}kitsch/postales-068.jpg"><img  data-caption="" class="th" src="{{ site.urlimg }}kitsch/thumbnails/postales-068_th.jpg"></a></li>
 </ul>
 
 {: .t60 }

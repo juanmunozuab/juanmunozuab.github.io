@@ -1,6 +1,5 @@
 ---
 layout: page
-subheadline:
 title: Luchadores mexicanos
 teaser:
 meta_description:
