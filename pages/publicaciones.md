@@ -15,6 +15,8 @@ header:
 
 [Mi Google Académico](http://scholar.google.com/citations?user=cgfqjzgAAAAJ){:target="_blank"}
 
+Muñoz-Justicia, J., & Sahagún Padilla, M. Á. (2015). *Hacer análisis cualitativo con Atlas.ti 7.* [http://dx.doi.org/10.13140/RG.2.1.4837.6405](http://dx.doi.org/10.13140/RG.2.1.4837.6405) {:target="_blank"}
+
 Muñoz-Justicia, J. (2014, 2015). Conocimiento abierto y tecnología. *Libre Pensamiento*, (81), 30-37. [Descargar](/mistextos/munoz-justicia_conocimiento_2014.pdf){:target="_blank" class="button tiny radius"} o... [Web de Libre Pensamiento](http://librepensamiento.org){:target="_blank"}
 
 Reyes, M. J., Muñoz-Justicia, J., & Vázquez, F. (2013). Políticas de Memoria Desde los Discursos Cotidianos: La Despolitización del Pasado Reciente en el Chile Actual. *Psykhe*, *22*(2), 161-173. http://[doi.org/10.7764/psykhe.22.2.582](http://doi.org/10.7764/psykhe.22.2.582){:target="_blank"}
