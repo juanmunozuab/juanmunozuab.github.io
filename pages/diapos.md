@@ -21,10 +21,8 @@ categories:
      - Conformismo [HTML](http://jmunoz298.github.io/Presentaciones/Conformismo.html) - [PDF](http://jmunoz298.github.io/Presentaciones/Conformismo.pdf)
      - Obediencia [HTML](http://jmunoz298.github.io/Presentaciones/Obediencia.html) - [PDF](http://jmunoz298.github.io/Presentaciones/Obediencia.pdf)
 - Acción Pública y cambio social
-     - Introducción [HTML](http://jmunoz298.github.io/Presentaciones/Introducción.html) - [PDF](http://jmunoz298.github.io/Presentaciones/Introducción.pdf)
-     - Teorías [HTML](http://jmunoz298.github.io/Presentaciones/Teorías.html) - [PDF](http://jmunoz298.github.io/Presentaciones/Teorías.pdf)
-     - Bienes comunes [HTML](http://jmunoz298.github.io/Presentaciones/BienesComunes.html) -[PDF](http://jmunoz298.github.io/Presentaciones/BienesComunes.pdf)
-
+     - Primera parte [HTML](http://jmunoz298.github.io/Presentaciones/APCS-15-16-1.html) - [PDF](http://jmunoz298.github.io/Presentaciones/APCS-15-16-1.pdf)
+     
 ## Cómo verlas
 Si accedes a las presentaciones en formato html...
 
