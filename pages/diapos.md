@@ -22,6 +22,7 @@ categories:
      - Obediencia [HTML](http://jmunoz298.github.io/Presentaciones/Obediencia.html) - [PDF](http://jmunoz298.github.io/Presentaciones/Obediencia.pdf)
 - Acción Pública y cambio social
      - Primera parte [HTML](http://jmunoz298.github.io/Presentaciones/APCS-15-16-1.html) - [PDF](http://jmunoz298.github.io/Presentaciones/APCS-15-16-1.pdf)
+     - Segunda parte [HTML](http://jmunoz298.github.io/Presentaciones/APCS-15-16-2.html) - [PDF](http://jmunoz298.github.io/Presentaciones/APCS-15-16-2.pdf)
      
 ## Cómo verlas
 Si accedes a las presentaciones en formato html...
@@ -35,9 +36,9 @@ Si accedes a las presentaciones en formato html...
 Para realizar estas presentaciones he utilizado varios programas de software libre:
 
 
-- Reveal.js: Es el programa base de las presentaciones.
-- Pandoc: El programa que genera el archivo html (con formato Reveal.js) a partir de un archivo markdown.
-- Atom: El editor de texto.
-- xxxx: He utilizado una versión modificada para mostrar el índice en la base de las animaciones.
+- [Reveal.js](http://lab.hakim.se/reveal-js/#/): Es el programa base de las presentaciones.
+- [Pandoc](http://pandoc.org/): El programa que genera el archivo html (con formato Reveal.js) a partir de un archivo markdown.
+- [Atom](https://atom.io/): El editor de texto.
+- [Reveal.js-menu](https://github.com/denehyg/reveal.js-menu): Menú lateral
 - GitHub: Donde está alojada la página
 - Inkscape: Parte de los gráficos (animados) en formato SVG.
