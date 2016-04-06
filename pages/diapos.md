@@ -23,7 +23,9 @@ categories:
 - Acción Pública y cambio social
      - Primera parte [HTML](http://jmunoz298.github.io/Presentaciones/APCS-15-16-1.html) - [PDF](http://jmunoz298.github.io/Presentaciones/APCS-15-16-1.pdf)
      - Segunda parte [HTML](http://jmunoz298.github.io/Presentaciones/APCS-15-16-2.html) - [PDF](http://jmunoz298.github.io/Presentaciones/APCS-15-16-2.pdf)
-     
+ - Atlas.ti
+     - Primera parte [HTML](http://jmunoz298.github.io/Presentaciones/Atals.ti.html) - [PDF](http://jmunoz298.github.io/Presentaciones/Atlas.ti.pdf)
+
 ## Cómo verlas
 Si accedes a las presentaciones en formato html...
 
