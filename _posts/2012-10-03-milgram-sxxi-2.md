@@ -30,7 +30,7 @@ El estudio, aunque muy parecido, no es una réplica exacta de Milgram, puesto qu
 
 >Our assumption is that the authority is incarnated by the game host. While the persuasive influence of hosts is now widely recognized (Nabi and Hendriks, 2003), it is the host’s prescriptive power which we would like to make apparent and whose potential limits we would like to test. This power is related to the statutory position occupied in an organizational structure and results from a delegation of power (Coenen-Huther, 2005). It thus does not depend on the delegated person’s level of prestige. ” (Beauvois, Courbet, & Oberlé, 2012, p. 112)
 
-##Participantes y condiciones experimentales
+## Participantes y condiciones experimentales
 
 76 participantes del área de París, reclutados a través de una empresa de estudios de opinión y de mercado. Se realizan cuatro versiones del experimento.
 
@@ -54,7 +54,7 @@ Condición emisión (n = 18)
 Condición presentadora se marcha (n = 7)
 : Similar al experimento 7 de Milgram (experimentador ausente). Al llegar a los 80 voltios (nivel 4), la presentadora dice que se ausenta del plató y que no volverá hasta que no finalice el juego.
 
-##Debriefing
+## Debriefing
 
 En todas las condiciones, al finalizar el experimento se realizó el debriefing post-experimental, que consta de cinco elementos,
 
@@ -64,7 +64,7 @@ En todas las condiciones, al finalizar el experimento se realizó el debriefing 
 4. se le presentan demostraciones estadísticas de que la obediencia es la conducta más habitual
 5. Se le informa de que el experimento se incorporará en un documental crítico con ciertas formas de reality show televisivos.
 
-##Resultados
+## Resultados
 
 En la gráfica podemos ver cómo en la condición estándar se encuentra el mayor porcentaje de personas que llegan hasta el máximo nivel es de 81,25% (26 de 32), mientras que el menor porcentaje se encuentra en la condición en la que la presentadora del programa se ausenta, con sólo un 28,57% de personas que llegan al nivel máximo (2 de 9). De hecho, sólo se encuentran diferencias estadísticamente significativas (tanto en obediencia como en el número medio de descargas) entre la condición estándar y la de ausencia. No hay diferencias en función de género ni de categorías socioprofesionales, ni en función de la edad.
 
@@ -74,12 +74,12 @@ En cuanto al cuestionario postexperimental de atribución de responsabilidad (en
 
 ![]({{ site.url }}/images/articulos/beauvois-res-02.png)
 
-##Resultados adicionales
+## Resultados adicionales
 Según los autores, es de destacar que la última consigna para que se continúe (la pregunta al público), no tiene efecto, de los 16 participantes que llegaron a ella, sólo uno le hizo caso y continuó. De hecho, la mayoría de los obedientes sólo necesitaron dos "incitaciones".
 
 Por otra parte, Milgram afirmaba que la desobediencia ocurre principalmente por un búsqueda de reducción de la tensión (más que por motivos morales), y que los participantes utilizaban diversas estrategias para reducirla, algo que ocurre también en este experimento: 1) Risas en los niveles moderados de descargas: 70% de los participantes se ríen a los 80v, la primera vez que el alumno se queja; 2) Engaño: al nivel de 180 un 17% de los participantes intenta engañar utilizando un tono de voz diferente para la respuesta correcta; 3) Eliminación psicológica: al llegar a los 320v, el 70% hacen lo que Milgram llama "eliminación psicológica" , ignorándolo.
 
-##Discusión
+## Discusión
 
 Los autores destacan cómo sus resultados, incluso en un entorno muy diferente, son similares a los de Milgram en el sentido de que el factor determinante a la hora de que se produzca la obediencia es la proximidad de la figura de autoridad, puesto que la obediencia disminuye significativamente sólo en la condición en la que se ausenta la presentadora.
 
