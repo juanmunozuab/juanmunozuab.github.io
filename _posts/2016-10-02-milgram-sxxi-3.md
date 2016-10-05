@@ -17,11 +17,9 @@ teaser: Ante los problemas de tipo ético que supone replicar las investigacione
 
 ---
 
-Por ejemplo, ![Jerry Burger (2009)]({{ site.url }}/social/milgram-sxxi-1/) consideraba obedientes a los participantes que aceptaban dar la descarga superior a 150v. Mientras que Beuavois no parece tener ningún reparo en poner en los participantes en la angustiosa situación de da descargas que podrían ser mortales.
+Por ejemplo, [Jerry Burger (2009)]({{ site.url }}/social/milgram-sxxi-1/) consideraba obedientes a los participantes que aceptaban dar la descarga superior a 150v. Mientras que Beuavois no parece tener ningún reparo en poner en los participantes en la angustiosa situación de da descargas que podrían ser mortales.
 
 Una estrategia diferente es la que aplican Haslam, Reicher y Millard (2015).
-
-Haslam, S. A., Reicher, S. D., & Millard, K. (2015). Shock Treatment: Using Immersive Digital Realism to Restage and Re-examine Milgram’s ‘Obedience to Authority’ Research. *PLoS ONE*, *10*(3), 1-10. https://doi.org/10.1371/journal.pone.0109015
 
 Estos autores, se basan en un método desarrollado por (Slater et al., 2006) quienes reproducen el modelo de Milgram en un entorno de realidad virtual en el que el "alumno" es un avatar (ver imagen).
 
@@ -35,11 +33,12 @@ En esta réplica participan, en el rol de *profesor*, 14 actores que serán asig
 Además del “nivel de descarga”, se realizan entrevistas post-experimentales para evaluar la identificación de los participantes con el experimentador y con el alumno.
 
 Las condiciones que se escenifican son:
-* Dos cómplices del experimentador abandonar el experimento dejando sólo al participante real (variación 17 de Milgram). [Media en Milgram = 246.75]
-* El experimentador abandona la habitación y da las instrucciones desde lejos (por teléfono) (variación 7). [Media en Milgram =272.5]
-* El aprendiz está, conectado al aparato de descargas, en la misma habitación que el maestro (versión 3). [Media en Milgram = 312]
-* Nuevo experimento base (variación 5), el primero en que el aprendiz manifiesta tener problemas cardiacos. [Media de descargas en Milgram = 368.25
-* Experimento original sin feedback (variación 0). [media en  Milgram = 450
+
+* Dos cómplices del experimentador abandonan el experimento dejando sólo al participante real (variación 17 de Milgram: "2 peers rebel"). [Media en Milgram = 246.75]
+* El experimentador abandona la habitación y da las instrucciones desde lejos (por teléfono) (variación 7: "E absent"). [Media en Milgram =272.5]
+* El aprendiz está, conectado al aparato de descargas, en la misma habitación que el maestro (versión 3: "L proximal"). [Media en Milgram = 312]
+* Nuevo experimento base (variación 5 "Coronary"), el primero en que el aprendiz manifiesta tener problemas cardiacos. [Media de descargas en Milgram = 368.25
+* Experimento original sin feedback (variación 0: "No L feedback"). [media en  Milgram = 450
 
 ##Resultados
 
@@ -51,8 +50,26 @@ De entrada, todos los participantes están dispuestos a dar descargas superiores
 
 Prácticamente todos rechazan continuar después del “no tiene otra opción, debe continuar” (la consigna más parecida a una orden).
 
-La identificación relativa con el experimentador (vs. el alumno) también es un buen predictor del nivel máximo de descarga que administran los participantes.
+La identificación relativa con el experimentador (vs. el alumno) también es un buen predictor del nivel máximo de descarga que administran los participantes. Este resultado va en línea de las críticas teóricas que se formulan a Milgram por su explicación en base al "estado agéntico", entendido como
 
+>la condición en que se encuentra una persona cuando se considera a sí misma como un agente que ejecuta los deseos de otra persona. Este término será empleado en oposición al de autonomía, es decir, cuando una persona se considera a sí misma como actuando por propia iniciativa. (Milgram, 1974, p. 127)
+
+Pero los *maestros* tienen en cuenta tanto al *alumno* como al experimentador, y entonces la pregunta clave es cuando y por qué tienen en cuenta a una voz (el experimentador instando a 'continuar') en lugar de la otra (la de los alumnos pidiendo parar).
+
+Por ejemplo, los datos de Milgram muestran que los abandonos, el negarse a continuar por parte del *profesor*, empiezan a producirse cuando el *alumno* expresa sus protestas de una forma más vehemente (150 voltios en la versión 2 y 300 en la versión 1).
+
+También se puede observar que el tipo de protesta del alumno parece tener efectos, pero también las consignas del experimentador para que el maestro continúe dando descargas. Recordemos que estas implicaban diferentes niveles de presión: “por favor continúe”, “el experimento requiere que continúe”, “es absolútamente esencial que continúe” y, la última **“no tiene otra opción, tiene que continuar”**.
+
+Sólo esta última es en realidad una orden clara, una exigencia por parte del experimentador.
+Y lo que se observa en las diferentes versiones del experimento es que prácticamente siempre que se recurre a ella no tiene efecto, es decir, a pesar de la orden, la mayor parte de los participantes se niegan a continuar. Esto es así porque se ha alterado el tipo de relación entre experimentador y maestro. De una relación en la que aparentemente ambos participaban en una empresa común a una que, por efecto de dar una orden explícita los sitúa en una posición de oposición experimentador contra maestro.
+
+Entonces, la explicación de porqué se atiende a los requerimientos de una u otra voz, podemos encontrarla en el tipo de identificación que se produce (y en cómo la orden hace cambiarla) con el experimentador como representante de la ciencia o con el alumno como un compañero, como un miembro más de la propia comunidad.
+
+#Referencias
+
+Haslam, S. A., Reicher, S. D., & Millard, K. (2015). Shock Treatment: Using Immersive Digital Realism to Restage and Re-examine Milgram’s ‘Obedience to Authority’ Research. *PLoS ONE*, *10*(3), 1-10. https://doi.org/10.1371/journal.pone.0109015
+
+Milgram, S. (1974). *Obediencia a la autoridad*. Bilbao: Desclée de Brouwer.
 
 Slater, M., Antley, A., Davison, A., Swapp, D., Guger, C., Barker, C., … Sanchez-Vives, M. V. (2006). A Virtual Reprise of the Stanley Milgram Obedience Experiments. *PLoS ONE*, *1*(1), e39. https://doi.org/10.1371/journal.pone.0000039
 
