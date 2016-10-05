@@ -13,7 +13,7 @@ teaser: Algunos ejemplos de experimentos que quizás no deberían haberse realiz
 header: no
 ---
 
-No es que sea muy partidario de los ranking que intentan ilustrarnos sobre los "n" mejores/peores libros, películas, personas... Pero dado que en he mencionado en algún momento a dos de los experimentos clásicos de la Psicología social, el de Stanley Milgram y el de Philip Zimbardo, puede ser interesante ver cómo aparecen en estas clasificaciones:
+No es que yo sea muy partidario de los ranking que intentan ilustrarnos sobre los "n" mejores/peores libros, películas, personas... Pero dado que en he mencionado en algún momento a dos de los experimentos clásicos de la Psicología social, el de Stanley Milgram y el de Philip Zimbardo, puede ser interesante ver cómo aparecen en estas clasificaciones:
 
 [The top 20 most bizarre experiments of all time](http://www.museumofhoaxes.com/hoax/top/experiments/P0 "Bizarre experiments"){:target="_blank"}  
 :  Milgram aparece en segunda posición, mientras que Zimbardo sólo ocupa la séptima.
