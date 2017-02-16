@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Manual Atlas.ti"
+title:  "Manual Atlas.ti (libre)"
 tags: [Mis textos, Atlas.ti]
 teaser: "Nuevo manual Atlas.ti, actualizado a la versión 7, en su versión más libre."
 header: no
