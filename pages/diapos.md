@@ -19,7 +19,7 @@ categories:
 
 - Influencia social y grupos
      - Conformismo (Septiembre 2017) [HTML](http://jmunoz298.github.io/Presentaciones/Conformismo.html) - [PDF](http://jmunoz298.github.io/Presentaciones/Conformismo.pdf)
-     - Obediencia (Septiembre 2016) [HTML](http://jmunoz298.github.io/Presentaciones/Obediencia.html) - [PDF](http://jmunoz298.github.io/Presentaciones/Obediencia.pdf)
+     - Obediencia (Septiembre 2017) [HTML](http://jmunoz298.github.io/Presentaciones/Obediencia.html) - [PDF](http://jmunoz298.github.io/Presentaciones/Obediencia.pdf)
 - Acción Pública y cambio social
     - Primera parte (febrero 2017) [HTML](http://jmunoz298.github.io/Presentaciones/APCS-1.html) - [PDF](http://jmunoz298.github.io/Presentaciones/APCS-1.pdf)
     - Segunda parte (marzo 2017) [HTML](http://jmunoz298.github.io/Presentaciones/APCS-2.html) - [PDF](http://jmunoz298.github.io/Presentaciones/APCS-2.pdf)
