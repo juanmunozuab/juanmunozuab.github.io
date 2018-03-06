@@ -25,11 +25,12 @@ categories:
     - Segunda parte (marzo 2017) [HTML](http://jmunoz298.github.io/Presentaciones/APCS-2.html) - [PDF](http://jmunoz298.github.io/Presentaciones/APCS-2.pdf)
     - Tercera parte (marzo 2017) [HTML](http://jmunoz298.github.io/Presentaciones/APCS-3.html) - [PDF](http://jmunoz298.github.io/Presentaciones/APCS-3.pdf)
 
-- Análisis temático (Septiembre 2016)
-     - [HTML](http://jmunoz298.github.io/Presentaciones/AnalisisTematico.html) - [PDF](http://jmunoz298.github.io/Presentaciones/AnalisisTematico.pdf)
 
-- Atlas.ti (25 mayo 2016)
-	- [HTML](http://jmunoz298.github.io/Presentaciones/AT-Atlas.ti.html) - [PDF](http://jmunoz298.github.io/Presentaciones/AT-Atlas.ti.pdf)
+- Análisis temático / Atlas-ti
+
+  - Análisis temático (Septiembre 2017) ([HTML](http://jmunoz298.github.io/Presentaciones/AnalisisTematico.html) | [PDF](http://jmunoz298.github.io/Presentaciones/AnalisisTematico.pdf))
+  - Análisis con Atlas.ti 7 ([HTML](http://jmunoz298.github.io/Presentaciones/AT-Atlas.ti.html) | [PDF](http://jmunoz298.github.io/Presentaciones/AT-Atlas.ti.PDF)
+  - Análisis con Atlas.ti 8 (Marzo 2018) [HTML](http://jmunoz298.github.io/Presentaciones/AT-Atlas.ti-8.html) | [PDF](http://jmunoz298.github.io/Presentaciones/AT-Atlas.ti-8.PDF))
 
 ## Cómo verlas
 Si accedes a las presentaciones en formato html...
