@@ -29,7 +29,7 @@ categories:
 - Análisis temático / Atlas-ti
     - Análisis temático (Septiembre 2017) [HTML](http://jmunoz298.github.io/Presentaciones/AnalisisTematico.html) - [PDF](http://jmunoz298.github.io/Presentaciones/AnalisisTematico.pdf)
     - Análisis con Atlas.ti 7 [HTML](http://jmunoz298.github.io/Presentaciones/AT-Atlas.ti.html) - [PDF](http://jmunoz298.github.io/Presentaciones/AT-Atlas.ti.pdf)
-    - Análisis con Atlas.ti 8 (Marzo 2018)  [HTML](http://jmunoz298.github.io/Presentaciones/AT-Atlas.ti-8.html) - [PDF](http://jmunoz298.github.io/Presentaciones/AT-Atlas.ti-8.pdf)
+    - Análisis con Atlas.ti 8 (octubre 2018)  [HTML](http://jmunoz298.github.io/Presentaciones/AT-Atlas.ti-8.html) - [PDF](http://jmunoz298.github.io/Presentaciones/AT-Atlas.ti-8.pdf)
 
 ## Cómo verlas
 Si accedes a las presentaciones en formato html...
