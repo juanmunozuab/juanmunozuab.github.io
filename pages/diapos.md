@@ -18,12 +18,12 @@ categories:
 ## Índice de presentaciones docentes
 
 - Influencia social y grupos
-     - Conformismo (Septiembre 2017) [HTML](http://jmunoz298.github.io/Presentaciones/Conformismo.html) - [PDF](http://jmunoz298.github.io/Presentaciones/Conformismo.pdf)
-     - Obediencia (Septiembre 2017) [HTML](http://jmunoz298.github.io/Presentaciones/Obediencia.html) - [PDF](http://jmunoz298.github.io/Presentaciones/Obediencia.pdf)
+     - Conformismo (Septiembre 2018) [HTML](http://jmunoz298.github.io/Presentaciones/Conformismo.html) - [PDF](http://jmunoz298.github.io/Presentaciones/Conformismo.pdf)
+     - Obediencia (Septiembre 2018) [HTML](http://jmunoz298.github.io/Presentaciones/Obediencia.html) - [PDF](http://jmunoz298.github.io/Presentaciones/Obediencia.pdf)
 - Acción Pública y cambio social
     - Primera parte (febrero 2018) [HTML](http://jmunoz298.github.io/Presentaciones/APCS-1.html) - [PDF](http://jmunoz298.github.io/Presentaciones/APCS-1.pdf)
-    - Segunda parte (marzo 2017) [HTML](http://jmunoz298.github.io/Presentaciones/APCS-2.html) - [PDF](http://jmunoz298.github.io/Presentaciones/APCS-2.pdf)
-    - Tercera parte (marzo 2017) [HTML](http://jmunoz298.github.io/Presentaciones/APCS-3.html) - [PDF](http://jmunoz298.github.io/Presentaciones/APCS-3.pdf)
+    - Segunda parte (marzo 2018) [HTML](http://jmunoz298.github.io/Presentaciones/APCS-2.html) - [PDF](http://jmunoz298.github.io/Presentaciones/APCS-2.pdf)
+    - Tercera parte (marzo 2018) [HTML](http://jmunoz298.github.io/Presentaciones/APCS-3.html) - [PDF](http://jmunoz298.github.io/Presentaciones/APCS-3.pdf)
 
 
 - Análisis temático / Atlas-ti
