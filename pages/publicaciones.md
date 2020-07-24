@@ -17,7 +17,7 @@ header:
 
 Yu, J., & Muñoz-Justicia, J. (2020). A Bibliometric Overview of Twitter-Related Studies Indexed in Web of Science. *Future Internet*, *12*(5), 91. https://doi.org/10.3390/fi12050091
 
-Yu, J., & Muñoz-Justicia, J. (2020). Free and Low-Cost Twitter Research Software Tools for Social Science. *Social Science Computer Review*, *12*(5), 91. https://doi.org/10.1177/0894439320904318
+Yu, J., & Muñoz-Justicia, J. (2020). Free and Low-Cost Twitter Research Software Tools for Social Science. *Social Science Computer Review*, 1-25. https://doi.org/10.1177/0894439320904318
 
 Muñoz-Justicia, J., & Sahagún Padilla, M. Á. (2017). *Hacer análisis cualitativo con Atlas.ti 7.* [http://dx.doi.org/10.5281/zenodo.273997](http://dx.doi.org/10.5281/zenodo.273997){:target="_blank"}
 
