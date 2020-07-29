@@ -15,6 +15,8 @@ header:
 
 [Mi Google Académico](http://scholar.google.com/citations?user=cgfqjzgAAAAJ){:target="_blank"}
 
+Yu, J., Lu, Y., & Muñoz-Justicia, J. (2020). Analyzing Spanish News Frames on Twitter during COVID-19—A Network Study of El País and El Mundo. *International Journal of Environmental Research and Public Health*, *17*(15), 5414. https://doi.org/10.3390/ijerph17155414
+
 Yu, J., & Muñoz-Justicia, J. (2020). A Bibliometric Overview of Twitter-Related Studies Indexed in Web of Science. *Future Internet*, *12*(5), 91. https://doi.org/10.3390/fi12050091
 
 Yu, J., & Muñoz-Justicia, J. (2020). Free and Low-Cost Twitter Research Software Tools for Social Science. *Social Science Computer Review*, 1-25. https://doi.org/10.1177/0894439320904318
