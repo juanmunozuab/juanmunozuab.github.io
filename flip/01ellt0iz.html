@@ -1,0 +1,61 @@
+<!-- https://codepen.io/kparzecki/pen/RYzZwG -->
+<!-- https://frontendresource.com/css-flip-cards/ -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>El árbol genealógico</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="flip-card.css">
+</head>
+<body>
+
+
+
+  <div class="wrapper">
+          <div class="card">
+            <h1><span id="name"></span></h1>
+
+            <script>
+            reader.readAsDataURL(this.documentFile);
+            var name = this.documentFile.name;
+                  document.write(name);
+            </script>
+              <input type="checkbox" id="card1" class="more" aria-hidden="true">
+              <div class="content">
+                  <div class="front" >
+                      <div class="inner">
+                          <h2>Precio pista 1</h2>
+                          <p class="rating">Una flor (natural)</p>
+                          <label for="card1" class="button" aria-hidden="true">
+                              Ver pista
+                          </label>
+                      </div>
+                  </div>
+                  <div class="back">
+                      <div class="inner">
+                          <h2>Pista 1</h2>
+                          <div class="rating">
+                              <p>El hijo más pequeño tiene ocho años</p>
+                          </div>
+                          <label for="card1" class="button" aria-hidden="true">
+                              Ver precio
+                          </label>
+                      </div>
+                  </div>
+              </div>
+          </div>
+
+      </div>
+      <script>
+    		var down = document.getElementById('geeks');
+    			var path = window.location.pathname;
+    			down.innerHTML = path.split("/").pop();
+          //numero=path.split("/").pop();
+          //numero=numero.substring(0,1);
+          numero=path.split("/").pop().substring(0,4)
+          let myString = parseFloat("01") ;
+          console.log(myString);
+    console.log(numero)
+    	</script>
+</body>
+</html>
