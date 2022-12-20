@@ -1,0 +1,67 @@
+<!-- https://codepen.io/kparzecki/pen/RYzZwG -->
+<!-- https://frontendresource.com/css-flip-cards/ -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>El árbol genealógico</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="flip-card.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js" type="text/javascript"></script>
+
+</head>
+<body>
+  <div class="wrapper">
+          <div class="card">
+              <input type="checkbox" id="card1" class="more" aria-hidden="true">
+              <div class="content">
+                  <div class="front" >
+                      <div class="inner">
+                          <h2>Precio pista 8</h2>
+                          <p class="rating" ><span id="pista"></span><p>
+                          <label for="card1" class="button" aria-hidden="true">
+                              Ver pista
+                          </label>
+                      </div>
+                  </div>
+                  <div class="back">
+                      <div class="inner">
+                          <h2>Pista 8</h2>
+                          <div class="rating">
+                              <span id="precio"></span>
+                          </div>
+                          <label for="card1" class="button" aria-hidden="true">
+                              Ver precio
+                          </label>
+                      </div>
+                  </div>
+              </div>
+          </div>
+
+      </div>
+    <script type="text/javascript">
+ $.get('control.csv', function(data) {
+    var mifila = fila
+	var rows = data.split("\n");
+    var cols = rows[mifila].split(",");
+    pista = cols[1];
+    precio = cols[2];
+         document.getElementById("precio").innerHTML = precio;
+          document.getElementById("pista").innerHTML = pista;
+
+ 	$('#rating').append(cols[2]);
+ });
+   		var down = document.getElementById('geeks');
+    			var path = window.location.pathname;
+    		//	down.innerHTML = path.split("/").pop();
+          //numero=path.split("/").pop();
+          //numero=numero.substring(0,1);
+          numero=path.split("/").pop().substring(0,2)
+          let fila = parseFloat(numero) ;
+
+    console.log(fila)
+           document.getElementById("npista").innerHTML = fila;
+
+
+ </script>
+</body>
+</html>
