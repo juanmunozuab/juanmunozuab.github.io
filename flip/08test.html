@@ -40,8 +40,9 @@
     var mifila = fila
 	var rows = data.split("\n");
     var cols = rows[mifila].split(",");
-    pista = cols[1];
-    precio = cols[2];
+     if (var navigator.language =="es-ES"){
+    pista = cols[2];
+    precio = cols[1];}
          document.getElementById("precio").innerHTML = precio;
           document.getElementById("pista").innerHTML = pista;
 
