@@ -35,17 +35,21 @@
           </div>
 
       </div>
-    <script type="text/javascript">
+     <script type="text/javascript">
  $.get('control.csv', function(data) {
     var mifila = fila
 	var rows = data.split("\n");
     var cols = rows[mifila].split(",");
-    if (navigator.language =="es-ES"){
-    pista = cols[1];
-    precio = cols[2];} else {
-      pista = cols[2];
-      precio = cols[1];
-    }
+        if (navigator.language == "es-ES"){
+            pista = cols[2];
+            precio = cols[1];
+        } else if (navigator.language == "ca"){
+            pista = cols[4];
+            precio = cols[3];
+        } else {
+            pista = cols[6];
+            precio = cols[5];
+        }
          document.getElementById("precio").innerHTML = precio;
           document.getElementById("pista").innerHTML = pista;
 
