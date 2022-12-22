@@ -219,7 +219,7 @@ body {
   justify-self: center;
 }
 
-.front .button {
+.front .final {
   /* grid-column: 1/-1; */
 	grid-row: -1;
   justify-self: center;
