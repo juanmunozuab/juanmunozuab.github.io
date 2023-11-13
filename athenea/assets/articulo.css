@@ -1,0 +1,426 @@
+/* Estilos generales */
+body {
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-family: "Merriweather", sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+  text-justify: inter-word;
+}
+
+h1, h2, h3 {
+  text-align: left;
+  font-family: "Merriweather Sans", sans-serif;
+}
+
+h1{  margin-top: 55px;
+}
+/* Estilos para el contenedor principal */
+.container {
+    display: flex;
+    max-width: 100%; /* Asegurarse de que el contenedor se ajuste al ancho de la pantalla */
+    margin: 0;
+    padding: 20px;
+}
+
+/* Estilos para la barra lateral */
+.sidebar {
+    flex: 0 0 20%; /* Establece un ancho máximo del 20% sin crecer ni encoger */
+    max-width: 20%; /* Establece un ancho máximo del 20% */
+    position: fixed;
+    top: 0;
+    left: 0;
+    overflow-y: auto;
+    height: 100%;
+    background-color: #f5f5f5;
+    padding: 20px;
+    text-align: left;
+    font-size: 0.85rem;
+}
+
+/* Estilos para el contenido principal */
+.main-content {
+    flex: 0 0 70%; /* Establece un ancho máximo del 80% sin crecer ni encoger */
+    max-width: 70%; /* Establece un ancho máximo del 80% */
+    margin-left: 25%; /* Agrega un margen izquierdo igual al ancho de la barra lateral */
+    padding: 0;
+}
+
+
+/* Estilos para el título del artículo */
+.article-title, .TituloArt, .Title {
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: left;
+}
+
+/* Estilos para autores */
+.authors, .Autor, .autorLink{
+    font-size: 1.3rem;
+}
+
+/* Estilo para historia editorial y doi */
+.HistoriaEditorial, .doi {
+font-size: 0.8rem;
+}
+.affiliation, .Universidad, .Correo{
+    font-style: italic;
+    font-size: 1.2rem;
+}
+
+/* Estilos para el resumen */
+.abstract, .odd, .even, .Resumen {
+    font-size: 1rem;
+    margin-top: 20px;
+}
+
+/* Estilos para las secciones */
+.section-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+/* Estilos para las citas */
+.citation {
+    font-style: italic;
+}
+
+/* Estilos para las referencias bibliográficas */
+.references {
+    margin-top: 20px;
+
+}
+
+/* Estilos para los números de referencia en las citas */
+.reference-number {
+    font-weight: bold;
+}
+
+/* Estilos para las notas al pie */
+.footnote {
+    font-size: 12px;
+    color: #777;
+}
+
+/* Estilos para el pie de página */
+.footer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Estilos para los enlaces */
+a , .info-trigger{
+    color: #0073e6;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#info-num, #info-num a{
+  font-size: 1.5rem;
+  color: #2F99CB;
+}
+
+.tooltip-authors {
+    display: none;
+}
+
+/* Estilos para el botón de mostrar/ocultar resumen */
+     #toggle-resumen {
+         cursor: pointer;
+         color: blue;
+         text-decoration: underline;
+     }
+
+     /* Estilos para el resumen */
+     #resumen {
+         max-height: 0;
+         overflow: hidden;
+         transition: max-height 0.5s;
+         color: black;
+         margin-top: -40px;
+     }
+
+/* Estilos para la referencia en el texto */
+.reference {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+/* Estilos para el cuadro de referencia emergente */
+.reference-popup {
+    display: none;
+    position: absolute;
+    font-family: "Merriweather Sans", sans-serif;
+     background-color: #f5f5f5;
+/*    background: #848383;*/
+    border: 1px solid #8e8e8e;
+    /* padding: 10px; */
+    width: 400px;
+    padding: .625rem;
+    padding-top: 1rem;
+    border-radius: 4px;
+/*    color: #fff;*/
+    text-align: left;
+    z-index: 1;
+}
+
+/* Estilos para el icono de cierre (referencias) */
+.close-icon {
+    position: absolute;
+    top: 5px;
+    /* right: 5px; */
+    right: 5px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+/* Estilo para el popup autores*/
+.popup {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    border: 1px solid #8e8e8e;
+    padding-left: 15px;
+    padding-right:15px;
+    margin-top: 5px;
+    z-index: 1;
+    border-radius: 4px;
+    max-width: 500px;
+}
+
+
+.closeIcon {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      cursor: pointer;
+  }
+
+/* Lista autores */
+  .lista-horizontal li{
+    display: inline;
+    padding-right: 0.5em;
+    padding-left: 0.5em;
+    border-right: 1px solid;
+    list-style: none;
+  }
+
+  .lista-horizontal li:last-child {
+    border: none;
+  }
+
+  .lista-horizontal li:first-child {
+    padding-left: 0em;
+  }
+
+  .lista-horizontal ul{
+      list-style: none;
+      padding-left: 0px;
+  }
+
+  /* Estilos para el botón "Volver al inicio" */
+  #back-to-top {
+      position: fixed;
+      bottom: 20px; /* Ajusta la distancia desde la parte inferior según tus preferencias */
+      right: 20px; /* Ajusta la distancia desde la derecha según tus preferencias */
+      z-index: 1000; /* Asegura que el botón esté en la parte superior de otros elementos */
+  }
+
+  #back-to-top img {
+      width: 50px; /* Ajusta el ancho de la imagen según tus preferencias */
+      height: 50px; /* Ajusta la altura de la imagen según tus preferencias */
+      /* Otros estilos para la imagen del botón */
+  }
+
+/* Imagen Creative Commons */
+.licencia{
+  text-align: center;
+  padding-top: 50px;
+}
+
+/* Formato de referencias */
+p.details{
+  text-indent: -2em;
+  margin-left: 2em;
+  font-weight: lighter;
+
+}
+
+/* Tablas */
+table {
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse;
+  border-top: 1px solid;
+  /* border-bottom:: 5px solid red; */
+  margin-top: 2rem;
+  font-family: "Merriweather Sans", sans-serif;
+  font-weight: lighter;
+}
+
+td {
+  padding: 8px;
+  text-align: center;
+  vertical-align: top;
+}
+
+th[scope=col]{
+  padding: 8px;
+  vertical-align: top;
+  border-bottom: 1px solid #000; /* Línea inferior en la cabecera */
+  font-weight: bold;
+  text-align: center;
+}
+
+th[scope=row]{
+  padding: 8px;
+  vertical-align: top;
+  font-weight: bold;
+  text-align: left;
+}
+tr:last-child td, tr:last-child th {
+  border-bottom: 1px solid #000; /* Línea superior en el cuerpo de la tabla */
+}
+
+tr.header{
+  text-align: center;
+}
+
+.tabla-texto td{
+  text-align: left;
+  text-indent: -1.5rem;
+  padding-left: 1.5rem;
+  /* border-right: 1px solid; */
+}
+/* Centra las figuras */
+img.articulo-img, a.articulo-img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2rem;
+  max-width: 50%;
+  border: 1px solid;
+  border-color: black;
+}
+
+.Predeterminado-P{
+  text-indent: 2em;
+}
+
+/* .Eti-figura, .alt{
+  text-align: center;
+  font-weight: bold;
+  line-height: 0.5rem;
+}
+
+.alt{
+  margin-bottom: 2rem;
+} */
+
+
+/* Popup imagen */
+.numero-figura, .titulo-figura{
+  text-align: center;
+  font-weight: bold;
+  font-size: 0.8rem;
+  line-height: 0.5rem;
+}
+
+.titulo-figura{
+  margin-bottom: 2rem;
+  font-size: 0.8rem;
+}
+
+.imagen-container {
+    text-align: center;
+}
+.imagen {
+    max-width: 35%;
+    border: 1px solid black;
+    cursor: pointer;
+  }
+
+  /* Estilos para el popup de la imagen */
+  .popup-imagen {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: #514d4dcc;
+      z-index: 999;
+  }
+
+  .popup-imagen .popup-content {
+      text-align: center;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background: white;
+      padding: 20px;
+      border: 3px solid black;
+  }
+
+  .popup-imagen .fa-times {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      font-size: 40px;
+      cursor: pointer;
+  }
+
+  .popup-imagen img {
+      /* max-width: 100%; */
+      /* border: 1px solid black; */
+  }
+.centrado{
+  text-align: center;
+}
+
+#cabecera {
+  font-family: "Merriweather Sans", sans-serif;
+
+    display: flex;
+    max-width: 100%;
+    /* background-color: #f5f5f5; */
+    border-bottom: 1px solid grey;
+}
+
+#logo {
+    flex: 0 0 10%; /* Establece un ancho máximo del 20% sin crecer ni encoger */
+    max-width: 20%; /* Establece un ancho máximo del 20% */
+}
+
+#logo img {
+    max-width: 100%; /* Asegura que la imagen se ajuste al ancho del contenedor "logo" */
+    height: auto; /* Mantiene la proporción de la imagen */
+    /* align: left; */
+}
+
+#info-num {
+    flex: 0 0 90%; /* Establece un ancho máximo del 90% sin crecer ni encoger */
+    max-width: 90%; /* Establece un ancho máximo del 90% */
+    padding-left: 25px;
+}
+
+/* Estilos para el texto dentro de "info-num" */
+#info-num p {
+}
+
+#info-num a{
+  /* text-decoration: underline; */
+  color: #2e98ca;
+}
+
+#info-num a:hover{
+  color: #0073e6;
+}
