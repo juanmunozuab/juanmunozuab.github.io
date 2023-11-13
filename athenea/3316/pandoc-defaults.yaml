@@ -1,0 +1,16 @@
+---
+standalone: true
+table-of-contents: true
+wrap: preserve
+template: art-template.html
+include-in-header:
+  - header.html
+# include-before-body:
+#   - before-body.html
+include-after-body:
+  - after-body.html
+css:
+  - articulo.css
+from: docx
+to: html5
+...
