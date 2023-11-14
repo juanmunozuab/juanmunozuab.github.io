@@ -24,11 +24,9 @@ h1{  margin-top: 55px;
 }
 
 /* Estilos para la barra lateral */
-@media only screen and (hover: none) and (pointer: coarse)  {
+@media screen and (hover: none) and (pointer: coarse)  {
   .sidebar {
-    flex: 0 0 0%; /* Establece un ancho máximo del 20% sin crecer ni encoger */
-    max-width: 0%; /* Establece un ancho máximo del 20% */
-    display: none;
+   visibility: hidden;
   }
     .main-content {
     flex: 1 0 100%; /* Establece un ancho máximo del 80% sin crecer ni encoger */
