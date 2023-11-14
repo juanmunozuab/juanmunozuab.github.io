@@ -31,7 +31,7 @@ h1{  margin-top: 55px;
     display: none;
   }
     .main-content {
-    flex: 0 0 100%; /* Establece un ancho máximo del 80% sin crecer ni encoger */
+    flex: 1 0 100%; /* Establece un ancho máximo del 80% sin crecer ni encoger */
     max-width: 100%; /* Establece un ancho máximo del 80% */
     margin-left: 5%; /* Agrega un margen izquierdo igual al ancho de la barra lateral */
     padding: 0;
