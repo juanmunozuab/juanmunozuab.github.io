@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
 <head>
-  <base target="_blank">
+  <!-- <base target="_blank"> -->
   <meta charset="utf-8" />
   <meta name="generator" content="Bluefish 2.2.11" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
@@ -41,201 +41,392 @@
     }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
-  <link rel="stylesheet" href="../assets/articulo.css" />
-  <link rel="stylesheet" href="../assets/tablas.css" />
+  <link rel="stylesheet" href="assets/articulo.css" />
+  <style>/* this is needed to make the content scrollable on larger screens */
+      @media (min-width: 576px) {
+          .h-sm-100 {
+              height: 100%;
+          }
+      }
+      .thumbnail-image{
+            width: 30%;
+          }
+      /* Estilo para la imagen dentro del modal TIENE QUE IR DESPUÉS DEL ESTILO DE IMAGEN*/
+      .modal-image {
+        width: 100%;
+        height: auto;
+      }
+   </style>
 
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather+Sans">
-  <link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300&family=Merriweather:ital,wght@0,300;1,300&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+    <link rel="stylesheet" href="assets/articulo.css" />
+    <!-- <link rel="stylesheet" href="style.css" /> -->
+    <link rel="stylesheet" href="assets/tablas.css" />
+    
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@2.11.6/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    
+    <!-- estilos bootsrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://getbootstrap.com/docs/5.3/assets/css/docs.css" rel="stylesheet">
+    <title>Bootstrap Example</title>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">  
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"> -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+
+
+
+    <style>/* this is needed to make the content scrollable on larger screens */
+      @media (min-width: 576px) {
+          .h-sm-100 {
+              height: 100%;
+          }
+      }
+      
+      .popover {
+        --bs-popover-max-width: 400px;
+        /* --bs-popover-border-color: var(--bd-violet-bg);
+        --bs-popover-header-bg: var(--bd-violet-bg);
+        --bs-popover-header-color: var(--bs-white); */
+        --bs-popover-body-padding-x: 1rem;
+        --bs-popover-body-padding-y: .5rem;
+      }
+      
+      
+      </style>
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->
 </head>
 <body>
-<!-- Icono volver al inicio de página -->
-<a href="#top" id="back-to-top" title="Volver al inicio">
-      <img src="https://publicacions.uab.cat/common/journal/athenea/images/move-up.png" alt="Volver al inicio">
-</a>
 
 
 
-<div class="container">
 
-<aside class="sidebar">
-<nav id="TOC" role="doc-toc">
-<ul>
-<li><a href="#introducción" id="toc-introducción">Introducción</a></li>
-<li><a href="#políticas-sociales-neoliberales-en-chile-subjetividades-profesionales-incómodas" id="toc-políticas-sociales-neoliberales-en-chile-subjetividades-profesionales-incómodas">Políticas sociales neoliberales en Chile: subjetividades profesionales incómodas</a>
-<ul>
-<li><a href="#interventoresas-psicosociales-subjetivaciones-neoliberales-y-posibilidades-de-resistencia" id="toc-interventoresas-psicosociales-subjetivaciones-neoliberales-y-posibilidades-de-resistencia">Interventores/as psicosociales: subjetivaciones neoliberales y posibilidades de resistencia</a></li>
-<li><a href="#la-subjetividad-como-articulaciones-inestables-de-posiciones-de-sujeto" id="toc-la-subjetividad-como-articulaciones-inestables-de-posiciones-de-sujeto">La subjetividad como articulaciones inestables de posiciones de sujeto</a></li>
-</ul></li>
-<li><a href="#método" id="toc-método">Método</a>
-<ul>
-<li><a href="#selección-de-participantes" id="toc-selección-de-participantes">Selección de participantes</a></li>
-<li><a href="#procedimiento" id="toc-procedimiento">Procedimiento</a></li>
-<li><a href="#estrategia-de-análisis" id="toc-estrategia-de-análisis">Estrategia de análisis</a></li>
-</ul></li>
-<li><a href="#análisis-y-resultados" id="toc-análisis-y-resultados">Análisis y resultados</a>
-<ul>
-<li><a href="#de-lo-maquínico-a-lo-agéntico.-seis-posiciones-de-sujeto" id="toc-de-lo-maquínico-a-lo-agéntico.-seis-posiciones-de-sujeto">De lo maquínico a lo agéntico. Seis posiciones de sujeto</a>
-<ul>
-<li><a href="#posición-maquínica-hacer-lo-que-hay-que-hacer" id="toc-posición-maquínica-hacer-lo-que-hay-que-hacer">Posición maquínica (<em>hacer lo que hay que hacer</em>)</a></li>
-<li><a href="#posición-abnegada-hacer-más-que-lo-posible" id="toc-posición-abnegada-hacer-más-que-lo-posible">Posición abnegada (<em>hacer más que lo posible</em>)</a></li>
-<li><a href="#posición-derrotista-nada-que-hacer" id="toc-posición-derrotista-nada-que-hacer">Posición derrotista (<em>nada que hacer</em>)</a></li>
-<li><a href="#posición-empática-hay-que-saber-entender" id="toc-posición-empática-hay-que-saber-entender">Posición empática (<em>hay que saber entender</em>)</a></li>
-<li><a href="#posición-tecnocrática-hay-que-saber-hacer" id="toc-posición-tecnocrática-hay-que-saber-hacer">Posición tecnocrática (<em>hay que saber hacer</em>)</a></li>
-<li><a href="#posición-agéntica-hay-que-transformar" id="toc-posición-agéntica-hay-que-transformar">Posición agéntica (<em>hay que transformar</em>)</a></li>
-</ul></li>
-<li><a href="#desplazamientos-entre-posiciones-de-sujeto" id="toc-desplazamientos-entre-posiciones-de-sujeto">Desplazamientos entre posiciones de sujeto</a>
-<ul>
-<li><a href="#entre-las-posiciones-maquínica-y-agéntica" id="toc-entre-las-posiciones-maquínica-y-agéntica">Entre las posiciones maquínica y agéntica</a></li>
-<li><a href="#entre-las-posiciones-agéntica-abnegada-tecnocrática-y-empática" id="toc-entre-las-posiciones-agéntica-abnegada-tecnocrática-y-empática">Entre las posiciones agéntica, abnegada, tecnocrática y empática</a></li>
-</ul></li>
-<li><a href="#el-habla-dilemática-posiciones-en-conflicto" id="toc-el-habla-dilemática-posiciones-en-conflicto">El habla dilemática: posiciones en conflicto</a>
-<ul>
-<li><a href="#la-posición-abnegada-y-la-posición-derrotista-en-conflicto" id="toc-la-posición-abnegada-y-la-posición-derrotista-en-conflicto">La posición abnegada y la posición derrotista en conflicto</a></li>
-<li><a href="#la-posición-maquínica-y-la-posición-tecnocrática-en-conflicto" id="toc-la-posición-maquínica-y-la-posición-tecnocrática-en-conflicto">La posición maquínica y la posición tecnocrática en conflicto</a></li>
-</ul></li>
-</ul></li>
-<li><a href="#conclusiones" id="toc-conclusiones">Conclusiones</a></li>
-<li><a href="#financiamiento" id="toc-financiamiento">Financiamiento</a></li>
-<li><a href="#referencias" id="toc-referencias">Referencias </a></li>
-</ul>
-</nav>
+<!-- Inicio sidebar -->
+    <div class="container-fluid overflow-hidden">
+        <div class="row vh-100 overflow-auto">
+            <div class="col-12 col-sm-3 col-xl-2 px-sm-2 px-0 bg-body-tertiary d-flex sticky-top">
+                <div class="d-flex flex-sm-column flex-row flex-grow-1 align-items-center align-items-sm-start px-3 pt-2 text-white">
+                    <!-- <img src="assets/logo-athenea.svg" width="40%"> -->
+                    <ul class="nav nav-pills flex-sm-column flex-row flex-nowrap flex-shrink-1 flex-sm-grow-0 flex-grow-1 mb-sm-auto mb-0 justify-content-center align-items-center align-items-sm-start" id="menu">
+                        <li>
+                            <a href="#" class="nav-link px-sm-0 px-2" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-content="#modal-indice">
+                                <i class="bi bi-body-text"></i><span class="ms-1 d-none d-sm-inline">Índice</span></a>
+                        </li>
+                        <li>
+                            <a href="#" class="nav-link px-sm-0 px-2" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-content="#modal-autores">
+                                <i class="fs-5 bi-people"></i><span class="ms-1 d-none d-sm-inline">Autoría</span> </a>
+                        </li>
+                        <li>
+                            <a href="#" class="nav-link px-sm-0 px-2" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-content="#modal-historia">
+                                <i class="fs-5 bi-speedometer2"></i><span class="ms-1 d-none d-sm-inline">Historia Editorial</span> </a>
+                        </li>
 
-<div class="licencia">
-<a href=https://creativecommons.org/licenses/by/4.0/deed.es target="_blank" title="Licencia">
-      <img src="https://publicacions.uab.cat/common/journal/athenea/images/ccby.png" alt="Licencia Creative commons cc by" width="100">
-</a>
+                        <li>
+                            <a href="#" class="nav-link px-sm-0 px-2" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-content="#modal-citar">
+                                <i class="bi bi-chat-right-quote"></i><span class="ms-1 d-none d-sm-inline">Citar</span></a>
+                        </li>
+
+                        <li>
+                            <a href="#" class="nav-link px-sm-0 px-2" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-content="#modal-doi">
+                                <i class="bi bi-clock-history"></i><span class="ms-1 d-none d-sm-inline">DOI</span></a>
+                        </li>
+                        <li>
+                            <a href="#" class="nav-link px-sm-0 px-2" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-content="#modal-descargar">
+                                <i class="bi bi-download"></i><span class="ms-1 d-none d-sm-inline">Descargar</span></a>
+                        </li>
+                        <li>
+                            <a href="#cabecera">
+                                <i class="bi bi-arrow-bar-up"></i><span class="ms-1 d-none d-sm-inline">Inicio</span></a>
+                        </li>
+                        <li>
+                            <a href="https://creativecommons.org/licenses/by/4.0/deed.es" class="nav-link px-sm-0 px-2" target="_blank" >
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-cc-circle" viewBox="0 0 16 16">
+                                    <path d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8m15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0M5.408 5.89c-.83 0-1.318.64-1.318 1.753v.742c0 1.108.479 1.727 1.318 1.727.69 0 1.138-.435 1.187-1.05h1.147v.114c-.058 1.147-1.029 1.938-2.343 1.938-1.612 0-2.518-1.028-2.518-2.729v-.747c0-1.7.914-2.75 2.518-2.75 1.319 0 2.29.812 2.343 1.999v.11H6.595c-.049-.638-.506-1.108-1.187-1.108Zm5.404 0c-.831 0-1.319.64-1.319 1.753v.742c0 1.108.48 1.727 1.319 1.727.69 0 1.138-.435 1.186-1.05h1.147v.114c-.057 1.147-1.028 1.938-2.342 1.938-1.613 0-2.518-1.028-2.518-2.729v-.747c0-1.7.914-2.75 2.518-2.75 1.318 0 2.29.812 2.342 1.999v.11h-1.147c-.048-.638-.505-1.108-1.186-1.108Z"/>
+                                  </svg><span class="ms-1 d-none d-sm-inline">Licencia</span></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+<!-- VENTANAS MODALES -->
+
+<!-- Modal índice -->
+     
+     
+    <div id="modal-indice" style="display: none;">
+    <ul>
+    <li><a href="#introducción" id="toc-introducción">Introducción</a></li>
+    <li><a href="#políticas-sociales-neoliberales-en-chile-subjetividades-profesionales-incómodas" id="toc-políticas-sociales-neoliberales-en-chile-subjetividades-profesionales-incómodas">Políticas sociales neoliberales en Chile: subjetividades profesionales incómodas</a>
+    <ul>
+    <li><a href="#interventoresas-psicosociales-subjetivaciones-neoliberales-y-posibilidades-de-resistencia" id="toc-interventoresas-psicosociales-subjetivaciones-neoliberales-y-posibilidades-de-resistencia">Interventores/as psicosociales: subjetivaciones neoliberales y posibilidades de resistencia</a></li>
+    <li><a href="#la-subjetividad-como-articulaciones-inestables-de-posiciones-de-sujeto" id="toc-la-subjetividad-como-articulaciones-inestables-de-posiciones-de-sujeto">La subjetividad como articulaciones inestables de posiciones de sujeto</a></li>
+    </ul></li>
+    <li><a href="#método" id="toc-método">Método</a>
+    <ul>
+    <li><a href="#selección-de-participantes" id="toc-selección-de-participantes">Selección de participantes</a></li>
+    <li><a href="#procedimiento" id="toc-procedimiento">Procedimiento</a></li>
+    <li><a href="#estrategia-de-análisis" id="toc-estrategia-de-análisis">Estrategia de análisis</a></li>
+    </ul></li>
+    <li><a href="#análisis-y-resultados" id="toc-análisis-y-resultados">Análisis y resultados</a>
+    <ul>
+    <li><a href="#de-lo-maquínico-a-lo-agéntico.-seis-posiciones-de-sujeto" id="toc-de-lo-maquínico-a-lo-agéntico.-seis-posiciones-de-sujeto">De lo maquínico a lo agéntico. Seis posiciones de sujeto</a>
+    <ul>
+    <li><a href="#posición-maquínica-hacer-lo-que-hay-que-hacer" id="toc-posición-maquínica-hacer-lo-que-hay-que-hacer">Posición maquínica (<em>hacer lo que hay que hacer</em>)</a></li>
+    <li><a href="#posición-abnegada-hacer-más-que-lo-posible" id="toc-posición-abnegada-hacer-más-que-lo-posible">Posición abnegada (<em>hacer más que lo posible</em>)</a></li>
+    <li><a href="#posición-derrotista-nada-que-hacer" id="toc-posición-derrotista-nada-que-hacer">Posición derrotista (<em>nada que hacer</em>)</a></li>
+    <li><a href="#posición-empática-hay-que-saber-entender" id="toc-posición-empática-hay-que-saber-entender">Posición empática (<em>hay que saber entender</em>)</a></li>
+    <li><a href="#posición-tecnocrática-hay-que-saber-hacer" id="toc-posición-tecnocrática-hay-que-saber-hacer">Posición tecnocrática (<em>hay que saber hacer</em>)</a></li>
+    <li><a href="#posición-agéntica-hay-que-transformar" id="toc-posición-agéntica-hay-que-transformar">Posición agéntica (<em>hay que transformar</em>)</a></li>
+    </ul></li>
+    <li><a href="#desplazamientos-entre-posiciones-de-sujeto" id="toc-desplazamientos-entre-posiciones-de-sujeto">Desplazamientos entre posiciones de sujeto</a>
+    <ul>
+    <li><a href="#entre-las-posiciones-maquínica-y-agéntica" id="toc-entre-las-posiciones-maquínica-y-agéntica">Entre las posiciones maquínica y agéntica</a></li>
+    <li><a href="#entre-las-posiciones-agéntica-abnegada-tecnocrática-y-empática" id="toc-entre-las-posiciones-agéntica-abnegada-tecnocrática-y-empática">Entre las posiciones agéntica, abnegada, tecnocrática y empática</a></li>
+    </ul></li>
+    <li><a href="#el-habla-dilemática-posiciones-en-conflicto" id="toc-el-habla-dilemática-posiciones-en-conflicto">El habla dilemática: posiciones en conflicto</a>
+    <ul>
+    <li><a href="#la-posición-abnegada-y-la-posición-derrotista-en-conflicto" id="toc-la-posición-abnegada-y-la-posición-derrotista-en-conflicto">La posición abnegada y la posición derrotista en conflicto</a></li>
+    <li><a href="#la-posición-maquínica-y-la-posición-tecnocrática-en-conflicto" id="toc-la-posición-maquínica-y-la-posición-tecnocrática-en-conflicto">La posición maquínica y la posición tecnocrática en conflicto</a></li>
+    </ul></li>
+    </ul></li>
+    <li><a href="#conclusiones" id="toc-conclusiones">Conclusiones</a></li>
+    <li><a href="#financiamiento" id="toc-financiamiento">Financiamiento</a></li>
+    <li><a href="#referencias" id="toc-referencias">Referencias </a></li>
+    </ul>
+    </div>
+     
+<!-- fin modal índice-->
+
+<!-- Modal autoría -->
+    <div id="modal-autores" style="display: none;">
+        <ul style="list-style: none;">
+
+    
+           <li style="padding-bottom: 2rem;">
+            <h4>Miguel Ángel Campillay-Araya</h4>
+             <i class="fa-solid fa-building-columns"></i> Instituto de Psicología Universidad Austral de Chile </br> 
+             <i class="bi bi-envelope"></i>miguel.campillay@uach.cl </br> 
+<!--             <i class="fa-brands fa-orcid"><a href="https://orcid.org/0000-0002-9806-324X" target="_blank">0000-0002-9806-324X</a> </br> -->
+             <i class="fa-brands fa-orcid"></i><a href="https://orcid.org/0000-0002-9806-324X" target="_blank">0000-0002-9806-324X</a> </br>
+            
+             
+         </li>
+        
+           <li style="padding-bottom: 2rem;">
+            <h4>Andrés Di Masso Tarditti</h4>
+             <i class="fa-solid fa-building-columns"></i> Universitat de Barcelona </br> 
+             <i class="bi bi-envelope"></i>adimasso@ub.edu </br> 
+<!--             <i class="fa-brands fa-orcid"><a href="https://orcid.org/0000-0003-1120-3439" target="_blank">0000-0003-1120-3439</a> </br> -->
+             <i class="fa-brands fa-orcid"></i><a href="https://orcid.org/0000-0003-1120-3439" target="_blank">0000-0003-1120-3439</a> </br>
+            
+             
+         </li>
+                </ul>
+    </div>
+<!-- Fin modal autoría -->
+
+
+<!-- Inicio historia editorial -->
+     <div id="modal-historia" style="display: none;">
+        <p><b>Recibido:</b> 22-09-2022</p>
+        <p><b>Aceptado:</b> 07-09-2023</p>
+        <p><b>Publicado: </b>10-10-2023</p>
+    </div>
+<!-- Fin historia editorial -->
+
+<!-- Modal cómo citar -->
+<div id="modal-citar" style="display: none;">
+    <p>Campillay-Araya, M. Ángel, &amp; Di Masso Tarditti, A. (2023). Interventores/as psicosociales en Chile. Neoliberalismo, subjetividades incómodas y posicionamientos inestables. <i>Athenea Digital. evista e ensamiento investigación social</i>, <i>23</i>(3), e3375. https://doi.org/10.5565/rev/athenea.3375</p>
 </div>
+<!--fin modal cómo citar -->
 
-</aside>
+<!-- Modal DOI -->
+<div id="modal-doi" style="display: none;">
+    <p<i class="ai ai-doi ai-2x"></i>  <a href=http://doi.org/https://doi.org/10.5565/rev/athenea.3375 target="_blank">&nbsp;&nbsphttps://doi.org/https://doi.org/10.5565/rev/athenea.3375</a>/p>
+</div>
+<!--fin modal doi -->
+
+<!-- Modal descargar -->
+<div id="modal-descargar" style="display: none;">
+    <i class="fa-solid fa-file-pdf fa-2x"></i>  <a href=https://atheneadigital.net/article/view/v23-n3-campillay-dimasso target="_blank">&nbsp;&nbsp;&nbsp;https://atheneadigital.net/article/view/v23-n3-campillay-dimasso</a>/a>
+</div>
+<!-- Fin modal descargar -->
+
+<!-- FIN VENTANAS MODALES -->
 
 
-<main class="main-content">
-
-  <div id="cabecera">
-    <div id="logo">
-      <img src="https://publicacions.uab.cat/common/journal/athenea/images/logo-athenea.jpg" alt="Logo Athenea Digital">
-    </div>
-    <div id="revista">
-      <a href="https://atheneadigital.net/index" target="_blank">Athenea Digital. Revista de pensamiento e investigación social</a>
-
-
-<!-- <a href="https://orcid.org/" target="_blank">https://orcid.org/</a>'-->
-
-<p class="info-num"><a href="https://atheneadigital.net/issue/view/63" target="_blank">Volumen 23, Número: 3,  2023</a></p>
-    </div>
-  </div>
-
+     <div class="col d-flex flex-column h-sm-100">
+                <main class="row overflow-auto">
+                    <div class="col pt-4"> <!--Contenido principal -->
+                        <div id="cabecera">
+                            <div id="logo">
+                              <img src="https://publicacions.uab.cat/common/journal/athenea/images/logo-athenea.jpg" alt="Logo Athenea Digital">
+                            </div> <!--logo-->
+                            <div id="revista">
+                              <a href="https://atheneadigital.net/index" target="_blank">Athenea Digital. Revista de pensamiento e investigación social</a>
+                            <p class="info-num"><a href="https://atheneadigital.net/issue/view/63" target="_blank">Volumen 23, Número: 3,  2023</a></p>
+                            </div> <!-- Revista-->
+                          </div> <!-- Cabecera-->
+                       
 <header id="title-block-header">
 <h1 class="title">Interventores/as psicosociales en Chile. Neoliberalismo, subjetividades incómodas y posicionamientos inestables</h1>
-
-<!-- Autores -->
-<div class="lista-horizontal">
-  <ul>
-
-<li>
-        <a href="#" class="autorLink"
-        data-nombre= 'Miguel Ángel Campillay-Araya'
-         data-universidad= ' Instituto de Psicología Universidad Austral de Chile ' 
-        
-         data-correo='miguel.campillay@uach.cl' 
-	        data-orcid='<a href="https://orcid.org/0000-0002-9806-324X" target="_blank">https://orcid.org/0000-0002-9806-324X</a>' 
-
-         >
-        Miguel Ángel  Campillay-Araya </a>
-
-    <!-- Popup de información del autor -->
-	<div class="popup">
-          <span class="closeIcon" id="closePopup"><i class="fas fa-times"></i></span>
-        <h3 class="nombreAutor"></h3>
-        <p class="universidad"><i class="fas fa-university"></i> Universidad: </p>
-        <p class="variable"></p>
-        <p class="correo"><i class="fas fa-envelope"></i> Correo: </p>
-       <p class="orcid"><i class="fab fa-orcid"></i> orcid </p>
-        <p class="otro">Otra información</p>
-
-</li>
-
-<!-- <p class="author"></p> -->
-
-<li>
-        <a href="#" class="autorLink"
-        data-nombre= 'Andrés Di Masso Tarditti'
-         data-universidad= ' Universitat de Barcelona ' 
-        
-         data-correo='adimasso@ub.edu' 
-	        data-orcid='<a href="https://orcid.org/0000-0003-1120-3439" target="_blank">https://orcid.org/0000-0003-1120-3439</a>' 
-
-         >
-        Andrés  Di Masso Tarditti </a>
-
-    <!-- Popup de información del autor -->
-	<div class="popup">
-          <span class="closeIcon" id="closePopup"><i class="fas fa-times"></i></span>
-        <h3 class="nombreAutor"></h3>
-        <p class="universidad"><i class="fas fa-university"></i> Universidad: </p>
-        <p class="variable"></p>
-        <p class="correo"><i class="fas fa-envelope"></i> Correo: </p>
-       <p class="orcid"><i class="fab fa-orcid"></i> orcid </p>
-        <p class="otro">Otra información</p>
-
-</li>
-
-<!-- <p class="author"></p> -->
-</ul>
-</div>
-
-<p class="HistoriaEditorial"><b>Recibido:</b> 22-09-2022; <b>Aceptado:</b> 07-09-2023; <b>Publicado: </b>10-10-2023<p>
+</div> <!-- Autores -->
 
 
-<p class="doi"><i class="ai ai-doi ai-2x"></i>  <a href=http://doi.org/https://doi.org/10.5565/rev/athenea.3375 target="_blank">&nbsp;&nbsphttps://doi.org/https://doi.org/10.5565/rev/athenea.3375</a></p>
 
-<p class="doi"><i class="fa-solid fa-file-pdf fa-2x"></i>  <a href=https://atheneadigital.net/article/view/v23-n3-campillay-dimasso target="_blank">&nbsp;&nbsp;&nbsp;https://atheneadigital.net/article/view/v23-n3-campillay-dimasso</a></p>
 
 <!-- Resumen -->
-<h2 id="toggle-resumen"class="info-trigger">Resumen</h2>
-<div id="resumen">
+  <div class="resumen">
+    <h1>Resumen</h1>
 <p class="Resumen"><p>En este artículo analizamos las subjetividades de los/as interventores psicosociales que implementan políticas sociales en Chile. Nos enfocamos en cómo el carácter neoliberal de dichas políticas cristaliza una subjetividad profesional incómoda. Desde la teoría del posicionamiento, y a partir del análisis del discurso de 20 entrevistas en profundidad, observamos que los/as profesionales transitan entre seis posiciones de sujeto: maquínica, abnegada, derrotista, empática, tecnocrática y agéntica. Definimos estas posiciones por su propósito primario, por cómo se identifica a interventores/as y usuarios/as, y por la función atribuida a la intervención. En la gestión discursiva de esas posiciones también nos encontramos con momentos ideológicamente dilemáticos en los que se toman diferentes posiciones simultáneamente y en conflicto. Revisamos la relación entre la racionalidad neoliberal y la gestión de estas posiciones, así como las implicancias teórico-prácticas de nuestro análisis.</p></p>
-<div class="lista-horizontal"
-<ul>
-    <li>Intervención Psicosocial</li>
-  <li>Subjetividad</li>
-  <li>Neoliberalismo</li>
-  <li>Programa Social</li>
-  <li>Análisis Cualitativo</li>
+<h5>Kewywords</h5>
+
+<!-- <div class="lista-horizontal"-->
+<ul class="list-group list-group-horizontal">
+    <li class="list-group-item">Intervención Psicosocial</li>
+  <li class="list-group-item">Subjetividad</li>
+  <li class="list-group-item">Neoliberalismo</li>
+  <li class="list-group-item">Programa Social</li>
+  <li class="list-group-item">Análisis Cualitativo</li>
 </ul>
-</div>
-</div>
 <!-- </div> -->
+ <!-- Lista horizontal -->
+</div> <!-- Resumen -->
 </header>
 
+
 <h1 id="introducción">Introducción</h1>
-<p>En el abordaje de los problemas sociales definidos como tales por las políticas públicas, los/as interventores/as psicosociales pueden actuar discrecionalmente (<span class="reference" data-reference-id="ref32">Lipsky, 2010</span>). Esto implica que, a pesar de estar sujetos a orientaciones institucionales, disponen de espacios de autonomía (<span class="reference" data-reference-id="ref16">Evans y Hupe, 2020</span>) en los que se desenvuelven de acuerdo con sus preferencias (<span class="reference" data-reference-id="ref27">Kirkpatrick et al., 2005</span>). Por ello, las subjetividades de los/as interventores/as psicosociales son un aspecto crítico en la implementación de las políticas sociales.</p>
+<p>En el abordaje de los problemas sociales definidos como tales por las políticas públicas, los/as interventores/as psicosociales pueden actuar discrecionalmente (<span class="reference" data-bs-toggle="popover"  data-bs-custom-class="custom-popover" data-reference-id="#ref32">Lipsky, 2010</span>). Esto implica que, a pesar de estar sujetos a orientaciones institucionales, disponen de espacios de autonomía (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref16">Evans y Hupe, 2020</span>) en los que se desenvuelven de acuerdo con sus preferencias (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref27">Kirkpatrick et al., 2005</span>). Por ello, las subjetividades de los/as interventores/as psicosociales son un aspecto crítico en la implementación de las políticas sociales.</p>
+
+<!-- Imagen -->
+<div class="image-container" data-bs-toggle="modal" data-bs-target="#ModalImage" data-bs-title="Imagen 1">
+    <img src="assets/image1.jpeg" alt="Imagen 1" class="thumbnail-image">
+    <p>Descripción de la imagen 1.</p>
+  </div>
+
+
+
+  
+
 <p>En Chile se han constatado tensiones derivadas de la inconsistencia entre los lineamientos institucionales, la complejidad de la práctica interventiva y las expectativas que los/as interventores/as tienen respecto de su quehacer. Investigaciones en diferentes ámbitos de la política social (<em>e. g.</em> infancia, género, adicciones o inclusión social) entienden estas tensiones como un efecto del carácter neoliberal de dichas políticas. Ante esto, es fácil caer en una lectura binaria del abordaje de estas tensiones, por ejemplo, en términos reproducir o resistir la lógica neoliberal. Esto obvia la ambivalencia y el carácter situado de la conformación de las subjetividades de estos/as profesionales.</p>
-<p>Ante esto, y desde la teoría del posicionamiento (<span class="reference" data-reference-id="ref23">Harré y Van Langenhove, 1999</span>), comprendemos la subjetividad profesional como una configuración de posiciones de sujeto ambivalentes y variables. En conjunto, las posiciones organizan modos de dar sentido al yo y a la realidad. Entender las subjetividades profesionales como posicionamientos inconsistentes supera las limitaciones de la lógica binaria reproducción/resistencia, y complejiza las relaciones trazables entre dichas subjetividades y el marco neoliberal.</p>
+<p>Ante esto, y desde la teoría del posicionamiento (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref23">Harré y Van Langenhove, 1999</span>), comprendemos la subjetividad profesional como una configuración de posiciones de sujeto ambivalentes y variables. En conjunto, las posiciones organizan modos de dar sentido al yo y a la realidad. Entender las subjetividades profesionales como posicionamientos inconsistentes supera las limitaciones de la lógica binaria reproducción/resistencia, y complejiza las relaciones trazables entre dichas subjetividades y el marco neoliberal.</p>
 <p>A continuación, argumentamos la articulación entre las subjetividades profesionales y el neoliberalismo, para luego desarrollar los principios de la teoría del posicionamiento. Posteriormente, exponemos la estrategia analítica del estudio y finalizamos con la discusión de las implicancias de comprender las subjetividades profesionales como posiciones de sujeto múltiples e inestables en el marco hegemónico neoliberal.</p>
 <h1 id="políticas-sociales-neoliberales-en-chile-subjetividades-profesionales-incómodas">Políticas sociales neoliberales en Chile: subjetividades profesionales incómodas</h1>
-<p>Para contextualizar la cuestión de la subjetividad profesional en la implementación de intervenciones psicosociales, es importante considerar el modelo de Estado neoliberal y su impacto en las políticas sociales. En Chile, el neoliberalismo se materializa en un sistema estatal subsidiario, que limita el rol del Estado a tercerizar sus funciones, es decir, otorgar recursos públicos a instituciones privadas a cargo de implementar las políticas del Estado. Esto permite que dichas políticas se conviertan en un campo de acción para actividades mercantiles (<span class="reference" data-reference-id="ref36">Pizarro, 2020</span>).</p>
-<p>La tercerización de la función pública expone a sus trabajadores a la precarización laboral, dado que son subcontratados/as por instituciones privadas evaluadas por su eficiencia en el gasto. Esto es legitimado por la asociación entre flexibilidad contractual y el aumento de la competitividad y la inversión (<span class="reference" data-reference-id="ref9">Calveiro, 2021</span>). Sin embargo, se ha constatado que dicha precarización repercute negativamente en las intervenciones psicosociales (<span class="reference" data-reference-id="ref35">Pavez, 2021</span>).</p>
-<p>El funcionamiento neoliberal de las políticas sociales está fundamentado en la nueva gestión pública, enfoque que promueve una lógica empresarial a lo público: competitividad, uso de incentivos, efectividad cuantificable y la aplicación homogénea de procedimientos (<span class="reference" data-reference-id="ref13">Dunleavy y Hood, 1994</span>; <span class="reference" data-reference-id="ref29">Lapuente y Van de Walle, 2020</span>). Sin embargo, implementar políticas sociales bajo estos principios conlleva importantes dificultades. Por ejemplo, los/as profesionales chilenos/as consideran que el carácter centralizado de los protocolos con los que intervienen es insuficientes ante la complejidad de la intervención (<span class="reference" data-reference-id="ref3">Berroeta et al., 2019</span>); o que los mecanismos de registro y evaluación priorizan el cumplimiento administrativo a la efectividad de sus acciones (<span class="reference" data-reference-id="ref17">Fardella et al., 2016</span>). Esto pone en tela de juicio la calidad y los efectos de intervenciones psicosociales desplegadas desde la nueva gestión pública.</p>
-<p>En suma, dentro del entramado institucional neoliberal, quienes implementan intervenciones psicosociales enfrentan la burocratización de su trabajo, la pérdida de su autonomía y de la capacidad para responder a las necesidades de las personas (<span class="reference" data-reference-id="ref27">Kirkpatrick et al., 2005</span>), cuestiones promovidas por las políticas neoliberales, cristalizan una subjetividad profesional incómoda, cuya “gestión” tiene implicancias políticas significativas.</p>
+<p>Para contextualizar la cuestión de la subjetividad profesional en la implementación de intervenciones psicosociales, es importante considerar el modelo de Estado neoliberal y su impacto en las políticas sociales. En Chile, el neoliberalismo se materializa en un sistema estatal subsidiario, que limita el rol del Estado a tercerizar sus funciones, es decir, otorgar recursos públicos a instituciones privadas a cargo de implementar las políticas del Estado. Esto permite que dichas políticas se conviertan en un campo de acción para actividades mercantiles (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref36">Pizarro, 2020</span>).</p>
+<p>La tercerización de la función pública expone a sus trabajadores a la precarización laboral, dado que son subcontratados/as por instituciones privadas evaluadas por su eficiencia en el gasto. Esto es legitimado por la asociación entre flexibilidad contractual y el aumento de la competitividad y la inversión (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref9">Calveiro, 2021</span>). Sin embargo, se ha constatado que dicha precarización repercute negativamente en las intervenciones psicosociales (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref35">Pavez, 2021</span>).</p>
+<p>El funcionamiento neoliberal de las políticas sociales está fundamentado en la nueva gestión pública, enfoque que promueve una lógica empresarial a lo público: competitividad, uso de incentivos, efectividad cuantificable y la aplicación homogénea de procedimientos (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref13">Dunleavy y Hood, 1994</span>; <span class="reference" data-bs-toggle="popover" data-reference-id="#ref29">Lapuente y Van de Walle, 2020</span>). Sin embargo, implementar políticas sociales bajo estos principios conlleva importantes dificultades. Por ejemplo, los/as profesionales chilenos/as consideran que el carácter centralizado de los protocolos con los que intervienen es insuficientes ante la complejidad de la intervención (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref3">Berroeta et al., 2019</span>); o que los mecanismos de registro y evaluación priorizan el cumplimiento administrativo a la efectividad de sus acciones (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref17">Fardella et al., 2016</span>). Esto pone en tela de juicio la calidad y los efectos de intervenciones psicosociales desplegadas desde la nueva gestión pública.</p>
+<p>En suma, dentro del entramado institucional neoliberal, quienes implementan intervenciones psicosociales enfrentan la burocratización de su trabajo, la pérdida de su autonomía y de la capacidad para responder a las necesidades de las personas (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref27">Kirkpatrick et al., 2005</span>), cuestiones promovidas por las políticas neoliberales, cristalizan una subjetividad profesional incómoda, cuya “gestión” tiene implicancias políticas significativas.</p>
 <h2 id="interventoresas-psicosociales-subjetivaciones-neoliberales-y-posibilidades-de-resistencia">Interventores/as psicosociales: subjetivaciones neoliberales y posibilidades de resistencia</h2>
-<p>El modelo neoliberal ha impregnado la vida social chilena (<span class="reference" data-reference-id="ref22">Garretón, 2020</span>), dado que opera como una <em>racionalidad</em> (<span class="reference" data-reference-id="ref24">Harvey, 2005/2007</span>), es decir, como una lógica rectora cuyo eje es la economización de lo humano (<span class="reference" data-reference-id="ref6">Brown, 2016</span>). Al promover subjetividades individualistas y competitivas (<span class="reference" data-reference-id="ref30">Laval y Dardot, 2009/2013</span>) es, a la vez, un orden social, un sistema institucional y un imaginario con el que nos pensamos (<span class="reference" data-reference-id="ref15">Escalante, 2015</span>).</p>
-<p>En este contexto, el/la trabajador/a neoliberal es subjetivado por medio de una asociación entre libertad, flexibilidad y riesgo (<span class="reference" data-reference-id="ref1">Bedoya y Castrillón, 2017</span>), lo que convierte a la precarización y la inseguridad en condiciones laborales normales y aceptables (<span class="reference" data-reference-id="ref12">De Almeida y De Almeida, 2019</span>). Esto se hizo evidente en los momentos de cuarentena debido a la pandemia del COVID-19, cuando los/as mismos/as interventores/as se hicieron cargo de posibilitar el ejercicio de sus funciones al costear los servicios telefónicos y de internet, o al responder a sus usuarios/as fuera de los horarios de trabajo (<span class="reference" data-reference-id="ref20">García-Meneses et al., 2022</span>). En este caso, el efecto negativo que se ha atribuido a las tecnologías en cuanto al aumento de la carga laboral (<span class="reference" data-reference-id="ref2">Berardi, 2003</span>; <span class="reference" data-reference-id="ref25">Harvey, 2014</span>) aparece en este ejemplo como una dificultad autoimpuesta.</p>
-<p>Que los/as trabajadores/as se hagan cargo de resolver dificultades materiales o de infraestructura es un buen ejemplo de los efectos subjetivadores de la racionalidad neoliberal. Más allá, el consecuente malestar asociado al trabajo en estas condiciones es experimentado y abordado por los/as profesionales chilenos/as como un problema individual o psicológico (<span class="reference" data-reference-id="ref34">Muñoz-Arce y Pantazis, 2019</span>), algo reconocible en los procesos de subjetivación neoliberal (<span class="reference" data-reference-id="ref39">Rose, 1996/2019</span>; <span class="reference" data-reference-id="ref43">Walkerdine, 2002</span>).</p>
-<p>Enfatizar el efecto subjetivador del neoliberalismo no implica asumir la simple producción en serie de “trabajadores/as neoliberales”, alineados/as y promotores/as del modelo. Por el contrario, nos encontramos con una <em>autonomía contrariada</em> (<span class="reference" data-reference-id="ref30">Laval y Dardot, 2009/2013</span>), con subjetividades incómodas por la contraposición entre un <em>ethos burocrático</em>, orientado al cumplimiento de demandas institucionales, y un <em>ethos profesional</em>, centrado en responder a las personas (<span class="reference" data-reference-id="ref10">Cortina, 2000</span>). Esta tensión, en tanto <em>interpelación afectiva</em> (<span class="reference" data-reference-id="ref21">García-Meneses et al., 2021</span>), puede conducir a prácticas de <em>resistencia profesional</em> (<span class="reference" data-reference-id="ref42">Strier y Bershtling, 2016</span>) por medio de las cuales la racionalidad neoliberal puede ser desafiada (<span class="reference" data-reference-id="ref34">Muñoz-Arce y Pantazis, 2019</span>). Aquí es que resulta necesario evitar reducir las subjetividades profesionales al binarismo reproducir/resistir y buscar dar cuenta de las ambivalencias y complejidades cotidianas de la intervención psicosocial (<span class="reference" data-reference-id="ref38">Reininger et al., 2022</span>).</p>
+<p>El modelo neoliberal ha impregnado la vida social chilena (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref22">Garretón, 2020</span>), dado que opera como una <em>racionalidad</em> (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref24">Harvey, 2005/2007</span>), es decir, como una lógica rectora cuyo eje es la economización de lo humano (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref6">Brown, 2016</span>). Al promover subjetividades individualistas y competitivas (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref30">Laval y Dardot, 2009/2013</span>) es, a la vez, un orden social, un sistema institucional y un imaginario con el que nos pensamos (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref15">Escalante, 2015</span>).</p>
+<p>En este contexto, el/la trabajador/a neoliberal es subjetivado por medio de una asociación entre libertad, flexibilidad y riesgo (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref1">Bedoya y Castrillón, 2017</span>), lo que convierte a la precarización y la inseguridad en condiciones laborales normales y aceptables (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref12">De Almeida y De Almeida, 2019</span>). Esto se hizo evidente en los momentos de cuarentena debido a la pandemia del COVID-19, cuando los/as mismos/as interventores/as se hicieron cargo de posibilitar el ejercicio de sus funciones al costear los servicios telefónicos y de internet, o al responder a sus usuarios/as fuera de los horarios de trabajo (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref20">García-Meneses et al., 2022</span>). En este caso, el efecto negativo que se ha atribuido a las tecnologías en cuanto al aumento de la carga laboral (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref2">Berardi, 2003</span>; <span class="reference" data-bs-toggle="popover" data-reference-id="#ref25">Harvey, 2014</span>) aparece en este ejemplo como una dificultad autoimpuesta.</p>
+<p>Que los/as trabajadores/as se hagan cargo de resolver dificultades materiales o de infraestructura es un buen ejemplo de los efectos subjetivadores de la racionalidad neoliberal. Más allá, el consecuente malestar asociado al trabajo en estas condiciones es experimentado y abordado por los/as profesionales chilenos/as como un problema individual o psicológico (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref34">Muñoz-Arce y Pantazis, 2019</span>), algo reconocible en los procesos de subjetivación neoliberal (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref39">Rose, 1996/2019</span>; <span class="reference" data-bs-toggle="popover" data-reference-id="#ref43">Walkerdine, 2002</span>).</p>
+<p>Enfatizar el efecto subjetivador del neoliberalismo no implica asumir la simple producción en serie de “trabajadores/as neoliberales”, alineados/as y promotores/as del modelo. Por el contrario, nos encontramos con una <em>autonomía contrariada</em> (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref30">Laval y Dardot, 2009/2013</span>), con subjetividades incómodas por la contraposición entre un <em>ethos burocrático</em>, orientado al cumplimiento de demandas institucionales, y un <em>ethos profesional</em>, centrado en responder a las personas (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref10">Cortina, 2000</span>). Esta tensión, en tanto <em>interpelación afectiva</em> (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref21">García-Meneses et al., 2021</span>), puede conducir a prácticas de <em>resistencia profesional</em> (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref42">Strier y Bershtling, 2016</span>) por medio de las cuales la racionalidad neoliberal puede ser desafiada (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref34">Muñoz-Arce y Pantazis, 2019</span>). Aquí es que resulta necesario evitar reducir las subjetividades profesionales al binarismo reproducir/resistir y buscar dar cuenta de las ambivalencias y complejidades cotidianas de la intervención psicosocial (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref38">Reininger et al., 2022</span>).</p>
 <h2 id="la-subjetividad-como-articulaciones-inestables-de-posiciones-de-sujeto">La subjetividad como articulaciones inestables de posiciones de sujeto</h2>
-<p>La teoría del posicionamiento permite ir más allá del binarismo reproducir/resistir, al sugerir que las personas participan de interacciones sociales a partir de <em>posiciones de sujeto</em> cambiantes. Este concepto implica: i) una mirada abierta y fluida que reconoce que las personas pueden asumir posiciones contradictorias (<span class="reference" data-reference-id="ref11">Davies y Harré, 2007</span>; <span class="reference" data-reference-id="ref26">Henriksen, 2008</span>); ii) la importancia de los discursos en la constitución de las realidades sociales, en la provisión de las posiciones de sujeto y en el condicionamiento de la experiencia subjetiva (aunque sin determinarla) (<span class="reference" data-reference-id="ref11">Davies y Harré, 2007</span>); iii) la naturaleza cambiante de las posiciones (<span class="reference" data-reference-id="ref23">Harré y Van Langenhove, 1999</span>); iv) la agencia implicada en el acto de posicionarse y en la capacidad de transformar discursos a partir la interacción entre personas (<span class="reference" data-reference-id="ref26">Henriksen, 2008</span>); y v) el carácter situado del posicionamiento, que condiciona la conducta y define derechos y deberes intra- e inter-personales (<span class="reference" data-reference-id="ref23">Harré y Van Langenhove, 1999</span>). En definitiva, las posiciones de sujeto se reconocen en su carácter precario, discursivo y relacional. Vemos un ejemplo de esto en el estudio de Catherine Galaz y María Gabriela Rubilar (<span class='reference' data-reference-id='ref19'>\d\d\d\d(?!<)</span>), que constata que las profesionales asumen tanto lógicas de dominación como lógicas emancipadoras o colaborativas hacia las usuarias. Esto parece ejemplificar posiciones múltiples y contradictorias que responden a experiencias <em>liminares</em> que arrojan a las profesionales a una condición imprevisible, ambivalente y volátil (<span class="reference" data-reference-id="ref41">Stenner, 2017</span>).</p>
+<p>La teoría del posicionamiento permite ir más allá del binarismo reproducir/resistir, al sugerir que las personas participan de interacciones sociales a partir de <em>posiciones de sujeto</em> cambiantes. Este concepto implica: i) una mirada abierta y fluida que reconoce que las personas pueden asumir posiciones contradictorias (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref11">Davies y Harré, 2007</span>; <span class="reference" data-bs-toggle="popover" data-reference-id="#ref26">Henriksen, 2008</span>); ii) la importancia de los discursos en la constitución de las realidades sociales, en la provisión de las posiciones de sujeto y en el condicionamiento de la experiencia subjetiva (aunque sin determinarla) (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref11">Davies y Harré, 2007</span>); iii) la naturaleza cambiante de las posiciones (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref23">Harré y Van Langenhove, 1999</span>); iv) la agencia implicada en el acto de posicionarse y en la capacidad de transformar discursos a partir la interacción entre personas (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref26">Henriksen, 2008</span>); y v) el carácter situado del posicionamiento, que condiciona la conducta y define derechos y deberes intra- e inter-personales (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref23">Harré y Van Langenhove, 1999</span>). En definitiva, las posiciones de sujeto se reconocen en su carácter precario, discursivo y relacional. Vemos un ejemplo de esto en el estudio de Catherine Galaz y María Gabriela Rubilar (<span class='reference' data-reference-id='ref19'>\d\d\d\d(?!<)</span>), que constata que las profesionales asumen tanto lógicas de dominación como lógicas emancipadoras o colaborativas hacia las usuarias. Esto parece ejemplificar posiciones múltiples y contradictorias que responden a experiencias <em>liminares</em> que arrojan a las profesionales a una condición imprevisible, ambivalente y volátil (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref41">Stenner, 2017</span>).</p>
 <h1 id="método">Método</h1>
-<p>En este estudio utilizamos un enfoque cualitativo orientado por los principios analíticos de la psicología discursiva (<span class='reference' data-reference-id='ref14'>Edwards y Potter, 1992</span>), la psicología retórica (<span class="reference" data-reference-id="ref4">Billig, 1987</span>), y la perspectiva de las posiciones de sujeto. Esto permite atender a la acción y efectos del lenguaje para las personas, entendidas como <em>usuarias de discursos</em> (<span class="reference" data-reference-id="ref8">Burr, 2015</span>).</p>
+<p>En este estudio utilizamos un enfoque cualitativo orientado por los principios analíticos de la psicología discursiva (<span class='reference' data-reference-id='ref14'>Edwards y Potter, 1992</span>), la psicología retórica (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref4">Billig, 1987</span>), y la perspectiva de las posiciones de sujeto. Esto permite atender a la acción y efectos del lenguaje para las personas, entendidas como <em>usuarias de discursos</em> (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref8">Burr, 2015</span>).</p>
 <h2 id="selección-de-participantes">Selección de participantes</h2>
-<p>Utilizamos una estrategia de selección de participantes intencional y por bola de nieve (<span class="reference" data-reference-id="ref18">Flick, 2007/2015</span>). Seleccionamos a entrevistados/as que: i) tienen al menos dos años de experiencia interviniendo en programas psicosociales implementados por el Estado chileno, período de tiempo suficiente para tener una perspectiva acabada del sistema que organiza la política social; ii) tienen experiencia en las áreas de infancia, género, exclusión social o exclusión escolar, en las que se han constatado los efectos del neoliberalismo revisados en secciones previas; iii) han trabajado en diferentes contextos territoriales, lo que nos permite una mirada amplia y no reductible a zonas específicas del país (ver Tabla 1).</p>
+<p>Utilizamos una estrategia de selección de participantes intencional y por bola de nieve (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref18">Flick, 2007/2015</span>). Seleccionamos a entrevistados/as que: i) tienen al menos dos años de experiencia interviniendo en programas psicosociales implementados por el Estado chileno, período de tiempo suficiente para tener una perspectiva acabada del sistema que organiza la política social; ii) tienen experiencia en las áreas de infancia, género, exclusión social o exclusión escolar, en las que se han constatado los efectos del neoliberalismo revisados en secciones previas; iii) han trabajado en diferentes contextos territoriales, lo que nos permite una mirada amplia y no reductible a zonas específicas del país (ver Tabla 1).</p>
 
+<div class="table-responsive">
+<table class="table" style="width: 95%;">
+	<thead>
+		<tr>
+			<th scope="col">N</th>
+			<th scope="col">Cód. entrevista</th>
+			<th scope="col">Profesión</th>
+			<th scope="col">Área de intervención</th>
+			<th scope="col">Región/Zona del país</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">1</th>
+			<td data-label="Cód. entrevista">E1/E2</td>
+			<td data-label="Profesión">Trabajo social</td>
+			<td data-label="Área de intervención">Infancia y adultez en situación de calle</td>
+			<td data-label="Región/Zona del país">Metropolitana/Centro</td>
+		</tr>
+		<tr>
+			<th scope="row">2</th>
+			<td data-label="Cód. entrevista">E3/E4</td>
+			<td data-label="Profesión">Psicología</td>
+			<td data-label="Área de intervención">Maltrato infantil grave</td>
+			<td data-label="Región/Zona del país">Antofagasta/Norte</td>
+		</tr>
+		<tr>
+			<th scope="row">3</th>
+			<td data-label="Cód. entrevista">E5/E6</td>
+			<td data-label="Profesión">Psicología</td>
+			<td data-label="Área de intervención">Maltrato infantil grave</td>
+			<td data-label="Región/Zona del país">Araucanía/Sur</td>
+		</tr>
+		<tr>
+			<th scope="row">4</th>
+			<td data-label="Cód. entrevista">E7/E8</td>
+			<td data-label="Profesión">Trabajo social</td>
+			<td data-label="Área de intervención">Maltrato infantil</td>
+			<td data-label="Región/Zona del país">Antofagasta/Norte</td>
+		</tr>
+		<tr>
+			<th scope="row">5</th>
+			<td data-label="Cód. entrevista">E9/E10</td>
+			<td data-label="Profesión">Psicología</td>
+			<td data-label="Área de intervención">Exclusión escolar</td>
+			<td data-label="Región/Zona del país">Los Lagos/Sur</td>
+		</tr>
+		<tr>
+			<th scope="row">6</th>
+			<td data-label="Cód. entrevista">E11/E12</td>
+			<td data-label="Profesión">Psicología</td>
+			<td data-label="Área de intervención">Maltrato infantil</td>
+			<td data-label="Región/Zona del país">Antofagasta/Norte</td>
+		</tr>
+		<tr>
+			<th scope="row">7</th>
+			<td data-label="Cód. entrevista">E13/E14</td>
+			<td data-label="Profesión">Trabajo social</td>
+			<td data-label="Área de intervención">Maltrato infantil grave</td>
+			<td data-label="Región/Zona del país">Arica y Parinacota /Norte</td>
+		</tr>
+		<tr>
+			<th scope="row">8</th>
+			<td data-label="Cód. entrevista">E15/E16</td>
+			<td data-label="Profesión">Pedagogía</td>
+			<td data-label="Área de intervención">Explotación sexual infantil y adolescente</td>
+			<td data-label="Región/Zona del país">Valparaíso/Centro</td>
+		</tr>
+		<tr>
+			<th scope="row">9</th>
+			<td data-label="Cód. entrevista">E17/E18</td>
+			<td data-label="Profesión">Trabajo social</td>
+			<td data-label="Área de intervención">Exclusión escolar</td>
+			<td data-label="Región/Zona del país">Valparaíso/Centro</td>
+		</tr>
+		<tr>
+			<th scope="row">10</th>
+			<td data-label="Cód. entrevista">E19</td>
+			<td data-label="Profesión">Trabajo social</td>
+			<td data-label="Área de intervención">Exclusión social de adultos mayores y violencia de género</td>
+			<td data-label="Región/Zona del país">Los Lagos/Sur</td>
+		</tr>
+		<tr>
+			<th scope="row">11</th>
+			<td data-label="Cód. entrevista">E20</td>
+			<td data-label="Profesión">Psicología</td>
+			<td data-label="Área de intervención">Salud comunitaria</td>
+			<td data-label="Región/Zona del país">Biobío/Sur</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>Tabla con otro modelo</p>
 <table class="dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped dcf-w-100%">
 	<thead>
 		<tr>
@@ -331,14 +522,14 @@
 <p class="titulo-figura">Caracterización de los/as participantes</p>
 
 <h2 id="procedimiento">Procedimiento</h2>
-<p>Luego de un estudio piloto, optamos por focalizar las entrevistas en la exploración de situaciones de éxito y de fracaso en las intervenciones. Para ello, consideramos seis dimensiones analíticas: i) lo experiencial del relato (¿qué te pasaba a ti con eso?); ii) la incidencia de contextos sociales (¿habrá relación entre esto que denominas “violencia estructural” y esta familia?), institucionales (¿cómo te insertabas en ese equipo?) o situacionales (¿cómo incide la oferta de programas en la zona?); iii) márgenes de maniobra (¿hacías cosas extra a lo establecido?); iv) condicionamientos a favor/en contra de sus acciones (¿cómo funcionan las jefaturas ante esas iniciativas?); v) efectos de la acción interventiva (¿qué generabas con tus acciones?); y vi) interpelaciones a la labor profesional (¿qué pensaba la usuaria de lo que hacías?). Cada participante tuvo una o dos entrevistas. La detección de distintas posiciones de sujeto se favoreció por el uso de la <em>confrontación</em> en las entrevistas, es decir, momentos en los que pudimos contradecir y poner en tela de juicio el relato de la persona entrevistada, así como los supuestos del entrevistador (<span class="reference" data-reference-id="ref28">Kvale, 2008/2011</span>).</p>
-<p>La pandemia nos obligó a reformular el estudio y virtualizar el trabajo de campo, lo que constituye un desafío a la ética investigadora (<span class="reference" data-reference-id="ref7">Buchanan y Zimmer, 2018</span>). Consecuentemente, para la convocatoria utilizamos infografías digitales que presentan, en un lenguaje coloquial, las características del estudio, medios de contacto, el registro en video de las entrevistas y la anonimización y pseudonimización de las transcripciones. Para las entrevistas dispusimos de más de una plataforma y encuadramos el uso de la cámara para favorecer el clima entre investigador y participantes (<span class="reference" data-reference-id="ref40">Salmons, 2015</span>).</p>
+<p>Luego de un estudio piloto, optamos por focalizar las entrevistas en la exploración de situaciones de éxito y de fracaso en las intervenciones. Para ello, consideramos seis dimensiones analíticas: i) lo experiencial del relato (¿qué te pasaba a ti con eso?); ii) la incidencia de contextos sociales (¿habrá relación entre esto que denominas “violencia estructural” y esta familia?), institucionales (¿cómo te insertabas en ese equipo?) o situacionales (¿cómo incide la oferta de programas en la zona?); iii) márgenes de maniobra (¿hacías cosas extra a lo establecido?); iv) condicionamientos a favor/en contra de sus acciones (¿cómo funcionan las jefaturas ante esas iniciativas?); v) efectos de la acción interventiva (¿qué generabas con tus acciones?); y vi) interpelaciones a la labor profesional (¿qué pensaba la usuaria de lo que hacías?). Cada participante tuvo una o dos entrevistas. La detección de distintas posiciones de sujeto se favoreció por el uso de la <em>confrontación</em> en las entrevistas, es decir, momentos en los que pudimos contradecir y poner en tela de juicio el relato de la persona entrevistada, así como los supuestos del entrevistador (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref28">Kvale, 2008/2011</span>).</p>
+<p>La pandemia nos obligó a reformular el estudio y virtualizar el trabajo de campo, lo que constituye un desafío a la ética investigadora (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref7">Buchanan y Zimmer, 2018</span>). Consecuentemente, para la convocatoria utilizamos infografías digitales que presentan, en un lenguaje coloquial, las características del estudio, medios de contacto, el registro en video de las entrevistas y la anonimización y pseudonimización de las transcripciones. Para las entrevistas dispusimos de más de una plataforma y encuadramos el uso de la cámara para favorecer el clima entre investigador y participantes (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref40">Salmons, 2015</span>).</p>
 <h2 id="estrategia-de-análisis">Estrategia de análisis</h2>
-<p>De acuerdo con las recomendaciones de Sally <span class="reference" data-reference-id="ref45"><span class="reference" data-reference-id="ref45">Wiggins (2017</span>)</span>, conducimos el análisis a partir de cuatro preguntas. Según el criterio de transparencia en el reporte de estudios cualitativos (<span class="reference" data-reference-id="ref31">Levitt, 2020</span>), es importante detallarlas.</p>
+<p>De acuerdo con las recomendaciones de Sally <span class="reference" data-bs-toggle="popover" data-reference-id="#ref45"><span class="reference" data-bs-toggle="popover" data-reference-id="#ref45">Wiggins (2017</span>)</span>, conducimos el análisis a partir de cuatro preguntas. Según el criterio de transparencia en el reporte de estudios cualitativos (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref31">Levitt, 2020</span>), es importante detallarlas.</p>
 <p>La primera pregunta (¿de qué se habla?), nos condujo a la identificación de cinco tipos de formulaciones: <em>identitarias</em>, referidas a las intenciones, cualidades o principios de los/as participantes; <em>sobre otros/as profesionales</em>, sus intenciones, acciones o criterios; <em>sobre los/as usuarios/as</em>, sus trayectorias vitales, problemáticas o experiencias con otras intervenciones; <em>sobre las instituciones</em>, sus mandatos, condiciones de trabajo o propósitos; y <em>sobre la acción interventiva</em>, referidas a estrategias, propósitos o acciones concretas.</p>
-<p>La segunda pregunta, (¿cómo se dice lo que se dice?) reconoce que al hablar o escribir se llevan a cabo acciones (según <span class='reference' data-reference-id='ref37'>Jonathan Potter [1996/1998]</span>, promover versiones de la realidad, gestionar la responsabilidad, justificar, acusar, entre otras). Dichas acciones son detectables por el uso de <em>mecanismos discursivos</em>, es decir, características reconocibles y recurrentes que adopta el habla. Por ejemplo, cambiar de pronombre, hacer silencios, mostrar emociones, usar frases textuales, metaforizar o suavizar expresiones (para una revisión exhaustiva, véase <span class="reference" data-reference-id="ref45">Wiggins, 2017</span>). Nuestra premisa aquí es que ciertos usos de mecanismos discursivos determinados pueden evidenciar posiciones de sujeto.</p>
-<p>La tercera pregunta (¿desde dónde se dice lo que se dice?), nos condujo a distinguir posiciones en los relatos. Prestamos atención a su variabilidad, es decir, a aquellos momentos en los que aparecen distintas versiones de los/as interventores/as, diferenciables por sus actitudes, motivaciones, atribuciones o estados anímicos al hablar (<span class="reference" data-reference-id="ref44">Wetherell, 1998</span>). Cabe señalar que utilizamos la noción de posicionamiento como principio teórico y foco del análisis, sin centrarnos en los derechos y deberes implicados en cada posición.</p>
-<p>La cuarta pregunta (¿qué efectos ideológicos tiene el cómo se dice lo que se dice?) se basa en los <em>dilemas ideológicos</em> de Michael <span class='reference' data-reference-id='ref5'>Billig et al., (1988)</span>, que reconoce que el sentido común incluye concepciones contrapuestas del mundo. Por ello, sugiere que el habla es frecuentemente dilemática y que exige a las personas resolver las ambigüedades (<span class="reference" data-reference-id="ref4">Billig, 1987</span>). Por ejemplo, cuando los/as interventores/as argumentan a favor de la libertad de los/as usuarios/as, podrían correr el riesgo de también argumentar en contra de su seguridad. Desde aquí, identificamos <em>momentos dilemáticos</em> en los que los/as entrevistados/as gestionan más de una posición simultáneamente.</p>
+<p>La segunda pregunta, (¿cómo se dice lo que se dice?) reconoce que al hablar o escribir se llevan a cabo acciones (según <span class='reference' data-reference-id='ref37'>Jonathan Potter [1996/1998]</span>, promover versiones de la realidad, gestionar la responsabilidad, justificar, acusar, entre otras). Dichas acciones son detectables por el uso de <em>mecanismos discursivos</em>, es decir, características reconocibles y recurrentes que adopta el habla. Por ejemplo, cambiar de pronombre, hacer silencios, mostrar emociones, usar frases textuales, metaforizar o suavizar expresiones (para una revisión exhaustiva, véase <span class="reference" data-bs-toggle="popover" data-reference-id="#ref45">Wiggins, 2017</span>). Nuestra premisa aquí es que ciertos usos de mecanismos discursivos determinados pueden evidenciar posiciones de sujeto.</p>
+<p>La tercera pregunta (¿desde dónde se dice lo que se dice?), nos condujo a distinguir posiciones en los relatos. Prestamos atención a su variabilidad, es decir, a aquellos momentos en los que aparecen distintas versiones de los/as interventores/as, diferenciables por sus actitudes, motivaciones, atribuciones o estados anímicos al hablar (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref44">Wetherell, 1998</span>). Cabe señalar que utilizamos la noción de posicionamiento como principio teórico y foco del análisis, sin centrarnos en los derechos y deberes implicados en cada posición.</p>
+<p>La cuarta pregunta (¿qué efectos ideológicos tiene el cómo se dice lo que se dice?) se basa en los <em>dilemas ideológicos</em> de Michael <span class='reference' data-reference-id='ref5'>Billig et al., (1988)</span>, que reconoce que el sentido común incluye concepciones contrapuestas del mundo. Por ello, sugiere que el habla es frecuentemente dilemática y que exige a las personas resolver las ambigüedades (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref4">Billig, 1987</span>). Por ejemplo, cuando los/as interventores/as argumentan a favor de la libertad de los/as usuarios/as, podrían correr el riesgo de también argumentar en contra de su seguridad. Desde aquí, identificamos <em>momentos dilemáticos</em> en los que los/as entrevistados/as gestionan más de una posición simultáneamente.</p>
 <p>Nuestro análisis consta de tres partes. Primero, caracterizamos brevemente las seis posiciones emergentes en las entrevistas. Luego, y apoyándonos en extractos textuales, ilustramos cómo ocurren cambios de posición en una misma entrevista para terminar mostrando la ocurrencia de momentos dilemáticos.</p>
 <h1 id="análisis-y-resultados">Análisis y resultados</h1>
 <h2 id="de-lo-maquínico-a-lo-agéntico.-seis-posiciones-de-sujeto">De lo maquínico a lo agéntico. Seis posiciones de sujeto</h2>
@@ -494,12 +685,12 @@
 <p>En síntesis, las alusiones al vínculo terapéutico y otros gestos que hace en la entrevista nos permiten entender que para E4 el posicionamiento que hubiese preferido tener es el tecnocrático. Sin embargo, el riesgo que detecta en esta familia, y la información previa que de ellas encuentra en el sistema informático, son utilizados para legitimar(se) haber asumido la posición maquínica. En este sentido, a diferencia de lo ocurrido en E15, donde vemos la gestión de una subjetividad incómoda por medio de expresiones de duda, en E4 vemos el uso de justificaciones.</p>
 <h1 id="conclusiones">Conclusiones</h1>
 <p>El análisis que hemos presentado da cuenta de cómo las subjetividades profesionales toman forma por medio de seis posiciones de sujeto. Dichas posiciones muestran versiones diferentes que los/as interventores/as psicosociales ponen en juego de acuerdo con las circunstancias conversacionales que enfrentan. Constituyen sus modos de “gestionar” la subjetividad profesional incómoda, cristalizada en el marco de la racionalidad neoliberal. Además de diferentes, estas posiciones resultan opuestas, lo que profundiza las implicancias de la noción de autonomía contrariada de Christian Laval y Pierre Dardot (<span class='reference' data-reference-id='ref30'>2009/2013</span>): son posiciones diferentes que abren abanicos distintos de acción, pero la contradicción entre estas posiciones implica también una tensión de segundo orden que debe ser resuelta.</p>
-<p>Por otro lado, se destacan las lógicas de individualización propias de la racionalidad neoliberal (<span class="reference" data-reference-id="ref6">Brown, 2016</span>; <span class="reference" data-reference-id="ref24">Harvey, 2005/2007</span>). Por medio de las posiciones abnegada, empática, tecnocrática y agéntica, los/as profesionales se muestran individualmente responsables, sino hiperresponsables, de los resultados de la intervención psicosocial. Aunque en las posiciones maquínica y derrotista hay una responsabilización o agencia externa a sí mismos/as, ésta queda circunscrita a una noción abstracta respecto del mal funcionamiento del sistema o a la indisposición, también individualizada, de otros/as profesionales implicados/as en la intervención. En suma, las expresiones asociadas a las diferentes posiciones terminan por reificar la lógica individualizante de la racionalidad neoliberal.</p>
-<p>Sin embargo, también hemos constatado momentos en los que podemos distinguir posiciones simultáneas y en conflicto. Esto muestra que además de relacional, discursiva y precaria, las posiciones de sujeto de los participantes son dilemáticas (<span class='reference' data-reference-id='ref5'>Billig et al., 1998</span>). Esto es un resultado no previsto en este estudio y que pone tensión sobre cómo entender la posición de sujeto, dado el carácter ideológicamente ambiguo de las posiciones que adoptan los/las participantes del estudio. En este sentido, el uso de expresiones de duda, justificaciones o renuncias para la gestión del conflicto entre posiciones nos conduce a plantear que en las entrevistas nos encontramos con una <em>implicación emocional contrariada</em>, si consideramos que las tensiones cotidianas de esta labor introducen una interpelación afectiva (<span class="reference" data-reference-id="ref21">García-Meneses et al., 2021</span>). Aunque en nuestro estudio no nos hemos enfocado en corroborar que esta interpelación moviliza prácticas de resistencia profesional, sino en mostrar cómo se encuadra y reencuadra la situación conversacional para “gestionar” el habla dilemática (<span class="reference" data-reference-id="ref4">Billig, 1987</span>).</p>
+<p>Por otro lado, se destacan las lógicas de individualización propias de la racionalidad neoliberal (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref6">Brown, 2016</span>; <span class="reference" data-bs-toggle="popover" data-reference-id="#ref24">Harvey, 2005/2007</span>). Por medio de las posiciones abnegada, empática, tecnocrática y agéntica, los/as profesionales se muestran individualmente responsables, sino hiperresponsables, de los resultados de la intervención psicosocial. Aunque en las posiciones maquínica y derrotista hay una responsabilización o agencia externa a sí mismos/as, ésta queda circunscrita a una noción abstracta respecto del mal funcionamiento del sistema o a la indisposición, también individualizada, de otros/as profesionales implicados/as en la intervención. En suma, las expresiones asociadas a las diferentes posiciones terminan por reificar la lógica individualizante de la racionalidad neoliberal.</p>
+<p>Sin embargo, también hemos constatado momentos en los que podemos distinguir posiciones simultáneas y en conflicto. Esto muestra que además de relacional, discursiva y precaria, las posiciones de sujeto de los participantes son dilemáticas (<span class='reference' data-reference-id='ref5'>Billig et al., 1998</span>). Esto es un resultado no previsto en este estudio y que pone tensión sobre cómo entender la posición de sujeto, dado el carácter ideológicamente ambiguo de las posiciones que adoptan los/las participantes del estudio. En este sentido, el uso de expresiones de duda, justificaciones o renuncias para la gestión del conflicto entre posiciones nos conduce a plantear que en las entrevistas nos encontramos con una <em>implicación emocional contrariada</em>, si consideramos que las tensiones cotidianas de esta labor introducen una interpelación afectiva (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref21">García-Meneses et al., 2021</span>). Aunque en nuestro estudio no nos hemos enfocado en corroborar que esta interpelación moviliza prácticas de resistencia profesional, sino en mostrar cómo se encuadra y reencuadra la situación conversacional para “gestionar” el habla dilemática (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref4">Billig, 1987</span>).</p>
 <p>De este modo, aunque es contraintuitivo, ni la posición agéntica implica necesariamente una oposición efectiva a la racionalidad neoliberal, ni la posición maquínica implica su automática reproducción. La ambigüedad ideológica de una misma posición admite que desde cada una de ellas se pueda ejercer reproducción o resistencia, e incluso que reproducción y resistencia puedan ocurrir al mismo tiempo.</p>
-<p>Aunque nuestro estudio apunta a complejizar el binarismo reproducir/resistir, vemos que individualizar o colectivizar el rol profesional parece ser una dualidad políticamente significativa respecto de los efectos subjetivadores de la racionalidad neoliberal. Esto es importante dado que la lógica individualizante de la racionalidad neoliberal implica también un principio de agencia: el sujeto neoliberal se percibe como un sujeto autónomo (<span class="reference" data-reference-id="ref33">Lorey, 2016</span>) que incluso puede ser capaz de transformar su libertad en sacrificio (<span class="reference" data-reference-id="ref6">Brown, 2016</span>). Aunque excede los propósitos de este estudio, esto muestra la necesidad de una aproximación performativa al concepto de agencia y una perspectiva de la autonomía que connote el valor de los vínculos con otras personas (<span class="reference" data-reference-id="ref33">Lorey, 2016</span>).</p>
+<p>Aunque nuestro estudio apunta a complejizar el binarismo reproducir/resistir, vemos que individualizar o colectivizar el rol profesional parece ser una dualidad políticamente significativa respecto de los efectos subjetivadores de la racionalidad neoliberal. Esto es importante dado que la lógica individualizante de la racionalidad neoliberal implica también un principio de agencia: el sujeto neoliberal se percibe como un sujeto autónomo (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref33">Lorey, 2016</span>) que incluso puede ser capaz de transformar su libertad en sacrificio (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref6">Brown, 2016</span>). Aunque excede los propósitos de este estudio, esto muestra la necesidad de una aproximación performativa al concepto de agencia y una perspectiva de la autonomía que connote el valor de los vínculos con otras personas (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref33">Lorey, 2016</span>).</p>
 <p>Nuestro análisis da cuenta de las características que adopta la subjetivación neoliberal, específicamente en términos de una subjetividad profesional incómoda. Al ser incómoda y albergar dilemas, emergen brechas a la lógica neoliberal desde la agencia performada de manera colectiva —con otros/as profesionales o usuarios/as— que posibilitan un horizonte transformador. Dicho horizonte, aún contrariado, nos muestra las contingencias del dispositivo de intervención psicosocial a partir de la reflexividad de los relatos de los/as participantes. Considerando las limitaciones que introdujo la pandemia a las características metodológicas de este estudio, que nos obligó a reducir el trabajo de campo a entrevistas, esto invita a la realización de estudios focalizados en las posiciones emergentes en la práctica interventiva.</p>
-<p>Finalmente, hay dos maneras de leer este estudio. Una, como una investigación con valor teórico dada la diversa, cambiante y contradictoria forma que adoptan las subjetividades profesionales, que se presentan como subjetividades liminares (<span class="reference" data-reference-id="ref41">Stenner, 2017</span>), <em>subjetividades-entre,</em> constituidas en la contradicción que funde, superpone o mezcla posiciones que sólo se pueden distinguir en abstracto. Esta cualidad de la subjetividad profesional implica una contribución significativa para el debate estructura versus agencia: los efectos subjetivadores de la racionalidad neoliberal no son lineales, la agencia no es reductible a la resistencia y la subjetividad profesional toma diferentes formas en el contexto de la intervención psicosocial. Dado que las posiciones no son formas de ser, más bien constituyen maneras de responder a determinadas situaciones, este estudio invita a la realización de otros análisis de las posiciones de sujeto disponibles en contextos no (tan) neoliberales.</p>
+<p>Finalmente, hay dos maneras de leer este estudio. Una, como una investigación con valor teórico dada la diversa, cambiante y contradictoria forma que adoptan las subjetividades profesionales, que se presentan como subjetividades liminares (<span class="reference" data-bs-toggle="popover" data-reference-id="#ref41">Stenner, 2017</span>), <em>subjetividades-entre,</em> constituidas en la contradicción que funde, superpone o mezcla posiciones que sólo se pueden distinguir en abstracto. Esta cualidad de la subjetividad profesional implica una contribución significativa para el debate estructura versus agencia: los efectos subjetivadores de la racionalidad neoliberal no son lineales, la agencia no es reductible a la resistencia y la subjetividad profesional toma diferentes formas en el contexto de la intervención psicosocial. Dado que las posiciones no son formas de ser, más bien constituyen maneras de responder a determinadas situaciones, este estudio invita a la realización de otros análisis de las posiciones de sujeto disponibles en contextos no (tan) neoliberales.</p>
 <p>Otra, de valor práctico, es entender las posiciones como expresiones de la incomodidad impuesta por las políticas neoliberales. En este sentido es notable que los/as participantes hayan valorado nuestro estudio como un espacio de denuncia de sus tensiones y dilemas. Esto invita a la realización de estudios con metodologías participativas que favorezcan la colectivización del malestar profesional y a la revisión respecto de cómo la formación de profesionales favorece posicionamientos que se entiendan (por una razón u otra) como preferibles.</p>
 <h1 id="financiamiento">Financiamiento</h1>
 <p>Este artículo contó con financiamiento de la Agencia Nacional de Investigación y el Desarrollo (ANID)/Subdirección de Capital Humano/Becas de Doctorado en el Extranjero, Becas Chile/2018–72190260.</p>
@@ -550,27 +741,55 @@
 <div id="ref44"><p class="details">Wetherell, Margaret (1998). Positioning and Interpretative Repertoires: Conversation Analysis and Post-Structuralism in Dialogue. <em>Discourse &amp; Society, 9</em>(3), 387-412. <a href="https://doi.org/10.1177/0957926598009003005"><u>https://doi.org/10.1177/0957926598009003005</u></a></p></div>
 <div id="ref45"><p class="details">Wiggins, Sally (2017). <em>Discursive psychology: Theory, method, and applications</em>. SAGE.</p></div>
 <!-- END REFERENCES -->
+</div> 
 </main>
-</div>
-
-<!-- Cuadro de referencia emergente -->
-<div class="reference-popup" id="reference-popup">
-    <i class="close-icon fas fa-times" id="close-icon"></i>
-    <p id="popup-reference-details">Detalles de la Referencia Bibliográfica.</p>
-    <a id="go-to-reference-list" href="#">Ir a la lista de referencias</a>
-</div>
-
-<!-- <script src="../assets/articulo.js"></script> -->
-<script src="https://publicacions.uab.cat/common/journal/athenea/articulo.js"></script>
-
-<!-- Popup imagen -->
-<div class="popup-imagen" id="popup-imagen">
-    <div class="popup-content">
-        <img src="" alt="Imagen a tamaño completo" id="popup-image">
-        <p class="numero-figura" id="popup-numero"></p>
-        <p class="titulo-figura" id="popup-titulo"></p>
-        <i class="fas fa-times" id="close-button"></i>
-    </div>
-</div>
 </body>
+
+
+
+<!-- Ventanas modales -->
+
+<!-- Ventana modal sidebar -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h1 class="modal-title fs-5" id="exampleModalLabel"></h1>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          
+        </div>
+        <div class="modal-body" id="modal-content">
+          <!-- Contenido del modal será insertado aquí -->
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+<!-- fin ventana modal sidebar -->
+
+
+
+
+<!-- Modal imagen-->
+<div class="modal fade" id="ModalImage" tabindex="-1" role="dialog" aria-labelledby="modalImageLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="modalImageLabel"></h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar">
+          </button>
+        </div>
+        <div class="modal-body text-center" id="modal-image-content">
+          <!-- Contenido de la imagen será insertado aquí -->
+        </div>
+      </div>
+    </div>
+  </div>
+<!-- Fin modal imagen -->
+
+
+<script src="assets/articulo.js"></script>
+
 </html>
