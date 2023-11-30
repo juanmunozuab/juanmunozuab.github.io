@@ -231,10 +231,9 @@ color: #2F99CB;
   border: none;
 }
 
-.lista-horizontal li {
+/* .lista-horizontal li { */
   /* text-align: center; */
- 
-  }
+   /* } */
 
 .lista-horizontal ul{
     list-style: none;
@@ -269,55 +268,7 @@ margin-left: 2em;
 
 }
 
-/* Tablas */
-table {
-width: 95%;
-margin-left: auto;
-margin-right: auto;
-border-collapse: collapse;
-border-top: 1px solid;
-/* border-bottom:: 5px solid red; */
-margin-top: 2rem;
-font-family: "Merriweather Sans", sans-serif;
-font-weight: lighter;
-}
 
-td {
-padding: 8px;
-text-align: center;
-vertical-align: top;
-}
-
-th[scope=col]{
-padding: 8px;
-vertical-align: top;
-border-bottom: 1px solid #000; /* Línea inferior en la cabecera */
-font-weight: bold;
-text-align: center;
-}
-
-th[scope=row]{
-padding: 8px;
-vertical-align: top;
-font-weight: bold;
-text-align: left;
-}
-
-/* tr:last-child td, tr:last-child th {
-border-bottom: 1px solid #000; /* Línea superior en el cuerpo de la tabla */
-} */
-
-
-tr.header{
-text-align: center;
-}
-
-.tabla-texto td{
-text-align: left;
-/* text-indent: -1.5rem;
-padding-left: 1.5rem; */
-/* border-right: 1px solid; */
-}
 
 /* Centra las figuras */
 img.articulo-img, a.articulo-img{
@@ -340,7 +291,7 @@ caption {
   border-bottom: 2px solid; 
 }
 
-td.numero-figura
+td.numero-figura {
   border-bottom: none;
 }
 
@@ -408,7 +359,7 @@ margin-top: -1rem;
     border: 1px solid black;
 }
 
-.popup-imagen .fa-times, {
+.popup-imagen .fa-times {
     position: absolute;
     top: 10px;
     right: 10px;
@@ -416,10 +367,11 @@ margin-top: -1rem;
     cursor: pointer;
 }
 
-.popup-imagen img {
+/* .popup-imagen img { */
     /* max-width: 100%; */
     /* border: 1px solid black; */
-}
+/* } */
+
 .centrado{
 text-align: center;
 }
@@ -445,7 +397,7 @@ font-family: "Merriweather Sans", sans-serif;
 }
 
 #revista {
-  flex: 0 0 90%; Establece un ancho máximo del 90% sin crecer ni encoger
+  flex: 0 0 90%; /* Establece un ancho máximo del 90% sin crecer ni encoger
   max-width: 90%; /* Establece un ancho máximo del 90% */
   padding-left: 25px;
 }
@@ -455,7 +407,7 @@ font-family: "Merriweather Sans", sans-serif;
   border-bottom: none;
 }
 #libro{
-  flex: 0 0 40%; Establece un ancho máximo del 90% sin crecer ni encoger
+  flex: 0 0 40%; /*Establece un ancho máximo del 90% sin crecer ni encoger
   max-width: 90%; /* Establece un ancho máximo del 90% */
   padding-left: 25px;
   font-weight: lighter;
@@ -508,7 +460,7 @@ p.titulo-extracto{
   display: none;
   position: absolute;
   /* top: 30px;
-  left: 10px; */ */
+  left: 10px; */ 
   padding: 10px;
   background-color: #fff;
   border: 1px solid #ccc;
@@ -552,34 +504,92 @@ p.titulo-extracto{
     --bs-popover-font-size: 1rem;
   }
 
-  @media (min-width: 767px) {
+  .h-sm-100{
+    width: 0%;
+  } 
+  
+  /* @media (min-width: 767px) { */
+ /* @media (min-width: 576px) {
     .h-sm-100 {
         height: 100%;
     }
-}
+    .sticky-top{
+      height: 100%;
+    }
+} */
   /* Estilo para dispositivos normales */
-.sticky-top {
+/* .sticky-top {
   max-width: 64px;
-}
+} */
 
 /* Estilo para dispositivos móviles */
-@media (max-width: 767px) {
+/* @media (max-width: 767px) {
   .sticky-top {
     position: fixed;
     max-width: 100%;
   }
-}
+}  */
 
-/* Estilo para dispositivos móviles */
-/* @media (max-width: 767px) {
-.sticky-top {
-position: fixed;
-top: 0;
-left: 0;
-z-index: 1030;
-max-width: 100%; 
-}
-} */
-.sticky-top{
+
+/* .sticky-top{
   font-size: 2em;
-}
+} */
+
+/* .bi, .ai, .fs-12{
+  font-size: 1.5rem;
+  margin-right: 1rem;
+} */
+/* 
+
+
+
+/* TABLAS */
+
+/* Tablas */
+/* table {
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse;
+  border-top: 1px solid;
+  margin-top: 2rem;
+  font-family: "Merriweather Sans", sans-serif;
+  font-weight: lighter;
+  } */
+  
+  /* td {
+  padding: 8px;
+  text-align: center;
+  vertical-align: top;
+  } */
+  
+  /* th[scope=col]{
+  padding: 8px;
+  vertical-align: top;
+  border-bottom: 1px solid #000; /* Línea inferior en la cabecera */
+  /* font-weight: bold; */
+  /* text-align: center; */
+  /* } */
+  
+  /* th[scope=row]{
+  padding: 8px;
+  vertical-align: top;
+  font-weight: bold;
+  text-align: left;
+  } */
+  
+   /* tr:last-child td, tr:last-child th { */
+  /* border-bottom: 1px solid #000; Línea superior en el cuerpo de la tabla */
+  /* }  */
+  
+  
+  /* tr.header{
+  text-align: center;
+  } */
+  
+  /* .tabla-texto td{
+  text-align: left; */
+  /* text-indent: -1.5rem;
+  padding-left: 1.5rem; */
+  /* border-right: 1px solid; */
+  }
