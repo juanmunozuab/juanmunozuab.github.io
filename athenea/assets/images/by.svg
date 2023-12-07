@@ -41,7 +41,7 @@
      id="base"
      fill="#000000"
      inkscape:zoom="2.0000001"
-     inkscape:cx="25.891768"
+     inkscape:cx="-59.608228"
      inkscape:cy="40.75028"
      inkscape:window-x="0"
      inkscape:window-y="53"
@@ -61,23 +61,23 @@
     <g
        id="g6525"
        transform="matrix(1.924384,0,0,1.924384,-12.613145,-31.344635)"
-       style="fill:#44bdf2;fill-opacity:1;stroke:none;stroke-width:0.51964682;stroke-opacity:1">
+       style="fill:#1e6292;fill-opacity:1;stroke:none;stroke-width:0.51964682;stroke-opacity:1">
       <circle
          transform="translate(-0.0625,0.185547)"
          id="path2838"
-         style="opacity:1;fill:#44bdf2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0155894;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#1e6292;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0155894;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          cx="32.0625"
          cy="15.75"
          r="4.625" />
       <path
          sodipodi:nodetypes="ccccssccssccc"
          d="m 27.215125,52.689453 h 9.56975 V 37.310548 h 2.893008 c 0,0 -0.0011,-10.990367 0,-12.720111 -0.0028,-0.456306 0.04119,-1.365057 -0.620739,-2.026989 -0.661932,-0.661932 -1.555399,-0.621804 -2.02699,-0.620739 -0.47159,0.0011 -9.588717,0.0011 -10.060308,0 -0.471591,-0.0011 -1.365057,-0.04119 -2.026989,0.620739 -0.661933,0.661932 -0.617898,1.570683 -0.620739,2.026989 0.0011,1.729744 0,12.720111 0,12.720111 h 2.893007 z"
-         style="opacity:1;fill:#44bdf2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.51964682px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="opacity:1;fill:#1e6292;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.51964682px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="path3572"
          inkscape:connector-curvature="0" />
     </g>
     <circle
-       style="fill:none;stroke:#44bdf2;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#1e6292;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        cx="48.967144"
        cy="30.235653"
        r="64"

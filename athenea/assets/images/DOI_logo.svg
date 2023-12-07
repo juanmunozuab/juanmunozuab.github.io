@@ -42,7 +42,7 @@
      showgrid="false"
      inkscape:snap-global="false"
      inkscape:zoom="3.6307692"
-     inkscape:cx="72.573672"
+     inkscape:cx="25.476214"
      inkscape:cy="39.525266"
      inkscape:window-x="1280"
      inkscape:window-y="0"
@@ -53,7 +53,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0" />
   <circle
-     style="fill:none;stroke:#44bdf2;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#1e6292;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      cx="68"
      cy="68"
      r="64"
@@ -73,17 +73,17 @@
     <g
        id="g925">
       <path
-         style="fill:#44bdf2;fill-opacity:1;stroke:none"
+         style="fill:#1e6292;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0"
          id="path1"
          d="M 94,62.899994 H 77.899994 V 96.299988 108.79999 C 71.100006,99.299988 63.5,94.700012 53.199997,94.700012 c -21,0 -33.300003,14.799988 -33.300003,39.499998 0,24.19998 13.600006,39.5 32.5,39.5 11.5,0 19.300003,-4.1 25.100006,-13.6 l -0.399994,10.69998 h 21 V 62.899994 Z M 59.800003,154.70001 c -11.5,0 -18.5,-7.80002 -18.5,-21 0,-13.6 7,-21.40002 18.5,-21.40002 11.099991,0 18.5,7.80002 18.5,21.40002 0,13.19998 -6.900009,21 -18.5,21 z" />
       <path
-         style="fill:#44bdf2;fill-opacity:1;stroke:none"
+         style="fill:#1e6292;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0"
          id="path2"
          d="m 145.5,173.60001 c -24.29999,0 -40.5,-17 -40.5,-38.9 0,-21.5 16.60001,-38.900022 40.5,-38.900022 23.89999,0 40.10001,16.600002 40.10001,38.900022 0,21.9 -16.60001,38.9 -40.10001,38.9 z m -0.39999,-58.4 c -11.70002,0 -19,7.69998 -19,19.4 0,11.69998 7.29998,19.39999 19,19.39999 11.69998,0 19,-7.70001 19,-19.39999 0.1,-11.70002 -7.20002,-19.4 -19,-19.4 z" />
       <path
-         style="fill:#44bdf2;fill-opacity:1;stroke:none"
+         style="fill:#1e6292;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0"
          id="path3"
          d="m 203,62.899994 c 6.89999,0 12.20001,5.300018 12.20001,12.200012 C 215.20001,82 209.5,87.700012 203,87.700012 c -6.89999,0 -12.20001,-6.100006 -12.20001,-12.600006 0.1,-6.5 5.30002,-12.200012 12.20001,-12.200012 z m -10.5,36 h 21.10001 V 171 H 192.5 Z" />
