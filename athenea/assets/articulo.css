@@ -167,17 +167,16 @@ text-align: center;
 text-align: center;
 }
 
-
+/*
 #cabecera, #reseña{
 font-family: "Merriweather Sans", sans-serif;
 padding-bottom: 12px;
-
   display: flex;
   max-width: 100%;
-  /* background-color: #f5f5f5; */
   border-bottom: 1px solid grey;
   align-items: flex-end;
 }
+*/
 
 #logo {
   flex: 0 0 10%; /* Establece un ancho máximo del 20% sin crecer ni encoger */
