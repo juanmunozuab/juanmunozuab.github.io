@@ -8,7 +8,7 @@ body {
 text-justify: inter-word;
 }
 
-h1, h2, h3, h4, h5 {
+h1, h2, h3 {
 text-align: left;
 /* font-family: "Merriweather Sans", sans-serif; */
 margin-top: 40pt;
@@ -252,23 +252,33 @@ p.titulo-extracto{
     height: auto;
   }
 
+  .autores {
+    margin-bottom: 2rem;
+  }
+
+  .keywords{
+    margin-top: 1rem;
+  }
 /* Modificación bootstrap */
 .h4, .h5, .h6{
   text-align: left;
 }
 
-.h4, .h5, .h6{
-  margin-top: 1rem;
-  margin-bottom: 2rem;
+/* .h4, .h5, .h6{ */
+  /* margin-top: 1rem; */
+  /* margin-bottom: 2rem; */
 }
 .nav-link{
   color: #44BDF2;
 }
 
- .modal-content h4 {
+ /* .modal-content h4{
   margin-top: 12pt;
-}
+} */
 
+.card.h4{
+  margin-bottom: 0pt;
+}
   /* Cambio ancho barra menú vertical */
   /* .col-xl-2{
     flex: 0 0 auto;
