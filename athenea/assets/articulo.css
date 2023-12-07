@@ -265,6 +265,10 @@ p.titulo-extracto{
   color: #44BDF2;
 }
 
+ .modal-content h4 {
+  margin-top: 12pt;
+}
+
   /* Cambio ancho barra menú vertical */
   /* .col-xl-2{
     flex: 0 0 auto;
