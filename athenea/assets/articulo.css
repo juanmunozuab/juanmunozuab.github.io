@@ -79,15 +79,18 @@ margin-bottom: 2rem;
 
 /* Estilos para los enlaces */
 a , .info-trigger{
-  color: #0073e6;
+  color: #1E6292;
   text-decoration: none;
   cursor: pointer;
 }
 
-a:hover {
+a:visited {
   text-decoration: underline;
 }
 
+a:active {
+  color: #1E6292;
+}
 #revista, #revista a{
   font-size: 1.5rem;
   color: #2F99CB;
@@ -107,12 +110,11 @@ color: #2F99CB;
   cursor: pointer;
 }
 
-
-
 /* Formato de referencias */
 p.details{
 text-indent: -2em;
 margin-left: 2em;
+text-align: left;
 /* font-weight: lighter; */
 }
 
@@ -167,7 +169,7 @@ text-align: center;
 text-align: center;
 }
 
-/*
+/* 
 #cabecera, #reseña{
 font-family: "Merriweather Sans", sans-serif;
 padding-bottom: 12px;
@@ -175,8 +177,7 @@ padding-bottom: 12px;
   max-width: 100%;
   border-bottom: 1px solid grey;
   align-items: flex-end;
-}
-*/
+} */
 
 #logo {
   flex: 0 0 10%; /* Establece un ancho máximo del 20% sin crecer ni encoger */
@@ -209,6 +210,10 @@ color: #2e98ca;
 
 #info-num a:hover{
 color: #0073e6;
+}
+
+.bi:hover, nav-link:hover{
+  color: #0073e6;
 }
 
 .extracto{
@@ -268,12 +273,21 @@ p.titulo-extracto{
   /* margin-bottom: 2rem; */
 }
 .nav-link{
-  color: #44BDF2;
+  color: #1E6292;
+}
+
+.bi{
+  color: #1E6292;
+}
+
+.modal-content{
+  text-align: left;
 }
 
  /* .modal-content h4{
   margin-top: 12pt;
 } */
+
 
 .card.h4{
   margin-bottom: 0pt;
